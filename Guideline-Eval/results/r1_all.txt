@@ -1,0 +1,33 @@
+System ID: reference, Mean: 3.65, Std: 1.09, Valid response number: 20
+System ID: 4-Baseline, Mean: 4.00, Std: 1.12, Valid response number: 20
+System ID: 3.5-G_O_A→B, Mean: 3.20, Std: 1.47, Valid response number: 20
+System ID: 3.5-Baseline, Mean: 4.00, Std: 0.86, Valid response number: 20
+System ID: 4-G_O_A→B, Mean: 4.15, Std: 0.93, Valid response number: 20
+System ID: BARThez, Mean: 1.70, Std: 1.13, Valid response number: 20
+CSV file './results/r1_faithfulness.csv.csv' created successfully.
+
+System ID: reference, Mean: 4.35, Std: 1.09, Valid response number: 20
+System ID: 4-Baseline, Mean: 4.40, Std: 0.82, Valid response number: 20
+System ID: 3.5-G_O_A→B, Mean: 4.00, Std: 1.30, Valid response number: 20
+System ID: 3.5-Baseline, Mean: 4.60, Std: 0.75, Valid response number: 20
+System ID: 4-G_O_A→B, Mean: 4.45, Std: 0.76, Valid response number: 20
+System ID: BARThez, Mean: 2.00, Std: 1.65, Valid response number: 20
+CSV file './results/r1_main_issues.csv.csv' created successfully.
+
+System ID: reference, Mean: 3.85, Std: 1.27, Valid response number: 20
+System ID: 4-Baseline, Mean: 3.42, Std: 1.39, Valid response number: 19
+System ID: 3.5-G_O_A→B, Mean: 3.75, Std: 1.21, Valid response number: 20
+System ID: 3.5-Baseline, Mean: 3.60, Std: 1.10, Valid response number: 20
+System ID: 4-G_O_A→B, Mean: 3.80, Std: 0.83, Valid response number: 20
+System ID: BARThez, Mean: 1.42, Std: 0.84, Valid response number: 19
+CSV file './results/r1_sub_issues.csv.csv' created successfully.
+
+System ID: reference, Mean: 3.15, Std: 1.81, Valid response number: 20
+System ID: 4-Baseline, Mean: 2.45, Std: 1.70, Valid response number: 20
+System ID: 3.5-G_O_A→B, Mean: 3.95, Std: 1.15, Valid response number: 20
+System ID: 3.5-Baseline, Mean: 3.35, Std: 1.73, Valid response number: 20
+System ID: 4-G_O_A→B, Mean: 3.50, Std: 1.54, Valid response number: 20
+System ID: BARThez, Mean: 1.60, Std: 1.27, Valid response number: 20
+CSV file './results/r1_resolution.csv.csv' created successfully.
+
+

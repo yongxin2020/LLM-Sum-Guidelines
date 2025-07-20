@@ -1,0 +1,34 @@
+Vous recevrez un dialogue. Vous recevrez ensuite un résumé rédigé pour ce dialogue.
+
+Votre tâche consiste à évaluer ce résumé selon un seul critère.
+
+Veuillez lire attentivement ces instructions et vous assurer de bien les comprendre. Gardez ce document ouvert pendant l’évaluation et référez-vous-y si nécessaire.
+
+
+Critère d’évaluation :
+
+Sub-issues (1-5) - Dans le résumé, il faut également noter les sous-problèmes de la conversation : lorsqu'un sous-problème apparaît dans la conversation, il peut être introduit par le client ou par les agents.
+Les niveaux de Likert en 5 points sont les suivants :
+1 : erroné ou manquant : Les sous-problèmes de l'appel sont présentés de manière incorrecte, sont manquantes ou sont complètement différentes de celles qui ont été discutées pendant l'appel.
+2 : confus : Les sous-problèmes de l'appel sont présentés de manière confuse ou ambiguë, ce qui rend difficile la compréhension des problèmes abordés pendant l'appel.
+3 : incomplet : Les sous-problèmes de l'appel sont correctement identifiés, mais la présentation manque de détails ou de contexte pour comprendre pleinement les problèmes abordés.
+4 : correct mais pourrait être amélioré : Les sous-problèmes de l'appel sont correctement identifiés et présentés de manière claire, mais il manque quelques détails ou précisions pour une compréhension complète.
+5 : précis et synthétique : Les sous-problèmes de l'appel sont présentés de manière claire, concise et précise, permettant une compréhension complète des problèmes abordés pendant l'appel.
+
+Note : Si aucun sous-problème n'est présenté dans la conversation, laissez le champ « Sub-issues » à « N/A » pour tous les résumés. 
+
+Exemple :
+
+
+Texte source :
+
+{{Document}}
+
+Résumé :
+
+{{Summary}}
+
+
+Formulaire d’évaluation (notes UNIQUEMENT) :
+
+- Sub-issues :

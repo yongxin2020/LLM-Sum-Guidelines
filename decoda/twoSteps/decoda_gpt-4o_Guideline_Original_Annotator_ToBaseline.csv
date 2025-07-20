@@ -1,0 +1,101 @@
+TestID,Summary
+FR_20091112_RATP_SCD_0826,"Un client obtient les horaires des trains RER E de Meaux à Paris, avec des départs à 16h49 et 17h19, résolvant sa demande."
+FR_20091112_RATP_SCD_0765,Un client conteste une amende RATP pour une collègue ayant perdu sa carte Navigo. L'agent propose une solution par courrier.
+FR_20091112_RATP_SCD_0268,"Un client demande un dossier Imagine+R par courrier. L'agent explique que ce n'est pas possible, mais propose des alternatives et un numéro de contact."
+FR_20091112_RATP_SCD_0346,"Le client a reçu des instructions claires pour se rendre en métro du 11ème au 20ème arrondissement de Paris, exprimant sa satisfaction."
+FR_20091112_RATP_SCD_0761,"Le client cherche à renouveler sa carte Navigo par fax, mais doit se rendre en agence; l'agent propose un numéro de gestionnaire."
+FR_20091112_RATP_SCD_0756,"Le client demande des informations sur la compensation des grèves. L'agent conseille de rappeler plus tard, aucune décision officielle n'étant encore prise."
+FR_20091112_RATP_SCD_0503,"Une cliente obtient des instructions pour se rendre à la Gare de Lyon depuis Clichy-la-Garenne en métro, résolvant son incertitude."
+FR_20091112_RATP_SCD_0779,"Le client demande une attestation Navigo pour remboursement. L'agent propose deux solutions, le client choisit d'appeler un numéro spécifique pour l'obtenir."
+FR_20091112_RATP_SCD_0870,Le client apprend qu'elle peut obtenir une réduction de 50% sur les carnets de billets grâce au travail de son mari à la RATP.
+FR_20091112_RATP_SCD_0905,"Le client obtient des instructions pour se rendre au 30 rue de Reuilly en métro, via les lignes 8 ou 1, station Reuilly-Diderot."
+FR_20091112_RATP_SCD_0758,"Un client organise un séminaire à Paris et contacte le service client pour commander des cartes de transport, transféré au service grand compte pour assistance."
+FR_20091112_RATP_SCD_0679,Une femme âgée perd ses radios et ordonnances dans le métro; l'agent conseille de contacter son médecin pour obtenir de nouveaux documents.
+FR_20091112_RATP_SCD_0897,"Un client demande un remboursement pour un trajet perturbé par des grèves. L'agent fournit des contacts pour une réclamation, sans garantie de succès."
+FR_20091112_RATP_SCD_0795,"Un demandeur d'emploi obtient des informations sur le passe Navigo Orange pour ses déplacements à Paris, choisissant de l'acquérir en agence."
+FR_20091112_RATP_SCD_0731,Une cliente signale la perte d'une trousse bleue dans un bus. L'agent suggère de contacter le service des objets trouvés à Paris.
+FR_20091112_RATP_SCD_0830,Un client signale un sac perdu dans le métro. Le service client le localise et organise sa récupération à la station Mairie d'Ivry.
+FR_20091112_RATP_SCD_0851,"Un client scolaire obtient des informations sur l'achat de cartes Paris Visite et tickets RATP pour un voyage à Paris, résolvant ainsi ses préoccupations."
+FR_20091112_RATP_SCD_0782,"Un client évite le RER B en grève, l'agent propose un itinéraire alternatif en bus et métro de Massy à Colombes, prenant environ 2h15."
+FR_20091112_RATP_SCD_0755,Un client signale un sac à dos perdu dans le RER A; l'agent fournit un contact SNCF pour poursuivre les recherches.
+FR_20091112_RATP_SCD_0813,Un client signale un gant perdu dans un bus. L'agent ne le trouve pas. Le client plaisante sur sa liste de Noël.
+FR_20091112_RATP_SCD_0783,"Un client contacte par erreur la RATP pour un problème de sécurité sociale. L'agent le redirige vers le bon numéro, le 36 46."
+FR_20091112_RATP_SCD_0810,"Un client appelle pour confirmer des incidents sur les lignes de métro 13 et 6, mais l'agent explique l'absence d'historique public des perturbations."
+FR_20091112_RATP_SCD_0327,Le client s'informe sur le tramway T2. L'agent confirme qu'il est en test et sera accessible après le 20 du mois.
+FR_20091112_RATP_SCD_0759,Le client obtient les horaires de train pour arriver à Bécon-les-Bruyères avant 9h45 et doit contacter la SNCF pour des correspondances.
+FR_20091112_RATP_SCD_0738,"Un client obtient des informations sur les bus à Fontenay-sous-Bois, prenant les lignes 127 et 124 pour son trajet."
+FR_20091112_RATP_SCD_0798,"Une femme signale un sac oublié dans le bus 123. L'agent vérifie, mais aucune information n'est disponible. Elle doit rappeler plus tard."
+FR_20091112_RATP_SCD_0796,"Un retraité RATP obtient des informations pour un tarif réduit pour son amie, mais doit contacter la caisse de retraite pour la pension de réversion."
+FR_20091112_RATP_SCD_0131,Un ancien combattant signale la perte de sa carte Émeraude. L'agent conseille d'attendre une réponse ou de vérifier auprès de la mairie.
+FR_20091112_RATP_SCD_0815,Un client cherche à organiser des transports scolaires à tarif réduit. L'agent le redirige vers un service spécialisé pour des achats en gros.
+FR_20091112_RATP_SCD_0788,Un client demande un remboursement d'abonnement Navigo pour arrêt de travail. L'agent conseille de soumettre une demande avec justificatifs malgré le délai dépassé.
+FR_20091112_RATP_SCD_0805,Le client signale une erreur de facturation pour son abonnement Imagine+R. L'agent le redirige vers le service approprié sans résoudre le problème.
+FR_20091112_RATP_SCD_0735,"Le client s'inquiète du coût des appels non indiqué. L'agent promet de signaler l'absence d'information, mais ne résout pas le problème."
+FR_20091112_RATP_SCD_0902,"Madame conteste un PV pour son fils, malgré preuves fournies, et est transférée au service de recouvrement pour résoudre le problème."
+FR_20091112_RATP_SCD_0317,"Le client signale la perte d'un téléphone Alcatel blanc dans un bus. L'agent vérifie, mais le téléphone reste introuvable."
+FR_20091112_RATP_SCD_0710,"Un client obtient des informations détaillées sur les itinéraires de transport en commun pour un trajet spécifique, incluant horaires et options de retour."
+FR_20091112_RATP_SCD_0862,"Le client a confirmé que le trafic des bus à Vitry-sur-Seine serait normal le lendemain, malgré une grève potentielle."
+FR_20091112_RATP_SCD_0747,"Un client demande la suspension ou le remboursement de son abonnement Navigo suite à une jambe cassée, nécessitant des démarches supplémentaires avec justificatifs médicaux."
+FR_20091112_RATP_SCD_0087,"Le client obtient des instructions pour rejoindre Boulogne-Billancourt en bus depuis Javel, sans métro, et remercie l'agent pour l'aide."
+FR_20091112_RATP_SCD_0775,"L'agent RATP tente de contacter un musée fermé pour un projet, mais n'obtient aucune nouvelle information utile pour avancer."
+FR_20091112_RATP_SCD_0370,Un client cherche un numéro d'infraction pour une amende; l'agent transfère l'appel pour une assistance plus approfondie. Résolution non atteinte.
+FR_20091112_RATP_SCD_0772,"Un client attend le bus 325 depuis 30 minutes. L'agent informe d'un trafic perturbé, mais un bus arrive dans huit minutes."
+FR_20091112_RATP_SCD_0816,"Le client a clarifié les zones tarifaires de la carte Intégrale avec le service client, résolvant ainsi les incohérences pour mettre à jour le logiciel de paie."
+FR_20091112_RATP_SCD_0428,Un client âgé vérifie la disponibilité des bus pour un rendez-vous chez le dentiste; l'agent confirme que les lignes fonctionnent normalement.
+FR_20091112_RATP_SCD_0829,"Un client obtient un itinéraire et le tarif pour un trajet RER de Noisiel à Bobigny, exprimant sa satisfaction envers le service rapide de la RATP."
+FR_20091112_RATP_SCD_0246,Un client s'inquiète des perturbations du RER B dues à une grève. L'agent propose une alternative en bus et métro.
+FR_20091112_RATP_SCD_0833,"Un client signale la perte d'un dossier universitaire dans un bus. Malgré les vérifications, le dossier reste introuvable. Problème non résolu."
+FR_20091112_RATP_SCD_0740,"Un client signale la perte de son portefeuille dans le métro. L'agent vérifie, mais ne le retrouve pas. L'appel se termine sans résolution."
+FR_20091112_RATP_SCD_0739,"Un client signale qu'un bus ne s'est pas arrêté, causant un retard. L'agent promet de transmettre l'incident pour enquête."
+FR_20091112_RATP_SCD_0856,"Un client contacte par erreur le service RATP pour entreprises, est redirigé vers le bon numéro pour obtenir des informations sur les cartes de transport."
+FR_20091112_RATP_SCD_0858,"Un client appelle pour résoudre un problème de carte Imagine+R inactive, cherche remboursement des frais et double prélèvement, conseillé d'écrire à Imagine+R."
+FR_20091112_RATP_SCD_0854,"Le client cherche un itinéraire vers Clichy-sous-Bois; l'agent propose un trajet complexe en transports en commun, nécessitant des recherches supplémentaires pour le théâtre."
+FR_20091112_RATP_SCD_0844,"Un client discute d'une amende de métro, cherche un remboursement, reçoit des instructions pour soumettre des documents au Service Clientèle Métro."
+FR_20091112_RATP_SCD_0988,"Le client obtient les coordonnées nécessaires pour les autorisations de prise de vue grâce à l'agent du centre d'appel, concluant l'appel positivement."
+FR_20091112_RATP_SCD_0900,"Un client frustré appelle pour des informations précises sur le trafic du RER B, l'agent propose de vérifier les horaires en temps réel."
+FR_20091112_RATP_SCD_0785,"Le client a obtenu l'emplacement exact de l'arrêt de bus 43 à Gare du Nord, satisfaisant sa demande d'information."
+FR_20091112_RATP_SCD_0742,Le client demande des infos sur le trafic de la ligne B4. L'agent informe que les détails pour demain seront disponibles après 20h.
+FR_20091112_RATP_SCD_0986,"Le client signale la perte de sa carte Navigo, retrouvée au terminus. Elle doit la récupérer à Nogent-sur-Marne avant 20h."
+FR_20091112_RATP_SCD_0745,"Le client planifie un trajet RER vers l'aéroport, l'agent fournit horaires et conseils pour vérifier d'éventuelles perturbations dues à un mouvement social."
+FR_20091112_RATP_SCD_0737,"Le client a demandé un remboursement pour des tickets de métro achetés après avoir oublié son abonnement, mais le remboursement n'était pas possible."
+FR_20091112_RATP_SCD_0754,Le client cherche un remboursement pour une carte Orange achetée suite au retard de sa carte Imagine+R; l'agent conseille de contacter Imagine+R.
+FR_20091112_RATP_SCD_0868,"Le client a confirmé l'arrêt de bus ""Grimau-Voie Verte"" pour le bus 393 à Vitry-sur-Seine, résolvant ainsi son problème."
+FR_20091112_RATP_SCD_0867,Un retraité obtient des instructions pour se rendre à la rue Taclet à Paris en utilisant les bus 102 et 60.
+FR_20091112_RATP_SCD_0468,"Un client cherche la fréquence des RER B en grève; l'agent ne peut fournir l'information, problème non résolu."
+FR_20091112_RATP_SCD_0777,Un client frustré appelle pour des perturbations de train entre Drancy et Châtelet; l'agent reconnaît les problèmes sans offrir de solution immédiate.
+FR_20091112_RATP_SCD_0036,Madame signale une écharpe oubliée dans le bus 140; l'agent conseille de rappeler à 11h pour contacter le service des objets trouvés.
+FR_20091112_RATP_SCD_0792,"Le client reçoit des instructions claires pour se rendre de Denfert-Rochereau au 36 rue d'Assas en bus, ligne 68, avec un trajet à pied."
+FR_20091112_RATP_SCD_0791,Le client cherche un itinéraire pour le Centre Cardiologique; l'agent recommande le bus 255 et fournit des instructions détaillées.
+FR_20091112_RATP_SCD_0808,"Le client a demandé le prix d'un billet entre Arcueil-Cachan et Antony. L'agent a répondu 1,55 euro, satisfaisant ainsi le client."
+FR_20091112_RATP_SCD_0764,"Le client s'informe sur d'éventuelles grèves de bus pour une personne handicapée; l'agent confirme l'absence de perturbations, rassurant ainsi le client."
+FR_20091112_RATP_SCD_0265,"Un client signale un incident de bus impliquant un chauffeur épileptique, demandant une réclamation pour choc psychologique. L'appel est transféré au directeur."
+FR_20091112_RATP_SCD_0398,Le client doit mettre à jour ses coordonnées bancaires pour son abonnement Navigo Intégrale en agence ou par téléphone pour résoudre le problème.
+FR_20091112_RATP_SCD_0803,Une cliente âgée clarifie le renouvellement de sa carte de transport RATP. L'agent rassure que sa carte est valide jusqu'en 2019. Problème résolu.
+FR_20091112_RATP_SCD_0817,Un client conteste une amende de bus liée à son passe Navigo. L'agent transfère l'appel pour clarifier des frais de cinq euros.
+FR_20091112_RATP_SCD_0778,"Un client demande des tarifs d'abonnement Paris-Creil. L'agent redirige vers la SNCF, fournissant leur numéro pour obtenir l'information souhaitée."
+FR_20091112_RATP_SCD_0863,"Un client cherche à acheter 200 tickets de métro pour un collège, mais doit ajuster sa commande pour atteindre le montant minimum requis."
+FR_20091112_RATP_SCD_0845,Un client appelle pour signaler une longue attente de bus due à une grève. L'agent confirme l'arrivée imminente des bus.
+FR_20091112_RATP_SCD_0367,Un client cherche des informations sur une grève de bus. L'agent fournit le contact d'Athis Cars pour obtenir les détails nécessaires.
+FR_20091112_RATP_SCD_0852,"Un client en stage à Paris obtient des conseils pour demander une carte Orange, incluant justificatif de domicile et attestation d'hébergement."
+FR_20091112_RATP_SCD_0771,"Un client obtient des informations sur le bus 350 pour rejoindre l'aéroport Charles de Gaulle depuis la Gare de l'Est, évitant le RER en grève."
+FR_20091112_RATP_SCD_1058,"Un client signale une boîte oubliée dans un bus; elle est retrouvée au terminus, et il est informé pour la récupérer."
+FR_20091112_RATP_SCD_0799,"Le client s'informe sur l'impact des travaux sur le bus 65 et explore des alternatives, choisissant finalement le bus malgré un trajet plus long."
+FR_20091112_RATP_SCD_0493,Un client récupère sa carte Imagine+R perdue à la station Richelieu-Drouot grâce à l'aide du service client RATP.
+FR_20091112_RATP_SCD_0886,"Le client souhaite commander des billets, mais doit passer par un chargé de clientèle pour créer un compte, car le processus n'est pas en ligne."
+FR_20091112_RATP_SCD_0732,Un client demande comment obtenir un duplicata de reçu Navigo. L'agent conseille de visiter une agence commerciale pour l'attestation nécessaire. Problème résolu.
+FR_20091112_RATP_SCD_0859,"Le client contacte le service pour suivre sa demande de carte de transport, mais doit rappeler plus tard car la personne responsable est indisponible."
+FR_20091112_RATP_SCD_0871,"Un client cherche un itinéraire pour Orly. L'agent propose bus et train via Montparnasse. Solution acceptée, client satisfait."
+FR_20091112_RATP_SCD_0865,"Le client a obtenu un itinéraire nocturne détaillé de bus à Paris, satisfaisant son besoin de se rendre du 19ème au 13ème arrondissement."
+FR_20091112_RATP_SCD_0894,Le client souhaite résilier son abonnement Navigo Intégrale; l'agent conseille de se rendre en agence pour éviter des prélèvements futurs.
+FR_20091112_RATP_SCD_0746,"Un client mécontent appelle pour des informations sur la grève du RER B, cherchant des solutions et un éventuel remboursement, sans résolution concrète."
+FR_20091112_RATP_SCD_0804,La cliente a obtenu l'horaire du dernier bus ligne 64 après clarification du point de départ avec l'agent. Problème résolu.
+FR_20091112_RATP_SCD_0824,"Le client s'informe sur le RER B vers Drancy. L'agent clarifie les interconnexions, résout les préoccupations, et le client transmettra l'information correcte."
+FR_20091112_RATP_SCD_0510,"Un client mécontent discute avec un agent des perturbations de la ligne B dues à la grève, sans résolution, exacerbant les tensions."
+FR_20091112_RATP_SCD_0898,Un agent signale une carte Imagine+R défectueuse. Le service client confirme les détails et fournit des instructions pour l'échange. Résolution positive.
+FR_20091112_RATP_SCD_0831,Un client signale des problèmes de bus à la RATP. L'agent propose d'envoyer un courrier ou de soumettre une plainte en ligne.
+FR_20091112_RATP_SCD_0773,"Un client contacte le service client pour clarifier un paiement d'amende déjà effectué, mais est transféré sans résolution immédiate."
+FR_20091112_RATP_SCD_0880,Un client demande des informations sur le bus entre les gares Saint-Lazare et de l'Est. L'agent conseille la ligne 32 et précise les tarifs.
+FR_20091112_RATP_SCD_0751,"Le client obtient des informations sur la station Bourse, ligne 3 du métro, et les connexions depuis Saint-Lazare via RER E et ligne 3."
+FR_20091112_RATP_SCD_0866,Un client demande des informations sur les zones tarifaires des cartes Orange Découverte. L'agent explique les zones concentriques autour de Paris.
+FR_20091112_RATP_SCD_0987,Un client cherche à recharger son passe Navigo Imagine R après l'avoir perdu. L'agent conseille d'essayer une borne ou un guichet.
+FR_20091112_RATP_SCD_0348,Un client signale un porte-document perdu dans un bus. L'agent conseille de vérifier au service des objets trouvés dans une semaine.

@@ -1,0 +1,16 @@
+Guideline_Original_Annotator_ToBaseline gpt-4
+Reference Variance Statistics:
+ROUGE-1 Mean: 53.3689, Std Dev: 16.7455
+ROUGE-2 Mean: 26.7326, Std Dev: 20.5672
+ROUGE-L Mean: 44.9904, Std Dev: 18.1137
+BERTScore Mean: 0.9286, Std Dev: 0.0268
+
+Model Performance:
+ROUGE-1 Mean: 35.4269
+ROUGE-2 Mean: 9.5823
+ROUGE-L Mean: 28.1811
+BERTScore Mean: 0.9025
+Model ROUGE-1 inside reference variance? No
+Model ROUGE-2 inside reference variance? Yes
+Model ROUGE-L inside reference variance? Yes
+Model BERTScore inside reference variance? Yes

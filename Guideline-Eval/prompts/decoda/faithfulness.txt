@@ -1,0 +1,32 @@
+Vous recevrez un dialogue. Vous recevrez ensuite un résumé rédigé pour ce dialogue.
+
+Votre tâche consiste à évaluer ce résumé selon un seul critère.
+
+Veuillez lire attentivement ces instructions et vous assurer de bien les comprendre. Gardez ce document ouvert pendant l’évaluation et référez-vous-y si nécessaire.
+
+
+Critère d’évaluation :
+
+Faithfulness (1-5) - Le résumé doit respecter le dialogue au niveau des informations factuelles. 
+Les niveaux de Likert en 5 points sont les suivants : 
+1 : Très peu fidèle : Le résumé contient de nombreuses erreurs factuelles et omet des informations importantes du dialogue.
+2 : Peu fidèle : Le résumé contient quelques erreurs factuelles et/ou omet certaines informations importantes du dialogue.
+3 : Moyennement fidèle : Le résumé est globalement cohérent avec le dialogue, mais contient quelques petites erreurs ou inexactitudes.
+4 : Assez fidèle : Le résumé est très proche du dialogue, avec très peu d'erreurs factuelles ou d'inexactitudes mineures. 
+5 : Très fidèle : Le résumé est parfaitement cohérent avec le dialogue, sans erreur factuelle ni omission importante. 
+
+Exemple :
+
+
+Texte source :
+
+{{Document}}
+
+Résumé :
+
+{{Summary}}
+
+
+Formulaire d’évaluation (notes UNIQUEMENT) :
+
+- Faithfulness :

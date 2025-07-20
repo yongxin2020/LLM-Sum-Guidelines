@@ -1,0 +1,32 @@
+Vous recevrez un dialogue. Vous recevrez ensuite un résumé rédigé pour ce dialogue.
+
+Votre tâche consiste à évaluer ce résumé selon un seul critère.
+
+Veuillez lire attentivement ces instructions et vous assurer de bien les comprendre. Gardez ce document ouvert pendant l’évaluation et référez-vous-y si nécessaire.
+
+
+Critère d’évaluation :
+
+Main issues (1-5) - Dans le résumé, il faut noter les sujets principaux de la conversation. C’est-à-dire les problèmes pour lesquels le client a appelé. L’identification de ces problèmes constitue la base de la classification de l'appel dans plusieurs classes différentes de motivations d'appel. Le problème principal d'un appel doit être classé par ordre de priorité pour être inclus dans le résumé du même appel.  
+Les niveaux de Likert en 5 points sont les suivants :
+1 : erroné ou manquant : Les questions principales de l'appel sont présentées de manière incorrecte, sont manquantes ou sont complètement différentes de celles qui ont été discutées pendant l'appel.
+2 : confus : Les questions principales de l'appel sont présentées de manière confuse ou ambiguë, ce qui rend difficile la compréhension des problèmes abordés pendant l'appel.
+3 : correct mais incomplet : Les questions principales de l'appel sont correctement identifiées, mais la présentation manque de détails ou de contexte pour comprendre pleinement les problèmes abordés.
+4 : correct mais pourrait être amélioré : Les questions principales de l'appel sont correctement identifiées et présentées de manière claire, mais il manque quelques détails ou précisions pour une compréhension complète.
+5 : précis et synthétique : Les questions principales de l'appel sont présentées de manière claire, concise et précise, permettant une compréhension complète des problèmes abordés pendant l'appel.
+
+Exemple :
+
+
+Texte source :
+
+{{Document}}
+
+Résumé :
+
+{{Summary}}
+
+
+Formulaire d’évaluation (notes UNIQUEMENT) :
+
+- Main issues :

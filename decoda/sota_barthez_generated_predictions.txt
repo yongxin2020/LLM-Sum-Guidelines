@@ -1,0 +1,212 @@
+Demande d'horaires de train pour aller de la gare de Meaux à Paris.
+Demande de renseignement sur la perte d'une carte Navigo suite à une infraction dans un bus de la RATP. Communication du numéro de son amende.
+Demande de renseignement sur l'existence d'un dossier pour les cartes Imagin'R. Communication du numéro du service ImagineR.
+Demande d'itinéraire en partant du trente-sept boulevard de Charonne dans le onzième pour se rendre au soixante-quatre rue de Belleville dans le vingtième.
+Demande d'informations sur le renouvellement de la carte Navigo. Communication du numéro du gestionnaire du gestionnaire.
+Demande de renseignements sur l'état du trafic du RER B. Communication du numéro du service concerné.
+Demande d'itinéraire pour se rendre à la Gare de Lyon en partant de la ligne 13 jusqu'à la mairie de Clichy. Prendre le métro 13 direction Olympiades.
+Demande d'attestation d'abonnement pour un Navigo Orange ou Intégrale. Communication du numéro de téléphone.
+Demande de renseignement sur l'obtention d'une réduction sur les titres de transport. Communication du numéro du service concerné.
+Demande de renseignement sur la station de métro la plus proche de la rue de Reuilly.
+Demande d'informations sur l'existence d'un service grand compte. Communication du numéro du service concerné.
+Demande de renseignement sur la perte de radios dans le métro. Non retrouvé.
+Demande de remboursement suite à une grève sur le RER B suite à des grèves. Communication des coordonnées du service clientèle.
+Demande de renseignement sur le tarif d'un demandeur d'emploi en formation pendant huit mois. Communication du numéro d'agence.
+Demande de renseignement sur la perte d'une petite trousse dans le bus d'Orly. Non retrouvé.
+Demande de renseignement sur la perte d'un sac dans le métro. Non retrouvé.
+Demande de renseignement sur la durée d'un voyage.
+Demande d'itinéraire pour se rendre au 3 rue d' Alger à Massy. Prendre le bus 183 direction Église de Colombes puis descendre à Porte de Clignancourt.
+sac perdu dans le RER A. Non retrouvé.
+Demande de renseignement sur la perte d'un gant marron clair. Non retrouvé.
+Demande de renseignement sur le numéro du Service clientèle de la RATP. Communication du numéro du service concerné.
+Demande d'informations sur l'état du trafic sur la ligne 13 et la ligne 6 suite à une panne de matériel.
+Demande d'informations sur la mise en circulation du T+deux de la Porte deVersailles à Val d'Issy. Communication du numéro du service concerné.
+Demande d'itinéraire pour aller demain à Bécon-les-Bruyères en passant par Saint-Lazare.
+Demande de renseignements sur l'état du trafic du RER B. Communication du numéro du service concerné.
+Demande d'itinéraire pour se rendre à la ville de Fontenay-sous-Bois en partant de la rue Victor Musso au boulevard de Verdun.
+Demande de renseignement sur la perte d'un sac en toile dans le bus 91. Non retrouvé.
+Demande d'informations sur l'état du retraité retraité de la RATP suite à un oubli de sa carte de circulation. Communication des pièces à fournir.
+Demande de renseignement sur la perte d'une carte Émeraude dans le métro. Communication du délai de retour.
+Demande de renseignement sur la possibilité de régler des problèmes de transport de classes de groupes de jeunes dans le cadre de projets. Communication du numéro du service clientèle.
+Demande de remboursement suite à une non utilisation du passe Navigo. Communication des justificatifs.
+Demande de renseignement sur l'existence d'une carte Imagin'R. Communication du numéro du service concerné.
+Demande d'informations sur la mise en circulation du T+deux de la Porte deVersailles à Val d'Issy. Communication du numéro du service concerné.
+Demande de renseignement sur le coût d'un appel téléphonique vers le service concerné.
+Demande de renseignement sur une personne qui s'occupe du recouvrement d'un PV suite à un oubli de carte Imagin'R. Communication du numéro du service recouvrement.
+Demande de renseignement sur la perte d'un téléphone portable dans l'autobus 24. Non retrouvé.
+Demande d'itinéraire pour se rendre avenue Aristide Briand au Blanc-Mesnil en direction de mairie de Drancy.
+La cliente voudrait savoir si la grève était reconduite pour demain au niveau du RER B. L'agent l'informe qu'il ne sera pas possible de faire grève.
+Demande de remboursement suite à une suspension de passe. Communication du numéro de téléphone de la carte Intégrale.
+Demande d'itinéraire pour se rendre à la station Javel à Boulogne-Billancourt. Prendre le 61 direction cimetière de Saint-Cloud.
+Demande d'informations sur le musée des transports. Communication du numéro de téléphone.
+Demande d'itinéraire en partant du trente-sept boulevard de Charonne dans le onzième pour se rendre au soixante-quatre rue de Belleville dans le vingtième.
+Demande de renseignement sur la possibilité de régler des problèmes de transport de classes de groupes de jeunes dans le cadre de projets. Communication du numéro du service clientèle.
+Demande de renseignement sur la perte d'un sac en toile dans le bus 91. Non retrouvé.
+Demande de renseignement sur l'adresse du centre de paiement RATP. Communication du numéro du service concerné.
+Demande d'informations sur le trafic du troiscentcent-vingt-cinq. Communication du temps d'attente.
+Demande d'informations sur la suppression de la carte Intégrale pour ma société dans le logiciel de paye.
+Demande de renseignements sur la grève sur la ligne de Clamart Corentin et de Corentin Montrouge. Communication du numéro de la ligne concernée.
+Demande d'itinéraire pour aller de Noisiel RER le Luzard jusqu'à Bobigny.
+Demande d'informations sur l'état du trafic du RER B. Grève reconduite.
+Demande de renseignement sur la perte d'un dossier d'inscription de la fac de ma fille dans le trente-huit mardi dernier. Non retrouvé.
+Demande de renseignement sur la perte d'un portefeuille dans le métro. Communication du numéro du service concerné.
+Demande de renseignements sur la grève sur la ligne de Clamart Corentin et de Corentin Montrouge. Communication du numéro de la ligne concernée.
+Demande de renseignement sur l'état du trafic du bus 299 à Verrières-le-Buisson. Communication du numéro du bus.
+Demande de renseignement sur les tarifs RATP sur Paris ou la zone parisienne. Communication du numéro de téléphone.
+Demande d'informations sur l'état du trafic Imagin'R suite à un souci sur le forfait Imagine+R. Communication du numéro du service concerné.
+Demande d'itinéraire pour aller au théâtre de la Porte de Saint-Cloud pour aller à Clichy-sous-Bois. Trafic normal.
+Demande de remboursement suite à une amende reçue sur la ligne 3 du métro. Communication du numéro du service concerné.
+Demande de renseignement sur la personne qui s'occupe des autorisations de prise de vue. Communication du numéro de téléphone.
+Demande d'informations sur l'état du trafic sur le RER B en ce moment. Communication des horaires.
+Demande d'informations sur l'arrêt de Gare du Nord. L'agent répond qu'il faut prendre le quarante-trois jusqu'à la rue de Dunkerque.
+Demande de renseignement sur le trafic sur la ligne B. Communication du trafic.
+Demande de renseignement sur la perte d'une carte Navigo. Communication du numéro du service concerné.
+Demande d'informations sur l'état du retraité retraité de la RATP suite à un oubli de sa carte de circulation. Communication des pièces à fournir.
+Demande d'informations sur l'état du trafic du RER B. L'agent répond qu'il faut prendre le RER B pour se rendre à l'aéroport Charles de Gaulle.
+Demande de renseignement sur l'obtention d'une réduction sur les titres de transport. Communication du numéro du service concerné.
+Demande de renseignement sur le coût d'un appel téléphonique vers le service concerné.
+Demande de remboursement suite à un oubli de ticket. Communication du numéro du service concerné.
+Demande de renseignement sur le numéro du Service clientèle de la RATP. Communication du numéro du service concerné.
+Demande de renseignement sur la perte de radios dans le métro. Non retrouvé.
+Demande de remboursement suite à un oubli de carte Orange. Communication du numéro Imagin'R.
+Demande d'itinéraire pour se rendre à la station Jules-Regnault dans à Vitry-sur-Seine.
+Demande de renseignement sur la durée d'un voyage.
+Demande de renseignement sur l'adresse du centre de paiement RATP. Communication du numéro du service concerné.
+Demande de renseignement sur la perte de radios dans le métro. Non retrouvé.
+Demande d'itinéraire pour se rendre à la mairie du vingtième. Prendre le 116 direction Gambetta.
+Demande de renseignements sur la fréquence du RER B. Aucune information disponible.
+Demande de renseignement sur la situation de l'interconnexion du RER B. Communication du numéro du service concerné.
+Demande de remboursement suite à un oubli de ticket. Communication du numéro du service concerné.
+Demande de renseignement sur l'existence d'un dossier pour les cartes Imagin'R. Communication du numéro du service ImagineR.
+Demande d'informations sur l'état du trafic du bus 133 à Colombes.
+Demande d'itinéraire pour se rendre au trente+six rue d' Assas dans Paris.
+Demande de renseignement sur la perte d'une petite trousse dans le bus d'Orly. Non retrouvé.
+Demande de renseignement sur le tarif d'un demandeur d'emploi en formation pendant huit mois. Communication du numéro d'agence.
+Demande d'itinéraire pour aller de la gare de Saint-Denis à la Clinique Cardiologique du Nord.
+Demande de remboursement suite à une suspension de passe. Communication du numéro de téléphone de la carte Intégrale.
+Demande de renseignement sur le prix d'un billet Arcueil-Cachan à Antony.
+Demande d'itinéraire pour se rendre avenue Aristide Briand au Blanc-Mesnil en direction de mairie de Drancy.
+Demande d'informations sur des grèves sur le bus center. Communication de l'adresse du service concerné.
+Demande d'informations sur l'état du trafic de la ligne quatre-vingt-six suite à une crise d' épilepsie. Communication du numéro du service concerné.
+Demande d'autorisation de prélèvement suite à un oubli de carte navigo. Communication du numéro Intégrale.
+Demande de renouvellement de carte de retraité suite à une perte d'adresse dans le métro et le bus. Communication du numéro du service concerné.
+Demande de renseignement sur la procédure à suivre suite à un problème dans le bus. Communication du numéro du service concerné.
+Demande d'informations sur l'arrêt de Gare du Nord. L'agent répond qu'il faut prendre le quarante-trois jusqu'à la rue de Dunkerque.
+Demande de remboursement suite à une amende reçue sur la ligne 3 du métro. Communication du numéro du service concerné.
+Demande de renseignement sur le prix d'un trajet Paris Creil. Communication du numéro de téléphone.
+Demande d'informations sur un voyage au collège Bobée à Yvetot en Seine-Maritime. Communication du numéro du service clientèle.
+Demande de renseignement sur la situation de l'interconnexion du RER B. Communication du numéro du service concerné.
+Demande d'informations sur l'état du trafic du RER B. Trafic perturbé.
+Demande d'autorisation de prélèvement suite à un oubli de carte navigo. Communication du numéro Intégrale.
+Demande de renseignement sur l'état du trafic des bus. Communication du numéro du service concerné.
+Demande d'informations sur l'état du trafic de la ligne quatre-vingt-six suite à une crise d' épilepsie. Communication du numéro du service concerné.
+Demande de remboursement suite à une non utilisation du passe Navigo. Communication des justificatifs.
+Demande de renseignement sur les tarifs RATP sur Paris ou la zone parisienne. Communication du numéro de téléphone.
+Demande d'informations sur l'obtention d'une carte Orange. Communication des pièces à fournir.
+Demande de renseignement sur la station de métro la plus proche de la rue de Reuilly.
+Demande d'itinéraire au départ de la Gare de l'Est pour Roissy.
+Demande de remboursement suite à un oubli de carte Orange. Communication du numéro Imagin'R.
+Demande de renseignement sur la perte d'une boîte dans le bus deux cent quatre-vingt-un. Communication du numéro du service concerné.
+Demande d'informations sur la circulation de la ligne 63 en partant de la mairie d'Aubervilliers.
+Demande de renseignement sur la procédure à suivre suite à un problème dans le bus. Communication du numéro du service concerné.
+Demande de renseignement sur l'état du trafic du métro huit à l'arrêt Richelieu Richelieu Richelieu-Drouot. Communication du numéro du service clientèle.
+Demande d'itinéraire au départ de la Gare de l'Est pour Roissy.
+Demande d'informations sur la suppression de la carte Intégrale pour ma société dans le logiciel de paye.
+Demande de renseignement sur la perte d'une carte Navigo. Communication du numéro du service concerné.
+Demande de renseignement sur l'existence d'un espace jeunesse de Vélizy-Villacoublay. Communication du numéro du service clientèle.
+Demande d'informations sur l'état du trafic du RER B. L'agent répond qu'il faut prendre le RER B pour se rendre à l'aéroport Charles de Gaulle.
+Demande de renseignement sur le prix d'un billet Arcueil-Cachan à Antony.
+Demande d'informations sur la procédure à suivre pour obtenir un duplicata de son passe navigo. Communication du numéro d'agence.
+Demande d'itinéraire pour aller de la gare de Saint-Denis à la Clinique Cardiologique du Nord.
+Demande de renseignements sur la procédure à suivre pour une carte de famille d'agent. Communication du numéro du service concerné.
+Demande de renseignement sur la perte d'un dossier d'inscription de la fac de ma fille dans le trente-huit mardi dernier. Non retrouvé.
+Demande de renseignements sur la fréquence du RER B. Aucune information disponible.
+Demande d'itinéraire pour aller à Clamard à Estienne d'Orves.
+Demande de renseignements sur la procédure à suivre pour une carte de famille d'agent. Communication du numéro du service concerné.
+Demande de renseignement sur l'état du trafic des bus. Communication du numéro du service concerné.
+Demande d'informations sur l'état du trafic du bus 133 à Colombes.
+Demande d'itinéraire en partant de Paris 10-neuvième arrondissement. Prendre le 116 rue de l' Équerre à partir de la station Port Royal-Berthollet.
+Demande d'informations sur la suspension de la carte Navigo. Communication du numéro du service concerné.
+Demande de renseignement sur l'état du trafic RER B. Grève reconduite.
+Demande de renseignement sur le trafic sur la ligne B. Communication du trafic.
+Demande de renseignements sur le dernier bus 63 au départ de de la Porte de Vincennes.
+Demande d'informations sur la suspension de la carte Navigo. Communication du numéro du service concerné.
+Demande de renseignement sur l'état du trafic RER B. Grève reconduite.
+Demande d'informations sur l'état du trafic du bus 133 à Colombes.
+Demande d'informations sur l'interconnexion du RER B. Communication du numéro du service concerné.
+Demande d'informations sur la grève du RER B suite à un accident sur la ligne B. Communication des prévisions pour demain.
+Demande d'informations sur l'interconnexion du RER B. Communication du numéro du service concerné.
+Demande de renouvellement de carte de retraité suite à une perte d'adresse dans le métro et le bus. Communication du numéro du service concerné.
+Demande d'itinéraire pour se rendre à la mairie du vingtième. Prendre le 116 direction Gambetta.
+Demande de renseignement sur l'existence d'un dossier pour les cartes Imagin'R. Communication du numéro du service ImagineR.
+Demande d'informations sur l'état du trafic sur le RER B en ce moment. Communication des horaires.
+Demande d'informations sur l'état du trafic Imagin'R suite à un souci sur le forfait Imagine+R. Communication du numéro du service concerné.
+Demande d'itinéraire pour aller de Noisiel RER le Luzard jusqu'à Bobigny.
+Demande de renseignement sur la perte d'un sac dans le métro. Non retrouvé.
+Demande d'itinéraire pour se rendre à la station Javel à Boulogne-Billancourt. Prendre le 61 direction cimetière de Saint-Cloud.
+Demande de renseignements sur la fréquence du RER B. Aucune information disponible.
+Demande de renseignement sur la personne qui s'occupe des autorisations de prise de vue. Communication du numéro de téléphone.
+Demande d'informations sur la procédure d'échange d'une carte Imagin'R. Communication du numéro du service concerné.
+Demande de renseignement sur la perte d'une carte Émeraude dans le métro. Communication du délai de retour.
+Demande d'informations sur le renouvellement de la carte Navigo. Communication du numéro du gestionnaire du gestionnaire.
+Demande de renseignements sur le dernier bus 63 au départ de de la Porte de Vincennes.
+Demande d'itinéraire en partant de Paris 10-neuvième arrondissement. Prendre le 116 rue de l' Équerre à partir de la station Port Royal-Berthollet.
+Demande de renseignement sur l'état du trafic du bus 299 depuis quelques semaines. Communication du numéro du Centre de téléphone du service clientèle.
+Demande de renseignement sur la perte d'un dossier d'inscription de la fac de ma fille dans le trente-huit mardi dernier. Non retrouvé.
+Demande d'informations sur une amende que j'ai réglée suite à un PV non payé. Communication des coordonnées du centre de paiement RATP.
+Demande de renseignement sur l'état du trafic du métro huit à l'arrêt Richelieu Richelieu Richelieu-Drouot. Communication du numéro du service clientèle.
+Demande d'informations sur la procédure à suivre pour obtenir un duplicata de son passe navigo. Communication du numéro d'agence.
+Demande de renseignements sur la fréquence du RER B. Aucune information disponible.
+Demande d'informations sur le musée des transports. Communication du numéro de téléphone.
+Demande de renseignement sur la perte d'un gant marron clair. Non retrouvé.
+Demande de renseignement sur la perte d'une boîte dans le bus deux cent quatre-vingt-un. Communication du numéro du service concerné.
+Demande d'itinéraire pour se rendre à la station Jules-Regnault dans à Vitry-sur-Seine.
+Demande d'itinéraire pour se rendre à la station Javel à Boulogne-Billancourt. Prendre le 61 direction cimetière de Saint-Cloud.
+Demande de renseignement sur le tarif d'un voyage en bus.
+Demande d'horaires de train pour aller de la gare de Meaux à Paris.
+Demande de renseignement sur l'existence d'une carte Imagin'R. Communication du numéro du service concerné.
+Demande d'attestation d'abonnement pour un Navigo Orange ou Intégrale. Communication du numéro de téléphone.
+Demande d'informations sur une amende que j'ai réglée suite à un PV non payé. Communication des coordonnées du centre de paiement RATP.
+Demande d'itinéraire pour se rendre à la Gare de Lyon en partant de la ligne 13 jusqu'à la mairie de Clichy. Prendre le métro 13 direction Olympiades.
+Demande d'itinéraire pour aller demain à Bécon-les-Bruyères en passant par Saint-Lazare.
+Demande d'informations sur l'état du trafic de la ligne quatre-vingt-six suite à une crise d' épilepsie. Communication du numéro du service concerné.
+Demande d'itinéraire pour se rendre à la station Javel à Boulogne-Billancourt. Prendre le 61 direction cimetière de Saint-Cloud.
+Demande d'informations sur le métro Bourse.
+La cliente voudrait savoir si la grève était reconduite pour demain au niveau du RER B. L'agent l'informe qu'il ne sera pas possible de faire grève.
+Demande de renseignement sur les cartes Orange Découverte. Communication des zones à utiliser.
+Demande d'informations sur l'état du trafic du RER B. Grève reconduite.
+Demande de renseignement sur l'état du trafic du bus 299 à Verrières-le-Buisson. Communication du numéro du bus.
+Demande d'informations sur le métro Bourse.
+Demande de renseignement sur l'état du trafic du bus 299 depuis quelques semaines. Communication du numéro du Centre de téléphone du service clientèle.
+Demande d'informations sur la circulation de la ligne 63 en partant de la mairie d'Aubervilliers.
+Demande de remboursement suite à une grève sur le RER B suite à des grèves. Communication des coordonnées du service clientèle.
+Demande de renseignement sur la perte d'une carte Navigo suite à une infraction dans un bus de la RATP. Communication du numéro de son amende.
+Demande d'informations sur la procédure d'échange d'une carte Imagin'R. Communication du numéro du service concerné.
+Demande de renseignement sur la perte d'un passe navigo perdu dans le métro. Communication du numéro du service concerné.
+Demande d'informations sur le trafic du troiscentcent-vingt-cinq. Communication du temps d'attente.
+Demande de renseignement sur la perte d'un porte-document dans l'autobus vingt-sept. Non retrouvé.
+Demande de renseignement sur l'état du trafic du métro huit à l'arrêt Richelieu Richelieu Richelieu-Drouot. Communication du numéro du service clientèle.
+Demande d'informations sur l'état du trafic du RER B. Grève reconduite.
+Demande d'itinéraire pour aller à Clamard à Estienne d'Orves.
+Demande d'informations sur l'état du trafic du RER B. Trafic perturbé.
+sac perdu dans le RER A. Non retrouvé.
+Demande de renseignement sur les cartes Orange Découverte. Communication des zones à utiliser.
+Demande d'informations sur un voyage au collège Bobée à Yvetot en Seine-Maritime. Communication du numéro du service clientèle.
+Demande d'itinéraire pour se rendre au 3 rue d' Alger à Massy. Prendre le bus 183 direction Église de Colombes puis descendre à Porte de Clignancourt.
+Demande d'informations sur l'état du trafic sur la ligne 13 et la ligne 6 suite à une panne de matériel.
+Demande d'itinéraire pour se rendre au trente+six rue d' Assas dans Paris.
+Demande de renseignement sur la perte d'un portefeuille dans le métro. Communication du numéro du service concerné.
+Demande d'informations sur l'état du trafic sur le RER B en ce moment. Communication des horaires.
+Demande de renseignement sur la perte d'un porte-document dans l'autobus vingt-sept. Non retrouvé.
+Demande de renseignement sur la perte d'une carte Émeraude dans le métro. Communication du délai de retour.
+Demande d'informations sur l'obtention d'une carte Orange. Communication des pièces à fournir.
+Demande d'informations sur des grèves sur le bus center. Communication de l'adresse du service concerné.
+Demande de renseignement sur l'existence d'un dossier pour les cartes Imagin'R. Communication du numéro du service ImagineR.
+Demande de renseignement sur le prix d'un trajet Paris Creil. Communication du numéro de téléphone.
+Demande de renseignement sur l'existence d'un dossier pour les cartes Imagin'R. Communication du numéro du service ImagineR.
+Demande d'itinéraire pour se rendre à la ville de Fontenay-sous-Bois en partant de la rue Victor Musso au boulevard de Verdun.
+Demande d'informations sur l'existence d'un service grand compte. Communication du numéro du service concerné.
+Demande de renseignement sur une personne qui s'occupe du recouvrement d'un PV suite à un oubli de carte Imagin'R. Communication du numéro du service recouvrement.
+Demande de renseignement sur la perte d'un passe navigo perdu dans le métro. Communication du numéro du service concerné.
+Demande de renseignement sur la perte d'un téléphone portable dans l'autobus 24. Non retrouvé.
+Demande d'itinéraire pour aller au théâtre de la Porte de Saint-Cloud pour aller à Clichy-sous-Bois. Trafic normal.

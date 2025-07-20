@@ -1,0 +1,501 @@
+TestID,Summary
+test_0,Office memo: All communications must be via email or memos. Instant Messaging is banned; violations lead to probation or termination.
+test_1,Person2 considers switching to public transport or biking due to traffic and environmental concerns.
+test_2,"Masha and Hero are divorcing amicably, surprising friends who thought they were a perfect couple."
+test_3,"Person1 gives Brian a birthday gift, they dance, and compliment each other at the party."
+test_4,"Two people discuss the size and features of an Olympic stadium under construction, highlighting its capacity and signage."
+test_5,Person1 considers quitting to start a business but reconsiders after learning about the complexities of a business plan.
+test_6,"Person 2 feels itchy and weak, possibly having chicken pox, while Person 1 reacts with concern and caution."
+test_7,"Person2 checks out, disputes a laundry charge, and Person1 corrects the bill after verifying the mistake."
+test_8,"Person1 seeks help from Person2 after his wife discovers his affair, risking divorce. He vows future faithfulness."
+test_9,"Abraham Lincoln is admired for his perseverance, courage, vision, and humility, making him a standout figure of sound character."
+test_10,"Person1 warns Person2 about severe sandstorms in Hebei, causing respiratory issues and irritation for residents."
+test_11,"Francis receives a remote car model as a birthday gift, appreciating the thoughtful gesture from Person2."
+test_12,"Tony regrets cheating on a test, feeling ashamed and fearing his father's reaction."
+test_13,Person1 needs to catch a 9:30 train; Person2 assures there's enough time as the station is nearby.
+test_14,"Person2 advises Person1 to sleep well, limit wine, exercise, and not worry about the future."
+test_15,Person1 invites Person2 to Ruojia's marriage party; they discuss gifts to bring.
+test_16,"Two people discuss a prank involving disguises, debating its fun versus cruelty, ultimately deciding to proceed."
+test_17,"Mike describes his sister as tall, pretty, friendly, and easy-going, but not as clever as him."
+test_18,"Person1 feels unwell; Person2 checks temperature, suggests calling in sick next time."
+test_19,"Person2 wants to buy a phone with a camera, MP3 player, and video call capability."
+test_20,Frank took a demanding Post Office job for excellent health insurance benefits covering his family.
+test_21,"Person2 has programming skills, secretarial expertise, a doctor and driving license, and extensive office training and experience."
+test_22,"Person1 requests a steak replacement due to incorrect cooking; Person2 agrees, noting a short wait."
+test_23,"Tom's novel won The Nobel Prize, leaving him surprised and thrilled. They plan to celebrate the achievement."
+test_24,"Person2 is an Automobile Designing major with a master's, experienced in mechanical strength and corrosion resistance analysis."
+test_25,"Two people discuss their drinking habits, costs, and plan to go out for drink specials."
+test_26,"May helps prepare for a sunny picnic, choosing food and supplies, while managing without Daniel's assistance."
+test_27,James and Muriel discuss holidays while waiting for Susan to discuss a new account.
+test_28,"Person1 struggles with an ATM, accidentally donates $10,000, and gets trapped until authorities arrive."
+test_29,"Person2 is outgoing, enjoys socializing, and values sincerity in communication with colleagues."
+test_30,Mr. Polly wants a break from work and considers buying a soft drink despite limited funds.
+test_31,Francis and Monica schedule to work on the financial report Friday afternoon from 1 PM to 4 PM.
+test_32,"Person1 attends an interview workshop, discussing preparation tips like dressing well, being friendly, and honesty."
+test_33,"Director advises actor to express more anger in breakup scene, suggesting a different emotional approach for authenticity."
+test_34,"Two neighbors discuss weekend plans, express intentions to visit, and offer help with shopping."
+test_35,Bill is tired from working late; his brother is on a business trip in the States.
+test_36,"Simon encourages Cleo to join a peaceful anti-nuclear demonstration, but she prefers studying for her exam."
+test_37,"Person1 blames Person2 for letting strangers in, while Person2 argues trust in utility workers with ID cards."
+test_38,Mark borrows Maggie's notes due to work fatigue; they agree to be study partners to help each other.
+test_39,"Junior student seeks permission to enroll in a graduate geology course, demonstrating strong interest and prior knowledge."
+test_40,Customer requests pendant replacement; shop agrees if receipt is presented by 10 o'clock.
+test_41,"Person1 and Person2 argue over clothes and a game, leading to frustration and insults."
+test_42,Person2 prefers working with computers and is interested in interactive media over other media jobs.
+test_43,Person1 must attend speeches for work; Person2 is bored but can read newspapers or comics to pass time.
+test_44,Sarah and her husband consider moving but can't afford it; buying outside the city is suggested.
+test_45,"Mark Leach, an information officer in London, manages a multilingual team assisting 500,000 tourists annually at the Britain Business Center."
+test_46,"Two friends discuss their favorite and least favorite school subjects, highlighting their differing preferences and challenges."
+test_47,James helps Mrs. Thomas with chores and will walk her dog. He's saving for a bike but will continue working.
+test_48,"Spring is here, but nights are cold. Person1 uses AC for warmth and enjoys sun through windows."
+test_49,Director wants more anger from actor in breakup scene; actor questions character's emotional response.
+test_50,"Person1 takes a taxi to Friendship Hotel, pays 20 yuan for a 15 yuan fare, and tells driver to keep change."
+test_51,"Person1 is broke after buying chips but learns bus transfers are free, solving their problem."
+test_52,"Person1 and Person2 discuss commute time, nearby companies, office floors, and a staff restaurant."
+test_53,Lulu and Vic broke up; she's requested a transfer. Their relationship was discreet and professional.
+test_54,"Dave calls Sally to speak with Jim, who is out. Sally will inform Jim of Dave's call."
+test_55,Person 1 asks for directions to City Hall; Person 2 provides detailed instructions.
+test_56,"Person loses passport, seeks help, advised to report it and contact embassy for a replacement."
+test_57,Leah reschedules Nathaniel's appointment with Ms. Fonda for 11:30 due to Ms. Collins' unavailability.
+test_58,Two people discuss their shock and confusion over Sarah's decision to marry unfaithful Dick.
+test_59,"Two friends at a party discuss approaching a girl, with one encouraging the other to overcome his nerves."
+test_60,"Jack enjoyed his poli-sci class but favored a previous business communication class, recommending it to Person1."
+test_61,"Two people discuss weather changes, tree planting benefits, and seasonal variations in Beijing."
+test_62,"Person1 and Person2 discuss movie preferences, eventually agreeing on a war movie despite differing tastes."
+test_63,"Adam shows a visitor around the school, highlighting the library and senior high school building."
+test_64,"Person1 reveals pregnancy news to Person2, who is thrilled about becoming a father."
+test_65,"John dates her daily; they seem like a perfect match, indicating he might have strong feelings for her."
+test_66,"Person1 suggests software and hardware upgrades, including a painting program, faster processor, more memory, and a CD-ROM drive."
+test_67,"Two people discuss travel, business, age, and heritage during a taxi ride to a Holiday Inn."
+test_68,Person1 struggles with weight gain; Person2 suggests dieting and exercise. Person1 considers trying an exercise class.
+test_69,"James arrives at a restaurant, confirms his reservation, and is guided to his table by a waitress."
+test_70,"The plant, established in the early 70s, covers 75,000 square meters, employs 500, and operates three shifts."
+test_71,"Rebecca interned at York Herald, became a junior reporter, then moved to London for better prospects at London Weekly."
+test_72,"Two people plan a shopping trip for poster supplies, discussing items needed and navigating the store efficiently."
+test_73,Mary learns about online job applications and decides to try it for convenience and safety.
+test_74,Person2 is creating a $300 monthly shopping budget to save money for bills.
+test_75,"Jane plans to visit Susan at the hospital, advised to take a number 13 bus for convenience."
+test_76,Person1 and Person2 schedule a meeting for next Tuesday to discuss sales projections and spreadsheet macros.
+test_77,"'A friend in New York' offers personalized tours based on a questionnaire, downloadable from their website."
+test_78,"Person2 learns about the toy company, discusses salary, benefits, and expresses interest in the sales department."
+test_79,Person1 wants to sign an agreement; Person2 offers a draft for review and promises completion by evening.
+test_80,Person1 reports a car accident near the border; friend injured. Requests ambulance and police assistance.
+test_81,Person1 asks for directions to the school clinic; Person2 provides clear instructions.
+test_82,Person2 requests a quieter room due to noise; Person1 promises a change tomorrow when rooms become available.
+test_83,"Person1 assists Person2 with luggage, discusses hotel stay, and invites them to a banquet and sightseeing."
+test_84,"Person 1 is lost near Olympic Park, seeking directions to Liu Ichang. Person 2 suggests taking Bus No. 713."
+test_85,Person2's computer isn't working; Mr. Li couldn't help. Person1 suggests calling repairmen for assistance.
+test_86,"Person2 seeks a birthday gift for his mother, choosing a watch with big numbers after rejecting jewelry."
+test_87,"Two people discuss logistics for a presentation, including timing, refreshments, equipment, and potential attendance issues."
+test_88,Russia is fast-paced but slow in public services; Canada is relaxed with efficient services due to technology.
+test_89,"Person2 considers a Caribbean vacation despite potential storms, as Person1 shares past storm experiences."
+test_90,Person1 and Person2 decide to take bananas and grapes for their picnic after discovering the oranges are gone.
+test_91,"Person1 rents an economy car for $19/day or $129/week, providing a driver's license and completing a form."
+test_92,"Two people discuss differing views on smiling, with one finding it uncomfortable and the other preferring it."
+test_93,"Company's sales and market share have surged, breaking records and ending a two-year slump, thanks to new strategies."
+test_94,"Person2 lost their backpack in a taxi, borrowed $50 from Person1, who offered a ride home."
+test_95,"Lin and Steven discuss tipping customs in China, highlighting differences with American practices."
+test_96,"Person2 is happy after moving out from living with their roommate, Brain Locker."
+test_97,Tom Wilson pays a $660 hotel bill for four nights and meals using a credit card.
+test_98,"Carol receives a call from Susan about a party, learns it's tomorrow at 8:30, and can bring dessert."
+test_99,"Person1 insists they recognize Person2 from various places, but Person2 denies all connections and leaves."
+test_100,"Two people discuss differing opinions on Trump, with one supporting him and the other preferring Biden."
+test_101,Person1 needs help using an ATM; Person2 guides them through the process.
+test_102,Susan asks John about a memo; he hasn't seen it in a long time.
+test_103,Lily is invited to a picnic by the river; she only needs to wear comfortable clothes and shoes.
+test_104,"Dining at a Chinese table involves unique etiquette, like proper chopstick use, differing from Western customs."
+test_105,"Mary and Frank discuss their movie preferences and a local movie rental store, Movie Salon."
+test_106,"Person2 considered joining the Green Party, values environmental issues, and believes smaller groups can influence larger parties."
+test_107,"Mr. Wilson apologizes for mistakes, promises responsibility, and assures improved future deliveries after investigation and merchandise exchange."
+test_108,Person2 witnessed a masked robber with a gun in the bank and agrees to further questioning at the station.
+test_109,Parents are reviving weekly date nights; siblings plan to order pizza for dinner.
+test_110,Person1 plans to diet but immediately contradicts by asking for chips after a meal.
+test_111,"Karen, a Comp Lit major, receives a special code to register for a full class."
+test_112,"Two people meet, discuss the time and weather, and decide to share an umbrella to the Garden Hotel."
+test_113,"Jack replaced his old car with a fast, expensive one, impressing Daisy during a test drive."
+test_114,The fire broke out around 10 PM when Person2 was about to go to bed.
+test_115,"A customer pays with a credit card after a service charge dispute, then requests gift wrapping."
+test_116,"Person2 agrees to a regular car wash package, including exterior, windows, and interior cleaning."
+test_117,"Harry and his wife are undecided about traveling to Egypt, considering sea travel but facing logistical concerns."
+test_118,"Person2 guides Person1, a new gym member, on using machines, emphasizing stretching, tracking progress, and knowing limits."
+test_119,Two people discuss job loss and consider applying for an electrician program to secure employment.
+test_120,"Person1 reminds Person2 about feeding, bathing puppies, and their vet appointment on Saturday at 11 AM."
+test_121,Person1 asks Person2 for a loan; Person2 offers $20 and is invited for dinner.
+test_122,"Person2's charity work taught them love, sympathy, equality, and broadened their perspective, reducing edginess."
+test_123,Person2 prefers contact via call or email and expects a decision in about a week.
+test_124,Person1 is recommended Moutan wine and Roast Beijing Duck by Person2 at a hotel.
+test_125,"Angela and Dan discuss wedding plans, confirming attendance and inviting Megan, coordinating travel arrangements together."
+test_126,"Two friends discuss trying Greek yogurt and tiramisu, then decide to share fried bananas for dessert."
+test_127,"Mr. Smith, 27, studied Economics at Yale and worked at a bank for five years, earning $500 weekly."
+test_128,"Person1 buys a Barbie doll for their niece, paying $32.42 in cash."
+test_129,Person2 wants size 41 Jordan shoes; Person1 says they're already discounted.
+test_130,Person1 is lost and needs help reaching the science museum. Person2 provides directions and train information.
+test_131,"Simon enjoys phased retirement, balancing family time and travel with flexible project work for his former company."
+test_132,"Two friends discuss differing views on ideal partners, highlighting changing gender roles and household responsibilities."
+test_133,Two people discuss a storm's damage and express a desire for better spring weather.
+test_134,"Person1 prefers watching TV together, while Person2 finds it boring and suggests shared activities like music instead."
+test_135,"Person2 is nervous about school but reassured by Person1 about schedule, class duration, and breaks for snacks."
+test_136,Adam's knee is better; he's resting today. He'll review Michigan's game films for Saturday's tough match.
+test_137,Person1 asks Person2 to print and edit a document due to a broken printer.
+test_138,Person1 asks for help with a curtain; Person2 assists by holding the ladder and putting it up.
+test_139,Jack is available for a camping trip the weekend after next; other weekends are booked.
+test_140,"Person1 forgives Person2, reveals pregnancy, but Person2 doubts paternity due to being away during conception."
+test_141,Person1 advises Person2 to let their daughter make her own college decisions without parental influence.
+test_142,Person1 fears job loss due to a mistake; Person2 offers support and practical solutions to manage finances.
+test_143,"Person2's friend, a Ph.D. student, visits from the UK and will give a speech on multimodal text generation."
+test_144,"Person2 declines visiting John, feeling sick and tired, possibly due to a co-worker's illness."
+test_145,"Mr. Faber books a double room at York Hotel for three nights starting July 20th, costing $130 per night."
+test_146,Person1 seeks a flat near their office; Person2 suggests contacting John Godfrey in South Derby for assistance.
+test_147,"Two people argue over getting lost, blaming each other for speeding, bribery, and not booking train tickets."
+test_148,Order of 100 computers delayed; expected by 18th. Darlene to contact Steve for further discussion.
+test_149,"The New York Times is older than the Washington Post and Los Angeles Times, founded in 1851, 1877, and 1881, respectively."
+test_150,"Person2's email issue is due to a large attachment, not a virus. Person1 suggests compressing the file."
+test_151,Person1 and Person2 enjoyed the weekend together and plan to meet again in Changsha.
+test_152,Person1 decides to get Chinese food from Panda Express after discussing options with Person2.
+test_153,"Marry informs Tom he wasn't selected for a sales position; Tom requests reconsideration, emphasizing his eagerness to learn."
+test_154,Person1 warns a silent caller to stop calling or face police action for repeated harassment.
+test_155,"Interview discusses music teaching passion, qualifications, and classical music's benefits for stress and brain activity."
+test_156,Person2 is excited about meeting his single American neighbor and plans to invite her to dinner.
+test_157,"Mirella adopted a casual dress style after a conference, prompting management to subtly encourage formal attire."
+test_158,Person2 plans to start their own law office and receives support and well-wishes from Person1.
+test_159,"Peter was online all night, playing games and listening to music. Now, he's tired and needs rest."
+test_160,Ships are less important for passenger transport but remain crucial for transoceanic cargo transportation.
+test_161,"Andy had a nightmare, felt embarrassed, and is anxious about university acceptance. Fanny reassures him."
+test_162,"Two students plan to start a band, considering playing hip hop, specifically Vanilla Ice songs."
+test_163,Two people in New Orleans plan to visit the theater after exploring jazz clubs and riverboat tours.
+test_164,Person1 buys a well-fitting item using a credit card and completes the purchase.
+test_165,Mr. Blake can't deliver manuals today; they're being copied. He'll drop them off tomorrow afternoon.
+test_166,Person2 plans a road trip from Long Island to Salt Lake City for a family birthday celebration.
+test_167,"Person1 asks Person2 to care for Pamela while away, appreciating their friendship despite past challenges."
+test_168,Person1 asks for directions to the busiest street; Person2 suggests Bus No. 12.
+test_169,"Two people discuss religious pilgrimages, focusing on the Islamic haj to Mecca and Christian sites like Canterbury and Lourdes."
+test_170,Person1 asks for directions to a department store and bank; Person2 provides guidance.
+test_171,Person1 prefers train travel; Person2 prefers car. They consider express bus as a compromise for their London trip.
+test_172,Tom disliked his lunch due to undercooked chicken; Catherine prefers homemade meals over fast food for health reasons.
+test_173,"Person2 orders lemonade, barbeque wings, and baby-back ribs from Person1, declining additional items for now."
+test_174,"Person2 orders a double cheeseburger with everything, large curly fries, and a medium Pepsi. Total: $5.48."
+test_175,"Two people discuss breakfast preferences, including muffins, coffee, and eggs, leading to a humorous misunderstanding."
+test_176,Person2 requests a ride to The Grand Hotel; Person1 confirms location after clarification.
+test_177,"Person1 requests to photograph Person2, an American policeman, to show their children. Person2 agrees briefly."
+test_178,Person2 seeks a room; Person1 suggests nearby Sunset Hotel due to full occupancy.
+test_179,"Person2 applied for a U.S. student visa, facing complex forms and strict document requirements."
+test_180,"Anne ends a call, rejecting a second chance after a disappointing date."
+test_181,"Mary finds online shopping convenient, time-saving, and often cheaper, recommending opening an online bank account for purchases."
+test_182,"Person2 is unfamiliar with American accounting but explains five fundamental accounting concepts: entity, going concern, unit, period, objectivity."
+test_183,"Jane invites Peter to Xi'an in July for a week, costing 2000 yuan. Most students are going."
+test_184,"Person rents romance movies, learns about membership, rental costs, and return policy. Total is $7.50, due Thursday."
+test_185,Person1 delivers a parcel for Mr. Lee; Person2 asks them to wait to express something.
+test_186,Airport closed; flights resume tomorrow. Passengers share rooms at airport hotel. Two have same sleeping habit.
+test_187,"Two people discuss repaying favors and decide to split the bill, with one choosing the restaurant."
+test_188,Person1 suggests relaxation techniques and music to help Person2 manage stress and improve sleep.
+test_189,"Person1 wants to update the kitchen for beauty and cleanliness, while Person2 finds it already convenient."
+test_190,"Walter and Sterling discuss their new teacher, Professor Wood, praising his brilliance but noting his absent-mindedness."
+test_191,"Person1 seeks test results; Person2 suggests an appointment for clarification, reassuring no immediate concerns."
+test_192,Martin feels prepared for exams and appreciates his part-time job and the student welfare club's support.
+test_193,"Person1 chooses a cheaper, slower shipping option for their package to Korea."
+test_194,"Person1 lost their phone, possibly at a bakery. Person2 plans to call the bakery before the wedding."
+test_195,"Two people converse about one being an American tourist visiting a beautiful city, and offer a drink."
+test_196,"Person 1 plans to travel post-graduation, while Person 2 focuses on gaining experience and success."
+test_197,Person2 was injured by a tree branch while escaping a dog during a milk delivery.
+test_198,"Person2 feels less enthusiastic after 6 years, works longer hours, earns more, and seeks promotion while caring for their mother."
+test_199,"Person opens a current account, learns it earns no interest, and inquires about withdrawing money."
+test_200,Person1 wants to try Cantonese cuisine but opts for nearby Beijing roast duck at Quanjude restaurant.
+test_201,Person1 and Person2 agree on price and faster delivery; they plan to draft and sign the agreement immediately.
+test_202,"Person1 reports a broken lamp in room 503, offers to pay, and requests a replacement."
+test_203,"The 2006 marketing plan aimed to attract younger consumers, revamp the image, and double overseas distribution."
+test_204,"Person2 plans to travel Europe, visiting Paris, Nice, Milan, and Edinburgh, attending a festival and visiting museums."
+test_205,Jimmy Fox's mid-size car reservation failed; he accepted a compact with insurance and a discount offered.
+test_206,Child asks to play cards quietly; mom allows five minutes after confirming homework is done.
+test_207,"Person1 discusses coffee and weekly meetings with Person2, including a London trip and meeting new project manager."
+test_208,"Two people discuss a world map, highlighting geographical features, oceans, and the impact on climate."
+test_209,Person2 requests a room change due to smoke smell; Person1 arranges a non-smoking room immediately.
+test_210,"Bill is warned about wet paint; workmen forget notice, walk on wet cement."
+test_211,"Ben leaves after a pleasant visit, exchanges numbers with Ella, and plans to call next week."
+test_212,Dick was sick after Italy but is now cleared to return to work.
+test_213,"Person2 is overworked, underpaid, and feels trapped in their job due to lack of skills and job opportunities."
+test_214,"Lisa discovers her husband Mark's infidelity and confronts him, threatening divorce if he doesn't end it."
+test_215,Person2's doctor advised reducing red meat to improve diet after overeating concerns.
+test_216,Person1 insists on leaving despite Person2's plea to stay and be their lifelong companion.
+test_217,"Person1 learns library rules: use student ID, check out two books for a month, renew to avoid fines."
+test_218,"Two people enjoy a pleasant spring day, discussing weather and planning to lunch outside and visit the beach."
+test_219,"Person1 informs Person2 about the no-photo policy, confiscates the film, and suggests buying souvenirs instead."
+test_220,Person2 inquires about a loan but decides against it due to a poor credit score.
+test_221,"Monica's successful presentation impressed everyone, thanks to extensive preparation and support from colleagues and an economic expert."
+test_222,Person1 struggles with early runs; Person2 offers to accompany them at 6:30 AM to encourage morning jogging.
+test_223,Person1 inquires about the Japanese restaurant's menu and hours; plans to visit before closing.
+test_224,Mr. Simpson and Person1 plan to have lunch together on Thursday at 12:30.
+test_225,Person1 seeks a sophisticated restaurant for a date; Person2 suggests Gramercy Tavern for its ambiance and quality.
+test_226,Person1's meal costs $42.50; Person2 declines the tip from Person1's $50 payment.
+test_227,"Football, basketball, tennis, and swimming are popular. Extreme sports and golf are less common. Rugby has many fans."
+test_228,"Person books a cheaper flight to Helsinki, requests vegetarian meal, and provides travel details for reservation."
+test_229,Person1 is visiting Florida to see their grandmother and go to Disney World for the first time.
+test_230,Person 2 hasn't been to Australia but would love to visit the Great Barrier Reef.
+test_231,Laura goes to the gym for health and looks; Person1 prefers walking and occasionally cycles or swims.
+test_232,"Person2 was born in Chicago, moved to LA at 14, lived in Munich for two years starting in 1995."
+test_233,Person1 bought a $150 suit; Person2 thinks it's not a good bargain.
+test_234,"Ann interviews Robin about the non-competitive Mountain Lake Cycle Tour with 1,200 participants and staggered starts."
+test_235,"Person1 suggests drinks; Person2 orders a Compari and a non-alcoholic Singer, enjoying both."
+test_236,"Two friends discuss lunch, bungee jumping, and lost wallet; one is adventurous, the other cautious."
+test_237,Person1 seeks information on Normandy Landing; Person2 suggests using Google and recommends reading a history book.
+test_238,"Person1 offers gym advice to new Person2, suggesting lighter weights and stretching for muscle tone and avoiding injury."
+test_239,"Person1 seeks on-campus parking; Person2 suggests a student parking structure on the western side, unsure of current availability."
+test_240,"Emily seeks clarification on U.S. paycheck deductions, including FICA, Medicare, and state taxes, with Susan's help."
+test_241,Person1 struggles with a vending machine; Person2 guides them through the process of buying a snack.
+test_242,"Person2 plans to meet his online girlfriend in Thailand, highlighting fast-paced relationships via the internet."
+test_243,"Kate redecorated her living room with new furniture and a rug from China, but kept her old carpet."
+test_244,"Person2 outlines an extensive exercise routine for Person1, including jogging, walking, gym, and dance classes."
+test_245,Person1 considers enrolling in a science course; Person2 advises an introductory course due to Person1's weakness in maps.
+test_246,"Tim discusses his project on leading a greener life, focusing on biking, reducing paper use, and sustainable school practices."
+test_247,Person1 feels overwhelmed by work stress during the busy Christmas season in the toy department.
+test_248,Sue avoids cake due to dietary restrictions; Bill offers to get her soup after the party.
+test_249,Person2 buys a T-shirt and skirt at a 20% discount for 160 yuan.
+test_250,Person1's reservation was canceled for not reconfirming. They request the next available ticket.
+test_251,"Family gathers for Easter, attends church, enjoys a potluck, and hides Easter eggs for children."
+test_252,"Parents discuss their son's bad habits, emphasizing patience, affection, and positive reinforcement over punishment."
+test_253,"Person1 shares excitement about a friend's wedding and bachelor party, while Person2 expresses concerns about party activities."
+test_254,Person1 assists Person2 in obtaining a ballot and instructs them on how to vote.
+test_255,"Two employees discuss potential layoffs, speculating on who might be affected, and express personal concerns and frustrations."
+test_256,"Two people discuss a Chinese TV series, divorce rates, and the challenges of modern marriages."
+test_257,"Judy and a friend discuss a 13,000 RMB budget, focusing on transportation and accommodation costs, considering cheaper hotel options."
+test_258,"Mary married Jerrod and will live in Paris, surprising Person2."
+test_259,"Person2 lost their wallet in a taxi. Person1 lends them $50, and they plan to go out together."
+test_260,"Murphy Music and U-Tunes are merging, impacting market strategy despite being fierce competitors."
+test_261,"Joe finds Tom's new assistant unfriendly, while Tom insists she's helpful to everyone."
+test_262,"Sarah is upset after a meeting where Bob dominated, ignoring her suggestions. She plans to be concise next time."
+test_263,"Two people discuss religious pilgrimages, focusing on the Islamic haj to Mecca and Christian sites like Canterbury and Lourdes."
+test_264,"Ted is nervous about confessing his crush on Jenny, while Mike encourages him to take a chance."
+test_265,"Person2 calms down, reflects, listens to calming music, and exercises to manage anger."
+test_266,"Person1 learns about their New Zealand family: Uncle Bill, his wife, and step-sister cousins, Sarah and Jane."
+test_267,"Mr. Stuart won the city marathon, exciting both him and the spectators, including #Person1# and their children."
+test_268,"Person buys sneakers and perfume at a duty-free shop, staying within a $300 limit."
+test_269,"Person1 can't afford UK roaming charges. Person2 suggests using a local SIM card, costing 100 RMB plus 10 RMB/minute."
+test_270,"Person2 is offered a job with a 2,500 yuan monthly salary, weekends off, and a paid month holiday."
+test_271,"Person1 and Person2 discuss Barry's character, prefer Paul, and talk about their own personalities and social habits."
+test_272,"Person1 seeks a medium-sized house in Pasadena or Arcadia, with a view, in the ABC School District."
+test_273,Person1 needs more time to decide; Person2 will leave samples and follow up next week.
+test_274,"Take bus 268 west, transfer to bus 261 at Fair Oaks and Washington to reach Sons."
+test_275,"Mr. Lee offers Mrs. Word a ride home on a dreadful night, and she assists with his umbrella."
+test_276,"Person1 examines Person2's shoulder pain, suggests an X-ray, and recommends staying in the hospital overnight."
+test_277,Tourist lost IBA credit card; Client Services assists with details to resolve the issue.
+test_278,Person1 plans to nap; Person2 offers to wake them and mentions dinner at 6:00.
+test_279,"Person2 chooses Chinese food, orders bean milk, and inquires about the meat, which is beef."
+test_280,"Two people discuss getting tableware, standing in line, and choosing food, with differing opinions on cream cakes."
+test_281,"Lucy hesitates to sing, preferring to listen, and suggests Stanley sing an Elvis song instead."
+test_282,Home video players challenge theaters; theaters must evolve into social venues to remain relevant.
+test_283,Person2 prefers a lighter dress for warmer weather and chooses a white cotton dress over a brown one.
+test_284,"Joshua reminds Dad about his overdue allowance, plans to save, donate, and buy books with the money."
+test_285,Person1 and Person2 discuss attending Mike's birthday party and plan to drive there together.
+test_286,"Person1 wants to send a package, insure it, and buy stamps; Person2 directs them to the appropriate windows."
+test_287,"Discussion on natural disasters highlights the impact of earthquakes, particularly in China, emphasizing human resilience and compassion."
+test_288,"Two people discuss the miserable, rainy weather, anticipating the end of the rainy season and the arrival of spring."
+test_289,"After the volleyball match, they plan to visit the Olympic souvenir store to buy gifts, especially Olympic Mascots."
+test_290,"Person1 buys a lightweight aluminum pan with a wooden handle and a lid, paying with cash."
+test_291,"Two colleagues plan to meet after work for a ride home, both busy with tasks."
+test_292,"Person1 appreciates the appealing work environment and rewarding career in government service, despite stereotypes about bureaucrats."
+test_293,"Three colleagues plan an evening in Beijing, opting for dinner and bars over karaoke, bonding over shared New York roots."
+test_294,"Julie missed class due to food poisoning from street food, but she's catching up with lessons through classmates and online resources."
+test_295,"Mike helps his mom prepare for guests by buying drinks and making coffee, ensuring everything is ready."
+test_296,Person2 took a long bus ride to Berlin for environmental reasons but found it uncomfortable and exhausting.
+test_297,"Person2 is inexperienced but eager, willing to work weekends, enjoys travel, speaks multiple languages, and is interested in public speaking."
+test_298,"Amy called Jimmy, who missed it due to a picnic at Beihai Park. They plan to meet later."
+test_299,"Peter delays tea to water the garden, but rain allows him to join for tea instead."
+test_300,"An emergency meeting is needed urgently to secure a crucial order, even without Ken's presence."
+test_301,"Person buys registered postage for a letter, paying $7 with a $10 bill, and receives change."
+test_302,Doctor prescribes antibiotics and cream for infection; patient can buy them at the clinic's pharmacy with a discount.
+test_303,"Person1 suggests portable Chinese crafts like paper-cuts, embroidery, and batik. Person2 is interested in embroidery."
+test_304,"The Eiffel Tower, built in 1889, is 320m tall and named after designer Gustave Eiffel."
+test_305,"Brian learned English in college, has been in the U.S. for 3 weeks, and visited Las Vegas once."
+test_306,"Two people discuss concerns about someone who is late, with one reassuring the other."
+test_307,"Person1 warns Person2 about potential trouble, despite things going smoothly, but Person2 remains optimistic."
+test_308,"John dates her daily; they seem like a perfect match, indicating he might be in love."
+test_309,"Two people discuss London's historic sites, including monuments, Westminster Abbey, Tower of London, and Madame Tussaud's museum."
+test_310,"Daniel prefers science over PE, surprising his friend, who thought he was more interested in physical activities."
+test_311,"Person1's baby shower ends abruptly as their water breaks, prompting an urgent trip to the hospital."
+test_312,"Person1 wants to visit China, but Person2 is too busy to join."
+test_313,"Tim and Karren part ways after a pleasant conversation, hoping to meet again."
+test_314,"Person2 rode Michael's new motorcycle, liked it, but prefers buying a safer bicycle instead."
+test_315,"Person2 speaks Chinese, English, and basic French, and can perform general desk work in English."
+test_316,"Andy called for Naomi; Nancy, her sister, answered and promised to relay the message."
+test_317,Flight 513 to New York is canceled. Passenger rebooks for tomorrow with a 50% discount.
+test_318,"Two friends discuss going to Burger Queen for popular cheeseburgers, milkshakes, and fries despite long lines."
+test_319,"Person1 informs Person2 of excess luggage charge; Person2 requests a fragile label, which Person1 provides."
+test_320,Person1 is thirsty; Person2 suggests water over soda for proper hydration.
+test_321,Mr. Green's appointment with Mr. Liang is canceled due to urgent travel; rescheduling will occur later.
+test_322,"Person1 buys tight enameled leather shoes, reassured by Person2 that they will stretch with use."
+test_323,Benjamin struggles with writing a project report; seeks guidance on content and format from a colleague.
+test_324,"Person orders a medium pizza, declines specials, chooses seafood pizza with thin crust, and provides address for delivery."
+test_325,"Person1 orders prawn cocktail, steak, and coffee; substitutes tomato soup with egg soup, and requests mineral water."
+test_326,"Person1 describes the house: nice living room, large dining room, three bedrooms, modern kitchen, and two washrooms."
+test_327,Customer complains about scratched stereo and noise issues; seeks exchange but lacks receipt.
+test_328,"Person 2 considers living off-campus for peace, despite higher costs, before the May 1 dorm deposit deadline."
+test_329,"Two people explore secondhand books, discovering a potentially valuable signed book from 1893 amidst modern finds."
+test_330,"Person2 requests a window table, orders food, and asks for a 20-minute delay for their friend's arrival."
+test_331,Person1 is advised to use certified mail for a letter and registered mail with insurance for a valuable package.
+test_332,Tom is excited for Sally and John's January visit and offers to pick them up for dinner.
+test_333,"Person1 struggles with library computer access; Person2 empathizes, wishing to afford a personal computer."
+test_334,"Two people discuss the pleasant autumn weather and plan a picnic, despite a rain forecast."
+test_335,Person1 seeks general computer information; Person2 offers assistance and guides them to relevant magazines.
+test_336,"Person2 orders a bottle of water, a tuna fish sandwich, and vegetable soup at the French Garden Restaurant."
+test_337,"Person2 orders lemonade, barbeque wings, and baby-back ribs from Person1, who offers further assistance."
+test_338,"Person2 requests water and coffee with dinner, and asks to order dessert later. Person1 agrees."
+test_339,"Two friends discuss hypothetical scenarios about dating, winning the lottery, and surprising their parents."
+test_340,"Person1 shares a picture of their new puppy, calling it their ""new baby,"" and Person2 finds it cute."
+test_341,Person1 envies Tom's new bike; promises to buy a car or plane for Person2 to avoid traffic.
+test_342,"Person2 seeks a fashionable skirt, finds one, but is shocked by the $400 price."
+test_343,"A small village grew into an industrial city due to coal deposits, absorbing nearby villages and preserving historical buildings."
+test_344,"Discussion on global environmental issues, emphasizing the need for long-term solutions and international cooperation to prevent irreversible damage."
+test_345,"Dennis pretends to be a girl online to make friends, leading to a complicated situation."
+test_346,"Nathan is excited about his summer internship at the Chicago Tribune, confident in gaining valuable experience."
+test_347,"Person rents a silver Toyota Corolla for 3 days, provides ID, and signs form. Return by noon on third day."
+test_348,"Person1 plans to visit New York for business and sightseeing, including universities and tourist spots."
+test_349,Person1 asks about film development time; Person2 offers options. Person1 decides to return the next day.
+test_350,Flight CA216 to Chengdu is delayed due to heavy rain; duration unknown. Passengers advised to await further announcements.
+test_351,Person1 asks for directions to Peking University; Person2 suggests asking a nearby policeman.
+test_352,"Two people discuss the news, weather, and sports, with little new information shared."
+test_353,"Person1 dislikes violent computer games, fearing negative influence on boys. Person2 argues games can teach computer skills."
+test_354,Two friends decide to skip beers and opt for gym activities and dancing for fun and fitness.
+test_355,Two people decide to order chicken feet and a bottle of house red wine at a restaurant.
+test_356,"Person2 has guided American tourists, showing them places like Huangguoshu Falls in China."
+test_357,Jack confirms a three-night double reservation and fills out forms upon arrival.
+test_358,Mark missed work due to a hangover; Jill updates him on a colleague's new baby.
+test_359,Person1 invites Person2 out; Person2 declines due to husband's disapproval despite interest in the theater.
+test_360,"Cal Ripken's home run puts Baltimore ahead 5-4. Fans enjoy the game, praising the venue and atmosphere."
+test_361,"Person1 helps Person2, who expresses gratitude and appreciation for the kindness and support received."
+test_362,"Country exports copper and coal, imports oil, iron, and aluminum, and recently discovered small precious stone deposits."
+test_363,Two people discuss art preferences and plan to visit a Greek and Roman sculpture exhibition together.
+test_364,"Person2 returns a book and checks out a video, ensuring proper care to avoid fines."
+test_365,"Person1 explains bowling basics to Person2, promising to share more details during the game."
+test_366,"Bank offers money transfer and tailored consultation services for stock investors, accessible via phone or Internet."
+test_367,"Person1 plans to check out soon and needs luggage storage, requiring a deposit via VISA."
+test_368,A party of three inquires about buffet pricing and drink charges at a restaurant.
+test_369,"Person1 explains loan options for studying abroad, eligibility criteria, and age limits to Person2."
+test_370,Person1 asks for English songs; Person2 confirms availability but needs time to find them due to rarity.
+test_371,"Person1 interviews Person2, discussing their writing experience and interest in a position at the newspaper."
+test_372,"Jack plans to send a brief, polite email inquiry about interview results and monitor for replies."
+test_373,"Person1 tours Person2's house, admiring the spacious courtyard and corn ears hung for winter peeling."
+test_374,Person1 plans to check out soon and inquires about baggage storage; Person2 explains deposit requirements.
+test_375,"Person1 warns Person2 about a suspicious website asking for personal information, suspecting it's a scam."
+test_376,"Teachers discuss the possibility of a new lab building, hindered by funding issues, but hopeful for government support."
+test_377,Kate finds using her credit card convenient but is reminded by Henry to be cautious and repay the bank.
+test_378,"Mr. Smith chooses to visit a mountain village, requiring an early start for the 100-kilometer trip."
+test_379,"Person2 manages stress with cucumbers, values motherhood, plans to be a lawyer, and advises teens to live authentically."
+test_380,Person2 started collecting stamps at ten and enjoys it despite not owning valuable originals.
+test_381,"Tom, inspired by successful businessmen, started a web design company in high school and now runs a green products business."
+test_382,"Police investigate a North London murder; seeking witnesses, including two women and a drunk man, near Neasden subway."
+test_383,"Sherry plans to visit Quebec for a wedding, sightseeing in Montreal and Quebec City, practicing French."
+test_384,"Tom persuades Jane to have dinner together, combining study and safety, despite her busy schedule."
+test_385,Person1 is frustrated with persistent back pain; Person2 suggests following the prescribed medication dosage.
+test_386,Person1 asks Person2 for a 200 yuan loan due to financial strain from buying a new computer.
+test_387,Person1 struggles with handwriting improvement; Person2 advises patience and perseverance for eventual progress.
+test_388,"Person1 is alarmed by Person2 using an eyelash curler, fearing injury, while Person2 reassures it's harmless."
+test_389,"Person2 inquires about weekend driving courses; Person1 provides details on schedule, coaches, and training structure."
+test_390,Tina has been learning piano for 8 years from a UK teacher and offers an introduction to her.
+test_391,"Person2 is experienced, works well in teams, seeks growth, and is open to challenges despite initial nervousness."
+test_392,Stephanie feels unwell and tired; George suggests asking for an extension on her report to rest.
+test_393,"David is uninterested in skating and spending Christmas at a country hotel, preferring New York's festivities."
+test_394,"Bob visited a friend, attended a dance party, while Person1 watched TV, shopped, and played tennis, winning the game."
+test_395,"Person1 borrows $50 from Person2, hoping it brings luck in finding a job they prefer over farm work."
+test_396,Person1 needs a jacket and tie for the restaurant; conference delayed to 9:30 AM for convenience.
+test_397,"Children initially homesick at camp, but enjoyed activities like tours, sports, and a barbecue, wanting to return."
+test_398,Dad considers quitting job for computer programming; daughter offers future help with family business.
+test_399,"Kalina informs Professor Clark about her accident and missing class due to a concussion, returning next week."
+test_400,Tenant struggles with delayed repairs and disputes with landlord over repair costs after a party incident. Seeks advice.
+test_401,"Person2 collects an Export L/C from Person1 for Sayuri Beds, Tokyo, and signs for it."
+test_402,Person1 lost their purse and Person2 suggests retracing steps to the hotdog stand to find it.
+test_403,"Person1 insists Person2 take their turn washing dishes, as per their agreement. Person2 agrees to do them."
+test_404,"A couple discusses their relationship, expressing love and resolving tension, ending with an apology."
+test_405,"Unemployment fuels social problems, posing challenges for governments to manage effectively."
+test_406,Person1 needs a costume for a country-themed party; Person2 offers to help find it.
+test_407,"Person1 and Person2 enjoy Beijing nightlife, dancing at a nightclub with live music and drinks."
+test_408,Person1 wants to leave office work for farming; Person2 is supportive but highlights the challenges involved.
+test_409,"Person1 orders drinks and appetizers, surprised by the $80 total."
+test_410,"Mary regrets arguing with Ann over canceled beach plans, realizing she overreacted and plans to reconcile."
+test_411,"Person1 asks for cigarettes, souvenirs, and the men's room location; Person2 provides directions and information."
+test_412,"Catherine and Tom discuss ""Fast Food Nation,"" highlighting fast food's convenience and health concerns in American culture."
+test_413,"Person1 instructs Person2 on bus fare, route, and seating. Person2 confirms destination and requests notification upon arrival."
+test_414,Two people discuss their experiences and personal losses during the 9/11 terrorist attacks.
+test_415,"Karl and his wife move to Minnesota for a peaceful community and affordable housing, meeting friendly neighbor Chuck."
+test_416,"Person2 orders a hard-boiled egg, dark toast, and orange juice for later."
+test_417,"Person1 is going to bed, while Person2 stays up to review the household budget."
+test_418,Person1 and Person2 plan to meet next Monday at 3 PM to discuss ideas.
+test_419,"Person2 seeks help choosing a gift for his girlfriend, decides to propose, and looks for engagement rings."
+test_420,"Person1 trades in a Ford Pinto for a Ford Focus, impressed by its features and financing options."
+test_421,"Apple Corporation offers Ballam a computer engineer position with a starting salary of 4,000 yuan per month."
+test_422,"Person1 offers a service to streamline fund transfers and administration, addressing Person2's current organizational issues."
+test_423,Person1 is still hungry after dinner and considers making a peanut butter and jelly sandwich.
+test_424,Person1 gets blood drawn to check white blood cell count for potential infection; experiences minor discomfort.
+test_425,Tenant Steven reports a power failure; instructed to check and replace blown fuses in the basement.
+test_426,Paula seeks help from a law student friend to resolve a rent dispute with her landlord over a repair deduction.
+test_427,"Office maintenance issues include broken AC, clogged toilet, faulty wiring, and flooded parking lot needing handyman attention."
+test_428,"Two people discuss job loss, interviews, and consider an electrician apprentice program as a potential opportunity."
+test_429,"Person2 describes a good working relationship with the boss, highlighting his analytical skills and decision-making abilities."
+test_430,"Mr. Tang presents his Tour Guide Certificate and speaks English and Russian, currently on holiday from his agency job."
+test_431,Person2 buys a pure gold watch for one thousand yuan after negotiation with Person1.
+test_432,Tom asks Sara to watch his son while they take their daughter to the hospital.
+test_433,"Amy's first job was as a secretary, then Personnel Manager, before moving to the Sales Department."
+test_434,Andrew's sister advises him on healthy eating and exercise after he joins a questionable diet program.
+test_435,Greg Sonders from Brown College discusses Mary's sports involvement and academic achievements for potential admission.
+test_436,"Person1 requests a taxi to the railway station, discussing traffic and requesting a careful drive."
+test_437,"Brian learned English in college, has been in the U.S. for 3 weeks, and visited Las Vegas once."
+test_438,"Person2 visits doctor for a physical exam and discusses breathing issues; tests for allergies, asthma, and blood levels planned."
+test_439,"Two people discuss hypothetical spending if they won the Pools, but conclude it's unlikely and order drinks instead."
+test_440,"Person1 panics about marriage, but Person2 reassures them, reminding them of their love and commitment to Amy."
+test_441,"Person1 orders 2,000 business cards, requests a 3-day turnaround, and agrees to pay extra for faster service."
+test_442,"Brian arranged the trip, with an early pickup for a flight and meetings scheduled upon arrival."
+test_443,"Paul will join Thanksgiving dinner at a friend's house, bringing wine, as his family is in Finland."
+test_444,John asks Susan to show his cousin around on Saturday; they plan to meet for dinner later.
+test_445,"Two people discuss evening classes, considering options like photography, web design, and Indian cooking, focusing on costs and interests."
+test_446,"Group discusses dinner plans, considering dietary preferences, and decides on Carrots for tomorrow as it's closed today."
+test_447,Gene is taking a driving test for a job in LA and plans to buy a 2016 Honda Accord.
+test_448,"Person1 selects and purchases a pen in a brown case, opting to pay by charge."
+test_449,The fundraiser marathon raised money for cancer research and boosted the company's community image through sponsorship and participation.
+test_450,Person1 asks Person2 for directions to the Peak Tram and requests to write them down.
+test_451,"Person2 buys two small and one big sandalwood fan, appreciating their fragrance and price."
+test_452,"External factors: political, economic, social, technological. Internal factors: human resources, team spirit, innovation, departmental coordination."
+test_453,"Discussion on starting a project: preparatory meeting at 2 PM, Person1 joins at 3 PM, timeline possibly one year."
+test_454,"Person1 suggests a one-day river trip for Person2, who prefers natural landscapes."
+test_455,"Person2 orders a beef-burger, fries, and a banana milkshake from Person1."
+test_456,"Two people admire lanterns and discuss puzzles and poems at the Lantern Festival, highlighting a giant dragon lantern."
+test_457,Person1 passed two interview rounds at ABC Company and plans to celebrate with Person2 at 5 PM.
+test_458,"Tim and Karren part ways after a pleasant conversation, hoping to meet again."
+test_459,"Person1 and Person2 discuss a department meeting, office supplies, photocopying, and the friendly work environment."
+test_460,Person1 struggles with bath buttons; Person2 agrees to help in person with bath and other switches.
+test_461,Person1 seeks best-sellers and novel recommendations; Person2 suggests a Japanese novelist's latest work.
+test_462,Person 1 asks Person 2 to teach a 78-year-old emigrant friend to read English. Person 2 agrees reluctantly.
+test_463,"Person1 picks up a ticket, pays $800 by card after filling a booking form."
+test_464,"Two people plan to cook spicy chicken curry together, with one teaching the other how to cook."
+test_465,Person2 explains how to use an IC card phone and a coin phone to Person1.
+test_466,"EDD offers computer access, workshops, and job fairs to assist with job searches."
+test_467,Tom considers buying a second-hand computer due to budget constraints; advice is to be cautious with used goods.
+test_468,"In China, taking leftovers home is uncommon; ordering excess food is traditional, often leading to waste."
+test_469,"Person1 overpaid for a bag at a Chinese market due to not bargaining, frustrating him."
+test_470,"Person2 is proficient in English, studied it extensively, and also speaks some French and Japanese."
+test_471,"Person2 opens checking and savings accounts, receives debit cards, and learns about overdraft terms and document approval."
+test_472,"Person1 can get a 10 pence discount coupon for every 3 bags of sugar, valid for one year."
+test_473,"Steve helped Johnny clean the kitchen and take out the garbage, then hurriedly left."
+test_474,"Person loses train ticket and wallet, but buys a hard sleeper ticket to Shanghai with assistance."
+test_475,Ann's trip was busy; she recommends an in-flight well-being program to avoid jet lag.
+test_476,Mary can't attend John's party due to her new job. Tom suggests a summer job at his father's construction company.
+test_477,"Harry narrowly avoided being hit by a car while crossing the street, realizing the need for caution."
+test_478,"Steven Kayne opened a bicycle shop, pursuing his passion for bikes, enjoying flexible hours, and working with friends."
+test_479,"A couple humorously debates their age, with one insisting they're middle-aged and the other disagreeing."
+test_480,"Person2 enjoyed the meal, ordered apple crisp and chocolate mousse cake, and requested four teas."
+test_481,"Two people negotiate room arrangements, deciding on bunk beds, stereo placement, and desk allocation through discussion and humor."
+test_482,"Person1 applies for a library card, provides ID, and receives information on rules and hours from Person2."
+test_483,"Person2 works longer than 9-5, earns bonuses, has flexible breaks, and handles information digitally in a cubicle."
+test_484,"Nick learns to use laundry machines with Alice's help, revealing cultural differences in independence."
+test_485,"Two people exchange greetings, discuss being busy, and plan to talk later."
+test_486,Katie's evaluation highlights punctuality improvement and encourages proactive tasks during downtime without needing reminders.
+test_487,"Plan a surprise birthday party for grandpa at home with jazz music, pizza, cake, salad, and a book gift."
+test_488,"Gian Luca from Spain meets Gina, a self-employed Finnish journalist, and introduces her to Robert at a conference."
+test_489,"Birds in North Carolina mountains are noisy every 17 years, singing and dancing in trees for weeks."
+test_490,"Person orders a turkey sandwich with cheese, beef soup, and Diet Coke, paying $10 for a $9 total."
+test_491,"James is waiting for his jacket from David before leaving for the train, while packing cookies for grandparents."
+test_492,"Ted is undecided about his holiday, while Person1 plans to visit China with their husband."
+test_493,"Father and child plan to watch ""No Country for Old Men"" and visit McDonald's afterward."
+test_494,"Person 2's house was robbed, losing all furniture. They've contacted the police but must wait."
+test_495,Jack invites Charlie to play a new character-creation video game at his house after school.
+test_496,"Person2's interest in country music led to a radio program and writing articles, building a personal library."
+test_497,"Person1 learns to use washing machines, buys too much soap, and discusses cultural differences in independence with Person2."
+test_498,Matthew and Steve reconnect; Steve offers housing help as Matthew searches for a new place.
+test_499,"Frank got a promotion and is throwing a big party on Saturday, inviting Betsy and 150 others."

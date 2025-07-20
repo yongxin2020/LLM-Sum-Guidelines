@@ -1,0 +1,551 @@
+TestID,Summary
+FR_20091112_RATP_SCD_0826,"Le client appelle pour obtenir des horaires de train pour la ligne RER de Meaux à Paris. Il demande les horaires pour un départ aux environs de 17 heures. L'agent recherche les horaires et lui donne deux options : un départ à 16h49 et un autre à 17h19. Le client remercie l'agent et l'appel se termine.
+
+Le problème principal de l'appel est la demande des horaires de train pour la ligne RER de Meaux à Paris. Les sous-problèmes incluent la clarification de la ligne de train (RER) et la spécification de l'heure de départ (aux environs de 17 heures).
+
+L'appel est résolu au cours de cet appel, car l'agent fournit les horaires demandés au client."
+FR_20091112_RATP_SCD_0765,"Synopsis :
+
+Le client appelle pour une collègue qui a reçu une amende de la RATP pour défaut de titre de transport régulier dans un bus. La collègue ne peut pas payer l'amende car elle a perdu sa carte Navigo et n'a pas les moyens suffisants. Le client trouve cela anormal et pense que l'amende de 62 euros est trop élevée. L'agent explique que c'est normal d'être verbalisé si on ne peut pas présenter son titre de transport et compare la situation à celle d'un PV pour oubli de permis de conduire. L'agent conseille à la collègue de se rendre au bureau de la RATP au 31 rue Belliard dans le 18e arrondissement avec le PV et sa carte Navigo pour régler la situation. Le client demande s'il est possible de contacter la RATP par téléphone ou par courrier, mais l'agent explique qu'il n'est plus possible de les joindre par téléphone et que la correspondance doit se faire par courrier. Le client demande si la collègue peut envoyer une lettre avec les photocopies des documents demandés, car elle travaille et n'a pas le temps de se rendre sur place. L'agent confirme que c'est possible et précise les documents à fournir : l'original du PV, la photocopie du passe Navigo et une lettre explicative. La conversation se termine sur une note de remerciement et de salutations.
+
+Points principaux de la conversation :
+1. Problème principal : Amende pour défaut de titre de transport régulier dans un bus.
+2. Sous-problèmes : Perte de la carte Navigo, incapacité de payer l'amende, difficulté à se rendre au bureau de la RATP.
+3. Résolution de l'appel : La résolution de l'appel dépendra de l'action de la collègue pour régler l'amende en se rendant au bureau de la RATP ou en envoyant les documents par courrier."
+FR_20091112_RATP_SCD_0268,"Le client appelle pour obtenir des informations sur la carte Imagine+R et demande si un dossier peut lui être envoyé pour faire une demande de carte. L'agent explique que les dossiers ne sont pas envoyés par courrier, mais sont disponibles dans tous les guichets. Le client indique qu'elle ne souhaite pas se déplacer et demande le numéro de téléphone du service Imagine+R. L'agent lui donne le numéro et la conversation se termine.
+
+Le problème principal de l'appel est la demande d'informations sur la carte Imagine+R et la possibilité d'obtenir un dossier d'abonnement.
+
+Les sous-problèmes de la conversation sont les suivants :
+- Le client demande si un dossier peut lui être envoyé par courrier.
+- L'agent explique que les dossiers ne sont pas envoyés par courrier, mais sont disponibles dans les guichets.
+- Le client demande le numéro de téléphone du service Imagine+R.
+
+L'appel est résolu car l'agent a fourni au client les informations demandées."
+FR_20091112_RATP_SCD_0346,"Résumé :
+
+Le client appelle pour demander des indications pour se rendre de l'adresse 37 boulevard de Charonne dans le 11e arrondissement à l'adresse 64 rue de Belleville dans le 20e arrondissement. Le client confirme que c'est bien le 64 boulevard de Belleville. L'agent propose d'utiliser le métro et indique que la station la plus proche est Couronne sur la ligne 2 en direction de Porte Dauphine. Le client confirme qu'il descendra à la station Couronne et l'agent précise que la sortie de la station mène directement au boulevard de Belleville où se trouve le numéro 64. Le client remercie l'agent et la conversation se termine.
+
+Points de vue :
+
+Client : Le client appelle pour demander des indications pour se rendre de l'adresse 37 boulevard de Charonne dans le 11e arrondissement à l'adresse 64 rue de Belleville dans le 20e arrondissement. Il confirme l'adresse et suit les indications données par l'agent.
+
+Agent : L'agent aide le client en lui proposant d'utiliser le métro ligne 2 en direction de Porte Dauphine et de descendre à la station Couronne. Il indique également que la sortie de la station mène directement au boulevard de Belleville où se trouve l'adresse demandée. L'agent conclut la conversation en souhaitant une bonne journée au client."
+FR_20091112_RATP_SCD_0761,"Le client appelle pour demander le renouvellement de son contrat de carte Navigo. L'agent lui explique qu'il doit se rendre en agence pour obtenir une attestation de paiement. Le client précise qu'il souhaite plutôt une attestation indiquant qu'il possède la carte Intégrale. L'agent lui donne alors le numéro du gestionnaire de la carte Intégrale. Le client note le numéro et remercie l'agent. L'appel se termine sur des salutations cordiales.
+
+Le problème principal de l'appel est le renouvellement du contrat de la carte Navigo. Le sous-problème est la demande d'une attestation de possession de la carte Intégrale. L'appel n'a pas résolu le problème du client, car il doit se rendre en agence pour obtenir l'attestation demandée."
+FR_20091112_RATP_SCD_0756,"Le client (Spk_C) appelle pour demander des informations sur la compensation et l'indemnisation suite aux récentes grèves. L'agent (Spk_B) explique que pour le moment, il n'y a pas encore de note officielle concernant le remboursement ou la compensation. Il suggère au client de rappeler la semaine prochaine ou à la fin du mois pour obtenir des informations plus précises. Le problème principal de l'appel est donc la demande d'informations sur la compensation et l'indemnisation. Le sous-problème est l'absence d'informations officielles à ce sujet. L'appel n'a pas résolu le problème du client, car aucune information concrète n'a été fournie."
+FR_20091112_RATP_SCD_0503,"Le client, Mme C, appelle pour demander des indications sur la façon de se rendre à la Gare de Lyon depuis Clichy. Elle mentionne qu'elle est perdue car elle n'est pas de la région parisienne. L'agent, M. B, lui demande plus de détails sur son point de départ à Clichy, et Mme C précise qu'elle se trouve à la station de métro treize. M. B lui explique alors qu'elle doit prendre le métro treize en direction de Châtillon et descendre à Saint-Lazare. Ensuite, elle doit prendre le métro quatorze en direction d'Olympiades jusqu'à la Gare de Lyon. Mme C demande si elle peut également prendre le train, mais M. B lui explique que ce n'est pas possible. Finalement, Mme C remercie l'agent et lui souhaite une bonne journée.
+
+Dans cette conversation, le problème principal est de savoir comment se rendre à la Gare de Lyon depuis Clichy. Les sous-problèmes incluent les détails sur le point de départ à Clichy et les différentes étapes du trajet en métro. L'appel est résolu car l'agent a fourni des instructions claires à Mme C pour se rendre à sa destination."
+FR_20091112_RATP_SCD_0779,"Le client appelle pour demander une attestation d'abonnement afin de pouvoir se faire rembourser la moitié de son abonnement par son employeur. L'agent propose deux options : se rendre directement dans une agence commerciale ou contacter le service client par téléphone. Le client choisit de contacter le service client par téléphone et l'agent lui communique le numéro à composer. L'appel se termine avec des remerciements et des salutations de part et d'autre.
+
+Questions principales de la conversation :
+- Le client demande une attestation d'abonnement pour pouvoir se faire rembourser par son employeur.
+
+Sous-problèmes de la conversation :
+- Le client précise qu'il a besoin de l'attestation depuis avril 2009.
+- L'agent propose deux options : se rendre en agence ou contacter le service client par téléphone.
+- Le client choisit de contacter le service client par téléphone.
+
+Résolution de l'appel :
+- L'appel se termine sans que l'attestation d'abonnement ne soit encore fournie."
+FR_20091112_RATP_SCD_0870,"Résumé : Le client appelle pour obtenir des informations sur les réductions dont elle peut bénéficier en tant que conjoint d'un employé de la RATP. L'agent lui explique qu'elle peut obtenir une carte de famille d'agent qui lui permettra d'obtenir une réduction de 50% sur les titres de transport, mais uniquement sur les carnets de tickets et non sur les cartes Orange. Le problème principal de l'appel est donc de savoir si le client peut bénéficier d'une réduction en tant que conjoint d'un employé de la RATP. Le sous-problème est de savoir quelles sont les conditions pour obtenir cette réduction. L'appel est résolu car l'agent a fourni les informations demandées et le client a remercié l'agent avant de raccrocher."
+FR_20091112_RATP_SCD_0905,"Résumé de la conversation :
+
+Le client appelle pour demander quel métro prendre pour se rendre au 30 rue de Reuilly. L'agent demande dans quel arrondissement se trouve cette rue, et le client répond qu'elle se trouve dans le 12ème arrondissement. L'agent recherche alors la station de métro la plus proche et informe le client qu'il doit descendre à la station Reuilly-Diderot, sur la ligne 8 ou une autre ligne. Le client demande s'il y a une sortie rue de Reuilly, et l'agent vérifie. L'agent explique que la rue de Reuilly est à l'intersection des sorties de métro, et que si le client sort du mauvais côté, il suffit de traverser le boulevard. Le client remercie l'agent et l'appel se termine.
+
+Questions principales de la conversation : 
+- Quel métro prendre pour se rendre au 30 rue de Reuilly ?
+- Y a-t-il une sortie rue de Reuilly à la station Reuilly-Diderot ?
+
+Sous-problèmes de la conversation :
+- Identification de l'arrondissement où se trouve la rue de Reuilly.
+- Recherche de la station de métro la plus proche.
+- Vérification de l'existence d'une sortie rue de Reuilly à la station Reuilly-Diderot.
+
+Résolution de l'appel : 
+Le problème du client a été résolu au cours de cet appel, car l'agent a fourni les informations demandées sur la station de métro à prendre et sur l'existence d'une sortie rue de Reuilly."
+FR_20091112_RATP_SCD_0758,"Le client (Spk_C) appelle le Service Clients à Distance pour obtenir des informations sur la possibilité d'obtenir des cartes de transport pour un séminaire qu'il organise à Paris. Il demande si la RATP dispose d'un service grand compte ou professionnel. L'agent (Spk_B) confirme qu'il existe un service grand compte, mais qu'il faut un minimum de 150 euros de commande. Le client précise qu'il y aura environ 50 personnes et que le séminaire aura lieu la semaine du 23. L'agent propose de le mettre en relation avec quelqu'un du service grand compte et demande au client de patienter. L'appel est ensuite transféré à un autre agent (Spk_D) qui confirme les informations fournies par le premier agent et prend note de la demande du client. L'appel se termine avec la confirmation que tout est en ordre. 
+
+Le problème principal de l'appel est la demande d'informations sur les cartes de transport pour le séminaire. Les sous-problèmes incluent la confirmation de l'existence d'un service grand compte, le minimum de commande requis et la date du séminaire. L'appel est résolu car le client a obtenu les informations nécessaires et a été mis en relation avec le service grand compte."
+FR_20091112_RATP_SCD_0679,"Le client appelle pour signaler qu'elle a oublié un sac contenant des radios à la clinique Arago. Elle explique qu'elle avait rendez-vous avec un chirurgien et qu'il lui a proposé de lui porter les radios. Elle a pris le métro et a posé le sac par terre, mais elle l'a oublié en descendant du métro. Le client demande si les radios ont été retrouvées et donne son nom pour les identifier. L'agent demande des détails sur le sac et le nom du client. L'agent recherche les radios mais ne les trouve pas. Il explique que si les radios sont retrouvées, elles seront renvoyées à la préfecture de police. Le client demande à l'agent de garder les photos des radios si elles sont retrouvées et lui demande de ne lui envoyer que les ordonnances du médecin. L'agent suggère au client de consulter son médecin pour obtenir une nouvelle ordonnance et passer l'examen. Le client remercie l'agent et décide d'appeler son chirurgien. L'agent s'excuse pour le désagrément et souhaite une bonne journée au client."
+FR_20091112_RATP_SCD_0897,"Le client appelle pour signaler un problème qu'il a rencontré lors de son voyage à l'aéroport d'Orly. Il explique qu'il a pris la navette Jet Bus pour se rendre à Orly Ouest, mais a découvert que le service avait été supprimé. Il a donc pris une autre navette pour se rendre à Orly Sud, puis a pris le RER B pour se rendre à Châtelet. Cependant, au lieu de descendre à Châtelet, il a été déposé à Denfert-Rochereau. Il a exprimé son mécontentement à la RATP, mais n'a pas obtenu de remboursement. Il demande donc s'il peut faire quelque chose pour obtenir un remboursement.
+
+L'agent explique que malheureusement, une fois que le billet a été validé, il n'y a pas de procédure de remboursement. Cependant, elle propose de lui donner les coordonnées du Service Clientèle d'Orlyval pour qu'il puisse faire une réclamation. Elle précise que le billet doit être envoyé avec une lettre explicative mentionnant le mouvement de grève. Elle souligne que la politique de remboursement dépend du Service Clientèle d'Orlyval, mais qu'il peut toujours essayer de faire une réclamation.
+
+Le client accepte de faire une réclamation et demande les coordonnées du Service Clientèle d'Orlyval. L'agent lui donne l'adresse et lui explique la procédure à suivre. Elle mentionne que le billet doit être envoyé avec une lettre explicative mentionnant le mouvement de grève. Elle précise que bien que la politique de remboursement soit généralement de ne pas rembourser les billets validés, il peut toujours essayer en raison du mouvement de grève.
+
+En conclusion, le problème principal de l'appel est le problème rencontré par le client lors de son voyage à l'aéroport d'Orly. Les sous-problèmes incluent la suppression de la navette Jet Bus, la mauvaise destination du RER B et l'absence de remboursement. La résolution de l'appel dépendra de la réponse du Service Clientèle d'Orlyval à la réclamation du client."
+FR_20091112_RATP_SCD_0795,"Le client est un demandeur d'emploi en formation qui a besoin de se déplacer à Paris pendant huit mois. Il souhaite savoir s'il existe un tarif adapté à sa situation. L'agent lui propose le passe Navigo Orange, mais précise qu'il n'y a pas de réduction pour les chômeurs, seulement pour les personnes au RMI. Le client doit se rendre en agence avec sa carte d'identité et un justificatif de domicile pour obtenir le passe. L'agent lui indique l'agence la plus proche de chez lui, à la Gare Montparnasse. Le client demande si la souscription en ligne est possible, mais l'agent explique que cela prendra environ trois semaines, alors que l'obtention en agence est immédiate. Le client est satisfait de cette réponse et remercie l'agent. La résolution de l'appel est donc positive, le problème du client a été résolu."
+FR_20091112_RATP_SCD_0731,"Le client appelle pour signaler la perte d'une petite trousse bleue contenant du maquillage, des médicaments, des seringues et des bijoux, dont une bague de sa grand-mère. Il explique qu'il a déjà contacté Corsair et l'aéroport d'Orly, mais sans succès. Le client demande si la trousse a été retrouvée dans le bus qui l'a conduit de l'aéroport à Denfert-Rochereau. L'agent prend note de la description de la trousse et des objets qu'elle contenait. L'agent vérifie les objets trouvés mais n'a pas retrouvé la trousse en question. L'agent conseille au client de se rendre aux objets trouvés de la rue des Morillons à Paris. Le client demande le numéro de téléphone et l'agent le lui donne. La conversation se termine avec des remerciements mutuels et des salutations. Le problème principal de l'appel est la perte de la trousse bleue et des objets qu'elle contenait. Le sous-problème est la recherche de la trousse dans le bus et les autres endroits contactés. L'appel n'a pas été résolu au cours de cette conversation."
+FR_20091112_RATP_SCD_0830,"Le client a appelé pour signaler la perte de son sac dans le métro. Il décrit le sac comme un sac Eastpak bleu anthracite avec un instrument de musique à l'intérieur. Le client a perdu le sac dans la rame de la ligne sept du métro. Il mentionne également qu'il y avait une trousse, des partitions et d'autres documents à l'intérieur du sac. Le client ne se souvient pas s'il y avait des papiers à son nom dans le sac. L'agent vérifie si le sac a été retrouvé et informe le client qu'il peut le récupérer à la station Mairie d'Ivry. L'agent donne également les horaires de récupération du sac. Le client exprime sa gratitude et prévoit de se rendre à la station pour récupérer son sac. L'appel se termine avec des remerciements mutuels et des salutations.
+
+Le problème principal de l'appel est la perte du sac dans le métro. Les sous-problèmes incluent la description du sac, les objets à l'intérieur du sac, la localisation de la perte et la procédure de récupération du sac. L'appel est résolu avec succès car le sac a été retrouvé et le client est informé de la procédure pour le récupérer."
+FR_20091112_RATP_SCD_0851,"Le client appelle pour obtenir des informations sur l'achat de tickets et de cartes pour un voyage scolaire à Paris. Le problème principal est de savoir comment obtenir les tickets et les cartes nécessaires. Le sous-problème est de savoir s'il faut les envoyer par courrier ou les obtenir directement à Paris. L'agent explique que les tickets et les cartes doivent être achetés sur place à Paris, et donne des instructions sur les points de vente RATP où les obtenir. Le problème du client est résolu au cours de l'appel, car il reçoit les informations nécessaires pour acheter les tickets et les cartes à Paris."
+FR_20091112_RATP_SCD_0782,"Le client appelle pour obtenir des informations sur un trajet. Elle souhaite se rendre de la rue d'Alger à Massy à la rue Saint-Denis à Colombes. Elle demande également à éviter de prendre le RER B en raison des grèves. L'agent recherche l'itinéraire et propose au client de prendre le bus 197 jusqu'à Porte d'Orléans, puis la ligne 4 du métro jusqu'à Porte de Clignancourt. Ensuite, elle doit prendre le bus 166 en direction d'Audra jusqu'à la station Église de Colombes, à cinq minutes à pied de sa destination. Le client répète les instructions et demande une estimation de la durée totale du trajet, qui est d'environ deux heures quinze. Le client remercie l'agent et termine l'appel.
+
+Problème principal de l'appel : Obtenir des informations sur un trajet.
+Sous-problèmes de l'appel : Éviter de prendre le RER B en raison des grèves, obtenir des instructions détaillées pour le trajet.
+Résolution de l'appel : Le problème du client a été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0755,"Le client appelle le centre d'appels pour signaler qu'il a oublié son sac à dos dans un RER. Il précise qu'il l'a laissé dans la gare de La Défense, sur la ligne A, et qu'il est descendu entre 14h20 et 14h30. Le sac à dos est gris et noir, avec trois poches fermées par des fermetures éclair. À l'intérieur, il y a une paire de chaussures Nike, un jean et un petit pull, ainsi que des papiers personnels. L'agent propose de vérifier dans le RER et de fournir le numéro de la SNCF pour obtenir plus d'informations. Après avoir vérifié, l'agent indique qu'ils n'ont rien trouvé et donne le numéro de la SNCF (08 91 20 20 20) au client. Le client demande si l'appel est payant, ce à quoi l'agent répond que oui. Le client remercie l'agent et raccroche.
+
+Problème principal de l'appel : Le client a oublié son sac à dos dans un RER.
+Sous-problèmes de la conversation : 
+- Le client précise les détails du trajet et de l'apparence du sac à dos.
+- L'agent propose de vérifier dans le RER et de fournir le numéro de la SNCF.
+- Le client demande si l'appel est payant.
+Résolution de l'appel : Le problème du client n'a pas été résolu au cours de cet appel. L'agent a fourni le numéro de la SNCF pour obtenir plus d'informations."
+FR_20091112_RATP_SCD_0813,"Résumé :
+
+Le client appelle pour signaler la perte de son gant en cuir marron clair le 10 novembre à 15h23 dans le bus numéro 289. L'agent vérifie mais ne trouve aucun gant correspondant à la description. Le problème principal de l'appel est la recherche du gant perdu. Le sous-problème est la description détaillée du gant (couleur, marque). L'appel n'est pas résolu car le gant n'a pas été retrouvé."
+FR_20091112_RATP_SCD_0783,"Le client appelle le Service Clients de la RATP pour signaler un problème avec sa carte vitale. Il explique qu'il s'est rendu dans un hôpital aux Antilles et que les informations de sa carte vitale n'ont pas pu être récupérées, ce qui a entraîné l'envoi d'une facture à payer. L'agent réalise que le client a composé le mauvais numéro et l'informe qu'il est au Service Clients de la RATP et non à la sécurité sociale. Le client réalise son erreur et raccroche. L'appel n'a pas résolu le problème du client car il a contacté le mauvais service."
+FR_20091112_RATP_SCD_0810,"Le client appelle pour savoir s'il y a eu des incidents sur les lignes treize et six ce matin. L'agent vérifie les informations et informe le client qu'il y a eu une panne de matériel sur la ligne treize à partir de 7h39, ce qui a entraîné des perturbations du trafic. Une rame a dû stationner à Gabriel Péri. Sur la ligne six, il y a eu un voyageur malade à Edgar Quinet vers 9h07, ce qui a également entraîné une interruption du service. L'agent ne peut pas fournir la durée exacte des perturbations, mais indique que le trafic a repris progressivement. Le client demande si ces informations sont disponibles sur le site de la RATP, mais l'agent explique que seules les informations générales sur les perturbations sont disponibles en ligne et qu'il faut appeler pour obtenir des informations spécifiques par ligne. L'agent confirme qu'il y a bien eu des problèmes sur les deux lignes ce matin. La conversation se termine avec des salutations cordiales."
+FR_20091112_RATP_SCD_0327,Le client appelle pour savoir si le T+deux de la Porte de Versailles à Val d'Issy est en fonction. L'agent confirme que le T+deux est en test et que les voyageurs ne peuvent pas l'emprunter actuellement. Le problème principal de l'appel est donc de savoir si le T+deux est en fonction. Le sous-problème est que le T+deux est en test et n'est pas accessible aux voyageurs. L'appel est résolu car le client a obtenu l'information demandée.
+FR_20091112_RATP_SCD_0759,"Le client appelle pour obtenir des informations sur les horaires des trains entre Sartrouville et Bécon-les-Bruyères. Le client explique qu'il y a des trains qui font cette liaison mais pas toute la journée. Le client souhaite arriver à Bécon-les-Bruyères entre 9h30 et 9h45. L'agent vérifie les horaires et propose trois options : un train à 9h05, un autre à 9h15 et le dernier à 9h25. Cependant, l'agent précise que si le client prend le train à 9h25, il arrivera à 9h38. Le client décide de prendre le train précédent pour être sûr d'arriver à l'heure. Le client demande également s'il est possible de rejoindre cette ligne en descendant à Houilles-Carrières, mais l'agent indique qu'il faut appeler la SNCF pour obtenir cette information. Le client demande alors le numéro de téléphone de la SNCF, que l'agent lui fournit. Le client remercie l'agent et la conversation se termine.
+
+Le problème principal de l'appel est de trouver les horaires des trains entre Sartrouville et Bécon-les-Bruyères. Les sous-problèmes de la conversation incluent la recherche des horaires, la décision de prendre le train précédent pour être sûr d'arriver à l'heure, et la demande d'informations sur la possibilité de rejoindre cette ligne en descendant à Houilles-Carrières. L'appel est résolu car le client obtient les horaires des trains et le numéro de téléphone de la SNCF pour obtenir plus d'informations."
+FR_20091112_RATP_SCD_0738,"Le client appelle pour obtenir des informations sur les transports en commun à Fontenay-sous-Bois. Il demande un itinéraire en bus entre la rue Victor Musso et le boulevard de Verdun. L'agent propose de prendre le bus 127 en direction de Croix de Chavaux jusqu'à l'arrêt Les Parapluies, puis de prendre le bus 124 en direction de la Place du Général de Gaulle et de descendre à la rue de Joinville. L'agent estime que le trajet prendra moins d'une demi-heure et que le client sera à cinq minutes de la rue Victor Musso. Le client remercie l'agent et termine l'appel.
+
+Le problème principal de l'appel est de trouver un itinéraire en bus entre la rue Victor Musso et le boulevard de Verdun à Fontenay-sous-Bois. Les sous-problèmes de l'appel sont la recherche d'un bus ou d'une navette et la clarification de l'adresse exacte de départ et d'arrivée. L'appel est résolu car l'agent fournit un itinéraire précis au client."
+FR_20091112_RATP_SCD_0798,"Résumé de la conversation :
+
+Le client (Spk_C) appelle pour signaler qu'elle a laissé un sac en toile dans le bus cent-vingt-trois lorsqu'elle est descendue à l'église d'Auteuil. Elle explique qu'elle n'a pas fait attention et qu'il y avait un journal à l'intérieur du sac. L'agent (Spk_B) demande des détails sur le sac et le contenu, puis promet de se renseigner auprès de la ligne cent-vingt-trois pour voir si le sac a été retrouvé. L'agent contacte ensuite le service concerné (Spk_D) pour vérifier s'ils ont récupéré le sac, mais il n'y a pas d'informations disponibles pour le moment. L'agent informe ensuite le client qu'aucun signalement n'a été fait concernant le sac et lui suggère de rappeler plus tard ou de contacter le service le lendemain matin pour plus de certitude. Le client remercie l'agent et accepte de rappeler le lendemain. La conversation se termine avec des salutations cordiales.
+
+Questions principales de la conversation :
+- Le client a appelé pour signaler la perte d'un sac en toile dans le bus cent-vingt-trois.
+- L'agent a pris note des détails du sac et du contenu et a promis de se renseigner auprès de la ligne cent-vingt-trois.
+
+Sous-problèmes de la conversation :
+- Le client a laissé le sac dans le bus lorsqu'elle est descendue à l'église d'Auteuil.
+- L'agent a contacté le service concerné pour vérifier si le sac a été retrouvé, mais aucune information n'était disponible.
+
+Résolution de l'appel :
+- Le problème du client n'a pas été résolu au cours de cet appel. L'agent a suggéré au client de rappeler plus tard ou de contacter le service le lendemain matin pour obtenir plus d'informations."
+FR_20091112_RATP_SCD_0796,"Le client appelle le centre d'appels de la RATP pour demander des informations sur la réduction tarifaire pour son conjoint. Le client explique qu'il a reçu des formulaires à remplir mais qu'ils ne sont pas pacsés. L'agent confirme que le conjoint peut bénéficier d'un tarif réduit en fournissant une déclaration sur l'honneur accompagnée d'une copie de sa pièce d'identité. Le client est reconnaissant de cette information et l'agent s'excuse pour l'attente.
+
+Le client mentionne également la pension de réversion et demande si cela a un lien avec la réduction tarifaire. L'agent n'est pas sûr et propose de contacter la caisse de retraite pour obtenir des informations supplémentaires. L'agent fournit le numéro de téléphone de la caisse de retraite du personnel RATP.
+
+Le client remercie l'agent pour son aide et lui souhaite bon courage. L'agent remercie le client et lui souhaite également une bonne journée."
+FR_20091112_RATP_SCD_0131,"Le client appelle pour signaler la perte de sa carte Émeraude, qui lui permet de voyager gratuitement en tant qu'ancien combattant. Il explique qu'il a écrit au service des réclamations de la RATP il y a environ deux à trois semaines, mais n'a pas encore reçu de réponse. L'agent explique que le délai de traitement des courriers est généralement d'environ trois semaines, en raison du volume élevé de courrier reçu par la RATP. L'agent conseille au client d'attendre encore une semaine et de rappeler s'il n'a pas de nouvelles d'ici là. L'agent propose également de vérifier avec le Service Clientèle Métro pour obtenir des informations supplémentaires sur la demande du client. Le client accepte d'attendre et de rappeler si nécessaire. L'agent mentionne également que les coupons Émeraude perdus sont normalement renvoyés à la mairie qui les a délivrés, et conseille au client de se renseigner auprès de sa mairie s'il ne reçoit pas de réponse de la RATP. La conversation se termine avec des remerciements mutuels et des salutations. 
+
+Le problème principal de l'appel est la perte de la carte Émeraude du client. Les sous-problèmes incluent l'absence de réponse du service des réclamations de la RATP et la possibilité de vérifier si le courrier a été enregistré et traité. La résolution de l'appel n'est pas claire, car le client doit attendre une semaine supplémentaire pour obtenir une réponse de la RATP ou se renseigner auprès de sa mairie."
+FR_20091112_RATP_SCD_0815,"Résumé :
+
+Le client, une association travaillant pour le conseil général de la Seine-Saint-Denis, appelle le centre d'appels pour obtenir des informations sur l'achat de tickets de transport en commun à tarif réduit pour des classes de groupes. Le client explique qu'il souhaite organiser des déplacements pour plus de cent classes tout au long de l'année scolaire. Le client pensait initialement qu'il suffisait de remplir un formulaire et d'acheter des billets demi-tarif, mais il a été informé que ce n'était pas la procédure correcte.
+
+L'agent explique au client qu'il doit télécharger le formulaire groupe de jeunes sur le site de la RATP, le faire remplir et tamponner par le responsable de l'établissement ou du groupe, puis le remettre à l'agent en station pour obtenir des tickets à tarif réduit. Cependant, le client soulève le problème du grand nombre de tickets à acheter et du fait que ce n'est pas la classe qui les achète, mais l'association qui a reçu les fonds du conseil général. L'agent décide de transférer l'appel au service concerné, qui s'occupe des ventes en nombre de billets.
+
+Le deuxième agent prend l'appel et confirme que le client souhaite acheter une grande quantité de tickets pour des groupes de jeunes à tarif réduit. Le client explique qu'il travaille pour une association au niveau départemental et qu'il souhaite faire circuler des classes en bénéficiant de tarifs réduits. L'agent prend note de la demande et transfère l'appel au service Clients à Distance, qui s'occupe de ce type de commande.
+
+Dans cette conversation, les questions principales sont les suivantes :
+1. Comment acheter une grande quantité de tickets de transport en commun à tarif réduit pour des classes de groupes ?
+2. Comment organiser les déplacements de plus de cent classes tout au long de l'année scolaire ?
+3. Comment éviter d'avoir à acheter des tickets quotidiennement ?
+
+Le problème principal de l'appel est la demande du client d'acheter une grande quantité de tickets à tarif réduit pour des classes de groupes.
+
+La résolution de l'appel n'est pas claire dans cette conversation, car l'appel est transféré à un autre service pour traiter la demande du client."
+FR_20091112_RATP_SCD_0788,"Le client appelle pour demander s'il est possible de suspendre son abonnement Navigo en raison de son arrêt de travail depuis le 2 décembre. L'agent confirme que cela est possible et explique les conditions de remboursement. Le client devra faire supprimer son abonnement dans une station et envoyer les justificatifs de son arrêt de travail à la RATP pour obtenir un remboursement à la moitié de la valeur de l'abonnement. Le client demande si cela peut être fait dans les 10 jours, et l'agent lui conseille de le faire malgré le dépassement de la période, en joignant une lettre explicative. L'appel se termine avec l'agent souhaitant une bonne journée au client. Le problème principal de l'appel est la demande de suspension de l'abonnement Navigo en raison de l'arrêt de travail du client. Les sous-problèmes incluent les conditions de remboursement et les démarches à suivre pour obtenir le remboursement. L'appel est résolu car le client a obtenu les informations nécessaires pour suspendre son abonnement et demander un remboursement."
+FR_20091112_RATP_SCD_0805,"Le client appelle pour signaler un problème de prélèvement excessif sur son abonnement à la carte Imagine+R. Il explique qu'il a été prélevé de 52 euros alors que le montant normal est de 44,70 euros. L'agent lui donne alors le numéro de téléphone du service Imagine+R pour qu'il puisse les contacter directement. L'appel se termine avec l'agent remerciant le client et lui souhaitant une bonne journée.
+
+Le problème principal de l'appel est le prélèvement excessif sur l'abonnement à la carte Imagine+R.
+
+La résolution de l'appel n'est pas claire, car l'agent ne semble pas avoir résolu le problème directement, mais a plutôt orienté le client vers le service approprié pour obtenir de l'aide."
+FR_20091112_RATP_SCD_0735,"Synopsis :
+
+Le client appelle pour demander le coût de l'appel téléphonique vers l'entreprise. Le client exprime son mécontentement car cette information n'est pas mentionnée dans la messagerie d'attente. L'agent reconnaît qu'il ne sait pas et promet de signaler cette lacune. Le client demande à l'agent de le faire et l'agent accepte. L'appel se termine avec des salutations cordiales.
+
+Questions principales de la conversation :
+- Le coût de l'appel téléphonique vers l'entreprise.
+
+Sous-problèmes de la conversation :
+- Le client exprime son mécontentement quant à l'absence d'information sur le coût de l'appel dans la messagerie d'attente.
+- L'agent reconnaît qu'il ne sait pas et promet de signaler cette lacune.
+
+Résolution de l'appel :
+- Le problème du client n'est pas résolu au cours de cet appel, mais l'agent promet de le signaler."
+FR_20091112_RATP_SCD_0902,"Résumé :
+
+Le client appelle le centre d'appel pour obtenir de l'aide concernant un problème de recouvrement lié à un PV reçu par son fils dans le RER. Le client explique qu'elle a déjà contacté le service ce matin, mais qu'elle n'a pas été dirigée vers le service de recouvrement. Elle précise que son fils possède une carte Imagine+R annuelle et ne comprend pas pourquoi elle devrait payer à nouveau. Le client explique que son fils a été verbalisé car il n'avait pas présenté sa carte ce jour-là. Le client mentionne également qu'elle a envoyé un courrier à la RATP pour expliquer la situation. Cependant, elle a reçu une relance de paiement de 40 euros, avec la menace d'une amende de 180 euros si elle ne paie pas dans les 15 jours. L'agent comprend la situation et transfère l'appel au service de recouvrement. Le client remercie l'agent et l'appel se termine.
+
+Points principaux de la conversation :
+1. Le client appelle pour obtenir de l'aide concernant un problème de recouvrement lié à un PV reçu par son fils dans le RER.
+2. Le client ne comprend pas pourquoi elle doit payer à nouveau, car son fils possède une carte Imagine+R annuelle.
+3. Le client a envoyé un courrier expliquant la situation, mais a reçu une relance de paiement.
+
+Résolution de l'appel :
+L'appel n'est pas résolu au cours de cette conversation, car l'agent transfère l'appel au service de recouvrement pour une assistance supplémentaire."
+FR_20091112_RATP_SCD_0317,Le client appelle pour savoir s'ils ont retrouvé son téléphone portable Alcatel blanc qu'il a perdu hier dans l'autobus de la ligne 20 en fin d'après-midi. L'agent vérifie et informe le client qu'aucun téléphone portable n'a été retrouvé. Le problème principal de l'appel est la recherche du téléphone portable perdu. Le sous-problème est la description du téléphone (marque et couleur). L'appel est résolu car le client obtient une réponse négative quant à la récupération de son téléphone.
+FR_20091112_RATP_SCD_0710,"Le client appelle pour demander des informations sur les transports en commun pour se rendre de la rue Michel-Ange à Aulnay-sous-Bois à l'avenue Aristide Briand au Blanc-Mesnil. Le client souhaite connaître les itinéraires en bus et éventuellement en RER. L'agent propose un itinéraire en bus avec deux correspondances, en utilisant les bus Courriers de l'Île-de-France (CIF). Le client demande des détails sur les stations et le nombre de stations à parcourir. L'agent fournit les informations demandées. Le client demande ensuite si le RER est une option, car il souhaite rentrer vers 16 heures. L'agent vérifie les horaires et propose un itinéraire en RER de la gare d'Aulnay-sous-Bois à Blanc-Mesnil, suivi d'un bus CIF pour rejoindre l'avenue Aristide Briand. Le client demande également des informations sur le retour vers 16 heures. L'agent propose un itinéraire en bus CIF de Victoire à la gare d'Aulnay-sous-Bois. Le client exprime sa satisfaction quant à la simplicité de l'itinéraire proposé. L'agent vérifie les horaires pour le retour et propose un bus en direction de Villeparisis, avec une correspondance à l'arrêt Anatole France pour rejoindre la gare. Le client remercie l'agent pour son aide. 
+
+Le problème principal de l'appel est de trouver un itinéraire de transport en commun pour se rendre de la rue Michel-Ange à Aulnay-sous-Bois à l'avenue Aristide Briand au Blanc-Mesnil. Les sous-problèmes de la conversation incluent les détails sur les stations et le nombre de stations à parcourir, ainsi que les options de"
+FR_20091112_RATP_SCD_0862,"Le client a appelé pour savoir si la grève des bus était reconduite pour le lendemain. Le problème principal de l'appel était donc de connaître l'état du trafic des bus. Le sous-problème était de savoir si la grève était reconduite spécifiquement à Vitry-sur-Seine. L'agent a confirmé que le trafic serait normal le lendemain, résolvant ainsi le problème du client. L'appel a été résolu au premier appel."
+FR_20091112_RATP_SCD_0747,"Le client appelle pour demander des informations sur la possibilité de se faire rembourser son abonnement annuel de transport en commun en raison d'une jambe cassée qui l'empêche de l'utiliser depuis septembre. L'agent propose de suspendre la carte en se rendant en agence commerciale ou en envoyant une personne avec une procuration. Il donne également le numéro de téléphone et l'adresse de la gestion de la carte pour demander un éventuel remboursement. Le client demande si cela est possible et l'agent pense que oui, à condition de fournir les justificatifs médicaux. L'agent encourage le client à contacter directement la gestion de la carte pour obtenir une confirmation. La conversation se termine avec des remerciements et des salutations.
+
+Questions principales de la conversation :
+- Possibilité de remboursement de l'abonnement annuel de transport en commun en raison d'une jambe cassée.
+
+Sous-problèmes de la conversation :
+- Suspension de la carte en agence commerciale ou avec une procuration.
+- Fourniture des justificatifs médicaux pour demander un remboursement.
+- Confirmation de la possibilité de remboursement en contactant la gestion de la carte.
+
+Résolution de l'appel :
+- Le problème du client n'est pas résolu au cours de cet appel, mais des informations et des étapes sont fournies pour le résoudre."
+FR_20091112_RATP_SCD_0087,"Le client appelle pour demander des informations sur les bus disponibles à la station Javel du RER pour se rendre à la rue Vauthier à Boulogne-Billancourt. L'agent recherche les informations et informe le client qu'il peut prendre le bus 72 en traversant le Pont de Mirabeau et en descendant à l'arrêt Route de la Reine-Jean Jaurès. Le client confirme qu'il prendra le bus 72 et remercie l'agent. L'appel se termine de manière cordiale.
+
+Questions principales de la conversation :
+- Le client demande s'il y a un bus disponible pour se rendre de la station Javel à la rue Vauthier à Boulogne-Billancourt.
+
+Sous-problèmes de la conversation :
+- Le client demande s'il y a un bus disponible.
+- L'agent recherche les informations sur les bus disponibles.
+
+Résolution de l'appel :
+- Le problème du client est résolu au cours de cet appel, car l'agent lui fournit les informations demandées."
+FR_20091112_RATP_SCD_0775,"Synopsis :
+
+Le client, un agent RATP, appelle pour obtenir des informations sur le musée des transports. Il demande s'il y a un moyen de contacter le musée, car il a essayé plusieurs fois sans succès. L'agent du centre d'appel recherche des informations et fournit un numéro de téléphone et une adresse internet pour le musée. Le client mentionne qu'il a déjà essayé de contacter le musée par téléphone, mais n'a pas reçu de réponse. L'agent suggère de laisser un message, mais le client indique qu'il n'y a pas de boîte vocale. Le client explique qu'il souhaite préparer quelque chose sur le réseau avec le musée. L'agent propose alors une adresse postale pour envoyer un courrier. Le client mentionne que le musée est actuellement fermé et qu'il n'est pas sûr si quelqu'un y est présent. L'agent indique que c'est toute l'information qu'il a et souhaite bonne chance au client. La conversation se termine avec des salutations cordiales.
+
+Points de vue :
+- Client : Le client cherche à contacter le musée des transports pour préparer quelque chose sur le réseau. Il a déjà essayé de les contacter par téléphone, mais n'a pas reçu de réponse. Il demande s'il y a un autre moyen de les joindre.
+- Agent : L'agent recherche des informations pour le client et fournit un numéro de téléphone et une adresse internet pour le musée. Il suggère de laisser un message ou d'envoyer un courrier. Il mentionne que c'est toute l'information qu'il a et souhaite bonne chance au client."
+FR_20091112_RATP_SCD_0370,"Le client appelle pour obtenir le numéro d'infraction lié à une amende qu'il a reçue dans un bus, car il souhaite rédiger un courrier. L'agent comprend que le client souhaite connaître le numéro d'infraction et propose de le passer au service approprié. Le client remercie et la conversation est transférée à un autre agent du centre de paiement RATP. L'agent explique à son collègue qu'un client n'a pas encore reçu son PV et souhaite obtenir des informations. L'autre agent demande si le client n'a pas plutôt reçu une lettre de relance. L'agent initial précise que le client a été verbalisé dans un bus et n'a pas encore reçu son PV. L'autre agent accepte de vérifier cela avec le client. La conversation se termine avec des remerciements mutuels. 
+
+Le problème principal de l'appel est la demande du client de connaître le numéro d'infraction lié à son amende. Le sous-problème est la confusion initiale de l'agent sur la nature de la demande du client. La résolution de l'appel n'est pas claire, car l'agent transfère la conversation à un autre agent pour obtenir les informations demandées par le client."
+FR_20091112_RATP_SCD_0772,"Le client appelle le Service Clientèle pour obtenir des informations sur le trafic du bus 325 à la Bibliothèque François Mitterrand. Il se plaint du fait qu'il attend depuis plus d'une demi-heure et n'a pas encore vu de bus. L'agent confirme que le trafic est perturbé sur cette ligne et qu'il n'y a que deux bus qui tournent sur cette ligne. Le client demande alors combien de temps il devra attendre. L'agent se renseigne et informe le client qu'un bus est prévu dans huit minutes, mais qu'il faudra compter environ un quart d'heure avant qu'il reparte. Le client exprime sa frustration face à la longueur de l'attente et l'agent compatit en disant que les conducteurs doivent être épuisés. Finalement, l'agent confirme au client qu'il devra attendre au moins un quart d'heure avant que le bus ne reparte. Le client remercie l'agent et met fin à l'appel.
+
+Le problème principal de l'appel est le retard du bus 325 à la Bibliothèque François Mitterrand. Les sous-problèmes incluent le nombre limité de bus sur cette ligne et le temps d'attente estimé. L'appel est résolu car le client obtient les informations demandées sur le temps d'attente du bus."
+FR_20091112_RATP_SCD_0816,"Le client appelle pour mettre à jour les montants de la carte Intégrale pour sa société dans le logiciel de paie. Il rencontre un problème car les années précédentes, il y avait différentes zones avec des prix différents, mais sur le site actuel, il ne voit que les zones quatre à six et pas les zones six à huit. L'agent explique que les zones sept et huit ont été supprimées et intégrées à la zone six. Donc, si le client a des personnes dans les zones sept et huit, il doit prendre les prix de la zone cinq et six. Le client comprend et remercie l'agent pour l'explication. La résolution de l'appel est que le client a maintenant compris comment prendre en compte les différentes zones de la carte Intégrale."
+FR_20091112_RATP_SCD_0428,"Le client appelle pour savoir si les lignes de bus de Clamart Corentin et de Corentin Montrouge sont en service aujourd'hui. Elle explique qu'elle est âgée et qu'elle doit se rendre chez le dentiste, et elle ne veut pas tomber en panne en route. L'agent demande le numéro des lignes qu'elle emprunte, et elle donne les numéros 189 et 126. L'agent vérifie et confirme que les deux lignes sont en service. Le client demande également s'il y a une grève sur ces lignes, et l'agent explique que seule la dépôt de Vitry est en grève, donc ces deux lignes ne sont pas concernées. Le client remercie l'agent et l'appel se termine.
+
+Questions principales de la conversation :
+- Le client demande si les lignes de bus de Clamart Corentin et de Corentin Montrouge sont en service aujourd'hui.
+- Le client demande s'il y a une grève sur ces lignes.
+
+Sous-problèmes de la conversation :
+- Le client explique qu'elle est âgée et qu'elle ne veut pas tomber en panne en route.
+- L'agent demande le numéro des lignes que le client emprunte.
+- Le client demande également s'il y a une grève sur ces lignes.
+
+Résolution de l'appel :
+Le problème du client a été résolu au cours de cet appel, car l'agent confirme que les lignes de bus sont en service et qu'il n'y a pas de grève sur ces lignes."
+FR_20091112_RATP_SCD_0829,"Le client appelle pour obtenir des informations sur l'itinéraire et le tarif pour se rendre de Noisiel à Bobigny-Pablo Picasso. Le client ne sait pas exactement où se trouve Bobigny et demande également le tarif. L'agent propose un itinéraire avec un changement à la Gare de Lyon et en prenant la ligne cinq jusqu'à la station Quai de la Rapée, puis en direction de Bobigny-Pablo Picasso. Le tarif pour l'aller est de 4,30 euros. Le client remercie l'agent et mentionne que c'est rapide d'obtenir de l'aide de la RATP. L'appel se termine de manière cordiale.
+
+Le problème principal de l'appel est de trouver l'itinéraire et le tarif pour se rendre de Noisiel à Bobigny-Pablo Picasso. Les sous-problèmes incluent la localisation de Bobigny et la demande de tarif. L'appel est résolu avec succès car l'agent fournit l'itinéraire et le tarif demandés."
+FR_20091112_RATP_SCD_0246,"Le client appelle pour connaître l'état du trafic sur la ligne B du RER, car il a entendu dire qu'elle était fermée en raison d'une grève. L'agent lui indique que la ligne n'est pas fermée, mais qu'il y a seulement huit trains qui circulent entre Gare du Nord, Saint-Rémy et Robinson. Le client demande ensuite comment il pourra se rendre à la Gare du Nord demain matin s'il n'y a pas de RER. L'agent lui conseille de prendre le bus 57 en direction de Porte de Bagnolet jusqu'à la Place d'Italie, puis de prendre la ligne 5 en direction de Bobigny jusqu'à la Gare du Nord. Le client demande si cela fonctionnera et l'agent confirme que cela devrait marcher. Le client exprime ensuite son mécontentement face aux grèves et au fait que les usagers sont les plus touchés. Il soulève également la question du remboursement des abonnements en cas de grève prolongée. L'agent lui dit qu'ils sont en train de voir ce qu'ils peuvent faire pour les usagers. Le client mentionne que les informations sur la reprise du trafic ont été contradictoires et que pour l'instant, il y a très peu de trains sur la ligne B. Finalement, le client remercie l'agent et l'appel se termine. 
+
+Le problème principal de l'appel est l'état du trafic sur la ligne B du RER. Les sous-problèmes incluent les alternatives de transport pour se rendre à la Gare du Nord et les préoccupations concernant les grèves et les remboursements des abonnements. L'appel n'a pas résolu le problème du client, car l'agent ne peut pas prédire si les RER seront disponibles demain."
+FR_20091112_RATP_SCD_0833,"Le client appelle le Service Clients à Distance pour signaler la perte d'un dossier d'inscription à la fac de sa fille ainsi que tous ses papiers pour le Canada. Le client précise que le dossier est un cartonnage marqué ""papier Canada"" et contient des lettres et la carte d'étudiante de sa fille au nom de Zoé. Le client indique avoir perdu le dossier le mardi 38 vers midi. L'agent demande au client de patienter et contacte le service de Montrouge pour vérifier si le dossier a été retrouvé. L'agent revient vers le client pour lui dire que le dossier n'a pas été retrouvé. Le client remercie l'agent et met fin à l'appel.
+
+Questions principales de la conversation :
+- Perte du dossier d'inscription à la fac et des papiers pour le Canada.
+
+Sous-problèmes de la conversation :
+- Description du dossier perdu : cartonnage marqué ""papier Canada"" contenant des lettres et la carte d'étudiante au nom de Zoé.
+- Date et heure de la perte du dossier : mardi 38 vers midi.
+
+Résolution de l'appel :
+- Le problème du client n'a pas été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0740,"Le client appelle pour demander des renseignements sur la perte de son portefeuille dans le métro. Il précise qu'il l'a perdu ce matin sur la ligne quatre, à la station Barbès-Rochechouart. L'agent confirme avoir déjà parlé au client plus tôt. Le client rappelle pour vérifier si son portefeuille a été retrouvé. L'agent s'excuse et dit qu'il n'a toujours pas de nouvelles. Le client remercie l'agent et la conversation se termine avec des salutations cordiales.
+
+Questions principales de la conversation : 
+- Le client appelle pour demander des renseignements sur la perte de son portefeuille.
+
+Sous-problèmes de la conversation :
+- Le client a perdu son portefeuille dans le métro.
+- Le portefeuille a été perdu sur la ligne quatre, à la station Barbès-Rochechouart.
+
+Résolution de l'appel :
+- Le problème du client n'a pas été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0739,"Le client appelle pour signaler un problème avec le bus de la ligne 294 à Verrières-le-Buisson. Elle explique que le bus ne s'est pas arrêté à l'arrêt où elle se trouvait, malgré le fait qu'elle et d'autres voyageurs aient fait signe au chauffeur. Cela a entraîné un retard pour le rendez-vous du client. L'agent prend note de l'incident et promet de remonter l'information au régulateur de la ligne. Le client exprime sa frustration quant à cette situation inhabituelle et le manque de professionnalisme du chauffeur. L'appel se termine avec des remerciements mutuels et des salutations.
+
+Problème principal : Le bus de la ligne 294 ne s'est pas arrêté à l'arrêt où le client se trouvait, entraînant un retard pour son rendez-vous.
+
+Sous-problèmes : 
+- Le bus est passé devant l'arrêt sans s'arrêter.
+- Le client et d'autres voyageurs ont fait signe au chauffeur, mais il est passé tout droit.
+- Le client avait un rendez-vous qui a été retardé en raison de cet incident.
+
+Résolution de l'appel : L'agent prend note de l'incident et promet de remonter l'information au régulateur de la ligne pour résoudre le problème."
+FR_20091112_RATP_SCD_0856,"Synopsis :
+
+Le client appelle la RATP pour obtenir des informations sur les tarifs des transports en commun à Paris. Cependant, il a composé le mauvais numéro et est dirigé vers le service de commandes pour les entreprises et les établissements scolaires. L'agent explique au client qu'il doit appeler le numéro 32-46 pour obtenir les renseignements demandés. Le client insiste pour obtenir des informations de la part de l'agent, mais l'agent répète qu'il ne peut pas l'aider et lui donne à nouveau le bon numéro à appeler. Finalement, le client remercie l'agent et raccroche.
+
+Points principaux de la conversation :
+- Le client appelle pour obtenir des informations sur les tarifs RATP.
+- Le client a composé le mauvais numéro et est dirigé vers le service de commandes.
+- L'agent explique au client qu'il doit appeler le numéro 32-46 pour obtenir les renseignements demandés.
+
+Sous-problèmes de la conversation :
+- Le client ne sait pas qu'il a composé le mauvais numéro.
+- Le client insiste pour obtenir des informations de la part de l'agent.
+
+Résolution de l'appel :
+- Le problème du client n'est pas résolu au cours de cet appel, car il doit appeler le bon numéro pour obtenir les informations demandées."
+FR_20091112_RATP_SCD_0858,"Le client a appelé le service Imagine+R pour signaler un problème avec le débit de son forfait Imagine+R. Il explique que sa fille n'a pas pu utiliser sa carte Imagine+R pendant tout le mois d'octobre, mais qu'elle a été débitée quand même. De plus, elle a dû acheter des tickets de transport supplémentaires. Le client souhaite régulariser cette situation.
+
+L'agent confirme que le problème est anormal et explique que le délai d'expédition de la nouvelle carte Imagine+R est normalement de trois semaines. Si le délai est dépassé, c'est à Imagine+R de prendre en charge les titres de transport. L'agent conseille au client d'écrire à Imagine+R en précisant la date de sa demande de carte et en demandant le remboursement des titres de transport.
+
+Le client demande également si Imagine+R décale les prélèvements, car elle a été prélevée à nouveau en novembre, même si sa fille avait changé de compte. L'agent conseille au client de préciser ce problème dans sa lettre et de fournir le maximum de précisions, y compris un numéro de téléphone ou une adresse pour être contacté.
+
+La résolution de l'appel n'est pas clairement indiquée dans la conversation, mais le client est informé des démarches à suivre pour régler le problème avec Imagine+R."
+FR_20091112_RATP_SCD_0854,"Le client appelle pour demander des indications sur l'itinéraire de la Porte de Saint-Cloud à Clichy-sous-Bois. Il souhaite savoir s'il y a un RER ou une station de métro pour s'y rendre. L'agent lui explique qu'il n'y a ni métro ni RER à Clichy-sous-Bois, seulement des bus. Le client mentionne qu'il va à un théâtre mais n'a pas l'adresse exacte. L'agent propose de lui donner un itinéraire jusqu'à la mairie, mais précise que si le théâtre est à l'autre bout de la ville, il devra prendre un bus. Finalement, l'agent donne à client un itinéraire en utilisant le métro, le RER, le tramway et un bus pour se rendre à la mairie de Clichy-sous-Bois. Le client remercie l'agent et prévoit de vérifier l'emplacement exact du théâtre avant de prendre le trajet recommandé. La résolution de l'appel dépendra de la capacité du client à trouver le théâtre en utilisant les indications fournies."
+FR_20091112_RATP_SCD_0844,"Le client appelle le centre d'appels pour se faire rembourser une amende qu'il a reçue dans le métro. Il explique qu'il possède une carte Imagine+R mais ne l'avait pas sur lui au moment de l'amende. L'agent lui explique que le remboursement est exceptionnel et étudié au cas par cas. Le client doit envoyer une photocopie de son abonnement, le ticket reçu et une lettre expliquant les faits à l'adresse indiquée. Le client demande à l'agent de répéter l'adresse plusieurs fois en raison de problèmes de connexion. Finalement, l'agent donne l'adresse complète et le numéro de téléphone pour contacter le service clientèle. L'appel se termine avec des remerciements et des salutations. 
+
+Le problème principal de l'appel est la demande de remboursement de l'amende. Les sous-problèmes incluent la possession de la carte Imagine+R, l'absence de la carte au moment de l'amende et les instructions pour envoyer les documents nécessaires. La résolution de l'appel dépendra de l'examen du cas par le service clientèle."
+FR_20091112_RATP_SCD_0988,"Synopsis :
+
+Le client appelle le centre d'appels pour obtenir les coordonnées de la personne responsable des autorisations de prise de vue. L'agent prend en charge la demande du client et lui fournit un numéro de téléphone ainsi qu'une adresse e-mail. Le client répète les informations pour s'assurer de les avoir correctement notées. L'appel se termine avec le client remerciant l'agent et souhaitant une bonne journée.
+
+Questions principales de la conversation :
+- Le client cherche à joindre la personne responsable des autorisations de prise de vue.
+
+Sous-problèmes de la conversation :
+- Le client demande les coordonnées de la personne recherchée.
+- L'agent recherche les informations demandées.
+- L'agent fournit les coordonnées au client.
+
+Résolution de l'appel :
+- Le problème du client est résolu au cours de cet appel, car l'agent fournit les coordonnées demandées."
+FR_20091112_RATP_SCD_0900,"Le client appelle pour obtenir des informations sur l'état du trafic sur la ligne RER B. Il se plaint que les annonces indiquent toujours trois trains sur quatre, alors qu'il n'y en avait que deux sur une heure ce matin. Le client demande des informations plus précises pour savoir à quelle heure partir du travail. Le client exprime également son mécontentement quant aux informations affichées dans les gares, qui ne correspondent pas à la réalité. L'agent reconnaît que les informations disponibles sont limitées et propose de vérifier les prochains trains au départ de Denfert. L'agent informe le client qu'il y a actuellement un train en direction de Massy à Luxembourg. Cependant, l'agent ne dispose pas d'informations sur la fréquence des trains. Le client décide finalement de ne pas prendre le train et demande à l'agent de le rappeler quelques minutes avant son départ prévu. L'agent accepte et propose également de demander en temps réel où se trouve le train. Le client remercie l'agent et met fin à l'appel. 
+
+Le problème principal de l'appel est l'obtention d'informations précises sur l'état du trafic sur la ligne RER B. Les sous-problèmes incluent les informations incorrectes affichées dans les gares et le manque d'informations sur la fréquence des trains. L'appel n'a pas résolu le problème du client, car il décide de ne pas prendre le train."
+FR_20091112_RATP_SCD_0785,"Le client appelle pour demander des informations sur l'arrêt de bus du bus numéro 43 qui va de la Gare du Nord à Neuilly. L'agent recherche l'information et indique à la cliente que l'arrêt se trouve sur la rue de Dunkerque, en face de la rue de Saint-Quentin. La cliente demande des précisions sur la hauteur de la rue de Dunkerque, mais l'agent ne fournit pas cette information. Finalement, la cliente remercie l'agent et l'appel se termine.
+
+Questions principales de la conversation :
+- Où se trouve l'arrêt du bus numéro 43 de la Gare du Nord à Neuilly ?
+
+Sous-problèmes de la conversation :
+- Hauteur de la rue de Dunkerque.
+
+Résolution de l'appel :
+Le problème du client a été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0742,"Le client (Spk_C) appelle pour obtenir des informations sur le trafic sur la ligne B4 demain matin entre 9h et 9h30. L'agent (Spk_B) indique qu'il n'a pas encore d'informations à ce sujet, mais qu'il y aura une réunion ce soir et qu'ils en sauront plus après 20h. Le client demande ensuite des informations sur le trafic actuel sur la même ligne, et l'agent répond que trois trains sur quatre circulent jusqu'à Saint-Rémy-lès-Chevreuse. Le client remercie l'agent et lui souhaite une bonne journée. 
+
+Le problème principal de l'appel est la demande d'informations sur le trafic sur la ligne B4 demain matin. Les sous-problèmes de l'appel sont la demande d'informations sur le trafic actuel sur la même ligne. L'appel n'a pas résolu le problème du client, car l'agent n'a pas pu fournir les informations demandées."
+FR_20091112_RATP_SCD_0986,"Le client appelle pour signaler la perte de sa carte de transport Navigo et Solidarité+Transport dans le bus cent+treize en direction de Nogent-sur-Marne. L'agent recherche la carte et la retrouve avec l'aide d'un autre agent. Le client est informé que sa carte a été retrouvée et qu'elle peut la récupérer au terminus du bus avant vingt heures. Cependant, le client mentionne qu'elle travaille jusqu'à dix-neuf heures trente et qu'elle est plus proche de Neuilly-Plaisance. L'agent insiste sur le fait qu'elle doit se rendre au terminus de Nogent-sur-Marne avant vingt heures. Le client accepte et remercie l'agent pour son aide.
+
+Le problème principal de l'appel est la perte de la carte de transport. Les sous-problèmes incluent la recherche de la carte par l'agent et la localisation du terminus pour la récupérer. L'appel est résolu car la carte a été retrouvée et le client a été informé de la procédure pour la récupérer."
+FR_20091112_RATP_SCD_0745,"Le client appelle pour obtenir des informations sur l'itinéraire pour se rendre de la gare RER Croix de Berny à l'aéroport Charles de Gaulle, terminal 2, pour être là vers 13h30. L'agent recherche l'itinéraire et informe le client qu'il devrait prendre le RER B, avec un départ prévu vers 12h32 et une arrivée prévue à 13h29. Cependant, l'agent mentionne également qu'il faut vérifier si le mouvement social du RER B sera reconduit le lendemain. Le client demande un numéro pour se renseigner et l'agent lui indique d'appeler le 32 46 après 20h pour obtenir des informations pour la journée suivante. Le client demande également des informations sur d'autres horaires de départ et l'agent lui donne les horaires de départ à 12h32 et à 12h40, avec des arrivées respectives à 13h29 et à 13h37. L'appel se termine avec le client remerciant l'agent et souhaitant une bonne journée. 
+
+Le problème principal de l'appel est de connaître l'itinéraire pour se rendre de la gare RER Croix de Berny à l'aéroport Charles de Gaulle, terminal 2, pour être là vers 13h30. Les sous-problèmes de l'appel incluent la recherche de l'itinéraire, la vérification du mouvement social du RER B et la demande d'autres horaires de départ. L'appel est résolu car l'agent fournit les informations demandées au client."
+FR_20091112_RATP_SCD_0737,"Résumé :
+
+Le client appelle pour obtenir des informations sur la possibilité d'être remboursé après avoir oublié sa carte Intégrale et acheté des tickets de métro. Le client souhaite savoir s'il peut être remboursé pour les tickets utilisés. L'agent confirme que lorsqu'un abonnement est oublié, aucun remboursement n'est prévu. Le problème principal de l'appel est donc la demande de remboursement des tickets. Le sous-problème est l'oubli de la carte Intégrale. L'appel se termine sans résolution, car le client ne peut pas être remboursé."
+FR_20091112_RATP_SCD_0754,"Le client appelle pour demander un remboursement de sa carte Orange à la semaine, car sa carte Imagine+R est arrivée avec du retard. Le client a fait la demande de la carte fin septembre et l'a reçue hier. L'agent explique que normalement, pour obtenir un remboursement, il faut faire la demande le premier jour d'utilisation du passe ou la veille. Étant donné que le client a chargé la carte pour une semaine, il sera difficile d'obtenir un remboursement. L'agent suggère de contacter Imagine+R pour voir s'ils peuvent accorder un geste commercial en raison du retard de livraison. L'agent fournit également l'adresse e-mail du service clientèle d'Imagine+R pour que le client puisse les contacter. La conversation se termine avec des salutations cordiales. 
+
+Le problème principal de l'appel est la demande de remboursement de la carte Orange à la semaine. Les sous-problèmes incluent le retard de livraison de la carte Imagine+R et la possibilité d'obtenir un geste commercial. La résolution de l'appel n'est pas claire, car le client doit contacter Imagine+R pour discuter de la situation."
+FR_20091112_RATP_SCD_0868,"Le client appelle pour demander des informations sur la station de métro la plus proche de l'adresse Jules Regnault à Vitry-sur-Seine. Le client mentionne d'abord la station Louis Aragon, mais se corrige ensuite en disant que c'est la station Julian Grimau. L'agent confirme cette information et demande le numéro de rue, qui est 195. Le client explique ensuite qu'elle doit prendre le bus 393 depuis Choisy-le-Roi jusqu'à l'arrêt Grimau-Voie Verte. L'agent confirme cette information et la conversation se termine.
+
+Le problème principal de l'appel est de trouver la station de métro la plus proche de l'adresse du client. Les sous-problèmes incluent la confusion initiale sur le nom de la station et la nécessité de prendre le bus depuis Choisy-le-Roi jusqu'à l'arrêt Grimau-Voie Verte. L'appel est résolu car le client obtient les informations demandées."
+FR_20091112_RATP_SCD_0867,"Le client, un retraité de la RATP, appelle pour demander des indications sur la localisation de la rue Taclet dans le 20ème arrondissement. L'agent lui explique que la rue Taclet se trouve entre Télégraphe et Pelleport, à l'angle de la rue Pelleport. L'agent recommande au client de prendre le bus 102 jusqu'à Gambetta, puis de prendre le bus 60 en direction de Porte de Montmartre et de descendre à l'arrêt Ménilmontant-Pelleport. Le client remercie l'agent et met fin à l'appel.
+
+Questions principales de la conversation : 
+- Localisation de la rue Taclet dans le 20ème arrondissement.
+
+Sous-problèmes de la conversation :
+- Itinéraire à prendre en bus depuis Rosny.
+- Arrêts de bus à prendre pour se rendre à la rue Taclet.
+
+Résolution de l'appel : 
+Le problème du client a été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0468,"Le client appelle le Novotel Paris les Halles pour demander la fréquence des RER B de Châtelet à Charles de Gaulle. L'agent n'a pas cette information et suggère de consulter le site web. Le client mentionne que le site web est souvent en grève, ce qui rend difficile de trouver cette information. L'appel se termine sans résolution du problème."
+FR_20091112_RATP_SCD_0777,"Le client appelle pour obtenir des informations sur la réparation de l'interconnexion entre les lignes de Drancy et Châtelet. Le client mentionne que ce matin, tous les trains étaient terminus à la Gare du Nord et demande si l'interconnexion a été rétablie. L'agent confirme que l'interconnexion a été rétablie aujourd'hui, mais reconnaît que ce matin, lorsqu'il a pris son service, il y avait encore des problèmes. Le client exprime son mécontentement face aux problèmes récurrents sur cette ligne et mentionne une expérience négative ce matin avec des retards et des trains bondés. L'agent reconnaît la situation difficile et le client conclut en disant qu'il va prendre le train malgré tout. L'appel se termine avec des salutations cordiales.
+
+Le problème principal de l'appel est la demande d'informations sur la réparation de l'interconnexion entre les lignes de Drancy et Châtelet. Les sous-problèmes incluent les retards, les trains terminus à la Gare du Nord, les trains bondés et les problèmes récurrents sur cette ligne. L'appel n'a pas résolu le problème du client, car l'agent ne peut pas expliquer les problèmes rencontrés ce matin."
+FR_20091112_RATP_SCD_0036,"Synopsis :
+
+Le client appelle pour signaler qu'il a oublié son écharpe dans le bus numéro 140. Il explique qu'il l'a laissée hier soir en descendant à Colombes. L'agent informe le client qu'il doit appeler le service plus tard, car il n'est pas encore ouvert à cette heure-ci. Le client accepte de rappeler à 11 heures. L'appel se termine sur cette note.
+
+Points principaux de la conversation :
+- Le client a oublié son écharpe dans le bus numéro 140.
+- L'agent informe le client qu'il doit appeler plus tard, car le service n'est pas encore ouvert.
+- Le client accepte de rappeler à 11 heures.
+
+Sous-problèmes de la conversation :
+- Le client a oublié son écharpe dans le bus.
+- L'agent informe le client sur les heures d'ouverture du service.
+
+Résolution de l'appel :
+L'appel n'est pas résolu au cours de cette conversation, car le client doit rappeler plus tard lorsque le service sera ouvert."
+FR_20091112_RATP_SCD_0792,"Résumé :
+
+Le client appelle pour demander des informations sur un itinéraire de Denfert-Rochereau au 36 rue d'Assas à Paris. L'agent propose de prendre le bus ligne 68 depuis l'arrêt Victor Considerant, qui se trouve sur le boulevard Raspail. Le client confirme qu'il connaît l'arrêt Rennes-Raspail. L'agent précise que le bus doit être pris en direction de Place de Clichy. Le client mentionne que le bus passe par Saint-Germain. L'agent confirme et indique que le client doit descendre à l'arrêt Rennes-Raspail, qui est proche de sa destination. L'agent explique ensuite au client qu'une fois descendu du bus, il devra faire marche arrière et prendre la rue de Vaugirard à droite pour rejoindre la rue d'Assas. Le client remercie l'agent et lui souhaite une bonne journée.
+
+Le problème principal de l'appel est de trouver un itinéraire de Denfert-Rochereau au 36 rue d'Assas. Les sous-problèmes incluent la confirmation de l'arrêt Rennes-Raspail, la direction du bus et les indications pour rejoindre la rue d'Assas depuis l'arrêt de bus. L'appel est résolu car l'agent fournit toutes les informations nécessaires au client pour se rendre à sa destination."
+FR_20091112_RATP_SCD_0791,"Synopsis :
+
+Le client appelle pour demander des informations sur l'itinéraire de l'autobus 154, car il doit se rendre à l'arrêt Fischer pour se rendre à la clinique cardiologique du Nord à Saint-Denis. Le client est confus car il sait qu'il y a plusieurs lignes 154. L'agent explique qu'il n'a qu'une seule ligne 154 qui va de la gare d'Enghien à Porte de Paris. L'agent demande l'adresse exacte de la clinique et le client donne l'adresse de la rue des Moulins-Gémeaux à Saint-Denis. L'agent recherche l'itinéraire et recommande au client de prendre le bus 255 en direction de la mairie de Stains et de descendre à la station Suger. L'agent explique ensuite à quel point l'itinéraire est court et donne des indications pour se rendre à la clinique depuis la station Suger. Le client est reconnaissant pour l'aide fournie et l'agent lui assure qu'il est disponible pour toute autre question ou itinéraire. La conversation se termine sur une note positive.
+
+Points principaux de la conversation :
+- Le client demande des informations sur l'itinéraire de l'autobus 154 pour se rendre à la clinique cardiologique du Nord à Saint-Denis.
+- Le client est confus car il sait qu'il y a plusieurs lignes 154.
+- L'agent explique qu'il n'a qu'une seule ligne 154 qui va de la gare d'Enghien à Porte de Paris.
+- Le client donne l'adresse de la clinique et l'agent recherche l'itinéraire.
+- L'agent recommande au client de prendre le bus 255 en direction de la mairie de Stains et de descendre à la station Suger.
+- L'agent donne des indications pour se rendre à la clinique depuis la station Suger.
+- Le client est reconnaissant pour l'aide fournie.
+
+Résolution de l'appel : Le problème du client a été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0808,"Le client appelle pour connaître le prix d'un billet de train de Arcueil-Cachan à Antony. L'agent vérifie et informe le client que le prix est de 1,55 euro. Le problème principal de l'appel est donc la demande de prix du billet. Il n'y a pas de sous-problèmes identifiés dans cette conversation. L'appel est résolu avec succès car le client obtient l'information demandée."
+FR_20091112_RATP_SCD_0764,"Le client appelle pour savoir s'il y a des grèves sur les lignes de bus 148 et 322, ainsi que s'il y a des grèves surprises aujourd'hui. Le sous-problème est donc de savoir si les lignes de bus sont affectées par des grèves. L'agent vérifie l'information et confirme qu'il n'y a pas d'avis de grève sur ces lignes. Le problème principal de l'appel est donc résolu, car le client obtient l'information demandée. L'appel se termine avec des remerciements et des salutations de part et d'autre."
+FR_20091112_RATP_SCD_0265,"Le client appelle pour demander à parler au directeur ou au responsable de la ligne 86 afin de faire une réclamation concernant un chauffeur. L'agent demande des précisions sur la nature de la réclamation et le client mentionne qu'il s'agit d'un problème psychologique lié à un accident survenu le mardi 9 novembre au pont de Sully. L'agent demande si le chauffeur a fait un rapport, mais le client indique que le chauffeur a fait une crise d'épilepsie. L'agent demande au client de patienter et le transfère ensuite au directeur de la ligne 86. 
+
+L'agent du centre d'appels de Vincennes est ensuite en ligne avec le directeur de la ligne 86. L'agent demande si le directeur a entendu parler d'un chauffeur ayant fait une crise d'épilepsie le 9 novembre. Le directeur confirme avoir connaissance de l'incident. L'agent explique qu'une cliente souhaite parler au responsable de la ligne 86 en raison d'un choc psychologique causé par la crise d'épilepsie du chauffeur. Le directeur indique qu'il est en vacances et demande à l'agent de lui passer la cliente. L'agent transfère ensuite l'appel au directeur de la ligne 86. 
+
+Le problème principal de l'appel est la réclamation du client concernant le chauffeur de la ligne 86. Le sous-problème est le choc psychologique subi par le client suite à la crise d'épilepsie du chauffeur. La résolution de l'appel n'est pas claire, car le directeur de la ligne 86 est en vacances et la cliente doit être transférée vers lui."
+FR_20091112_RATP_SCD_0398,"Le client appelle pour signaler qu'il a réactivé sa carte de transport, mais qu'il a oublié de mettre à jour ses coordonnées bancaires depuis qu'il l'a désactivée. Le client demande s'il peut se rendre en agence pour régler ce problème. L'agent propose une autre solution, qui consiste à contacter Intégrale par téléphone pour obtenir une autorisation de prélèvement et envoyer un RIB. Le client accepte cette solution et remercie l'agent. L'appel se termine sur des salutations cordiales. Le problème principal de l'appel est la mise à jour des coordonnées bancaires du client. Le sous-problème est la recherche d'une solution pour mettre à jour les coordonnées bancaires. L'appel est résolu au cours de cet appel, car le client accepte la solution proposée par l'agent."
+FR_20091112_RATP_SCD_0803,"Le client, Mme C, appelle le centre d'appels pour obtenir des informations sur le renouvellement de sa carte de transport en tant que retraitée de la RATP. Elle explique qu'elle a reçu une nouvelle carte mais ne comprend pas pourquoi elle doit la changer car elle n'a pas de date d'expiration. L'agent, Mme B, explique que les anciennes cartes ne fonctionnent plus et qu'il y a des nouvelles cartes en circulation. Mme C mentionne qu'elle a également une autre carte jaune pour circuler dans le métro et le bus. L'agent confirme que c'est la carte de transport et explique que la nouvelle carte est valable jusqu'en 2019. Mme C est rassurée et remercie l'agent pour son aide.
+
+Questions principales de la conversation :
+- Renouvellement de la carte de transport en tant que retraité de la RATP
+- Compréhension de la nécessité de changer la carte
+
+Sous-problèmes de la conversation :
+- Explication de la différence entre les anciennes et les nouvelles cartes
+- Confirmation de la validité de la nouvelle carte jusqu'en 2019
+
+Résolution de l'appel : Le problème du client a été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0817,"Résumé :
+
+Le client appelle le Service Clientèle pour discuter d'un courrier qu'elle a reçu concernant une amende dans le bus. Elle explique qu'il y a eu un problème de renouvellement de son passe Navigo et qu'elle avait déjà envoyé les documents nécessaires à l'adresse indiquée. Cependant, elle a reçu un courrier lui demandant de payer cinq euros et ne comprend pas pourquoi. L'agent du Service Clientèle prend note de la situation et décide de transférer l'appel au service de paiement pour obtenir des explications. 
+
+Le problème principal de l'appel est le courrier demandant le paiement de cinq euros. Les sous-problèmes incluent le problème de renouvellement du passe Navigo et l'envoi des documents nécessaires. 
+
+La résolution de l'appel n'est pas clairement indiquée dans la conversation, mais l'agent décide de transférer l'appel au service de paiement pour obtenir des réponses."
+FR_20091112_RATP_SCD_0778,"Le client appelle pour obtenir des informations tarifaires sur un abonnement mensuel ou annuel pour le trajet Paris Creil. L'agent confirme la demande et indique qu'il va se renseigner. L'agent revient ensuite en expliquant que la SNCF est responsable de ce trajet et qu'ils pourront fournir les tarifs. Le client demande alors le numéro de téléphone de la SNCF, que l'agent lui donne. Le client remercie l'agent et l'appel se termine.
+
+Questions principales de la conversation : Le client demande des informations tarifaires pour un abonnement mensuel ou annuel pour le trajet Paris Creil.
+
+Sous-problèmes de la conversation : Le client demande le numéro de téléphone de la SNCF pour obtenir les informations tarifaires.
+
+Résolution de l'appel : Le problème du client n'est pas résolu au cours de cet appel, car l'agent ne peut pas fournir les informations tarifaires demandées."
+FR_20091112_RATP_SCD_0863,"Le client, représentant du collège Bobée à Yvetot en Seine-Maritime, appelle pour commander deux cents tickets de métro pour des voyages scolaires à Paris. L'agent explique que le montant de la commande n'est pas suffisant pour être traité par téléphone et conseille au client de se rendre directement au guichet sur place. Le client exprime sa difficulté à le faire rapidement en raison de contraintes de temps. L'agent propose alors de passer une commande d'un montant minimum de cent cinquante euros. Le client accepte et demande comment procéder. L'agent suggère de contacter directement le service de commande pour les groupes et met le client en attente pour le mettre en relation. Cependant, le client est redirigé vers la messagerie vocale de la personne concernée. L'agent propose alors au client de rappeler le lendemain matin ou un autre jour. Le client accepte de rappeler le lendemain et demande si elle doit composer le même numéro ou un autre. L'agent suggère de composer le numéro trente-deux+quarante-six ou le numéro zéro+un+cinquante-huit. Le client indique qu'elle a déjà appelé le numéro trente-deux+quarante-six et qu'elle a été informée de composer le numéro trois+cent+soixante-dix-sept. Le client remercie l'agent et conclut l'appel. 
+
+Le problème principal de l'appel est la commande de deux cents tickets de métro pour des voyages scolaires à Paris. Les sous-problèmes incluent la difficulté pour le client de se rendre au guichet sur place et la nécessité de passer une commande d'un montant minimum de cent cinquante euros. L'appel n'a pas été résolu au cours de cet appel, car le client doit rappeler le lendemain pour passer la commande."
+FR_20091112_RATP_SCD_0845,"Le client appelle pour savoir si les bus de la ligne 125 sont en service, car il attend depuis une heure et demie et aucun bus n'est passé. Le client mentionne qu'il y a une grève. L'agent confirme qu'il y a seulement deux bus en service et conseille au client de ne pas attendre. Le client mentionne qu'il risque d'y avoir un bus bientôt. L'agent demande à l'arrêt où se trouve le client et sa destination. L'agent transfère l'appel à un autre agent pour obtenir des informations sur les bus de la ligne 125. Le deuxième agent confirme qu'il y a deux bus en service et qu'ils sont ensemble à Verdun. Les bus devraient arriver dans environ dix minutes. Le premier agent transmet cette information au client, qui remercie et raccroche. Le problème principal de l'appel est de savoir si les bus de la ligne 125 sont en service. Le sous-problème est le nombre de bus en service et leur emplacement. L'appel est résolu car le client a obtenu l'information demandée."
+FR_20091112_RATP_SCD_0367,"Le client appelle pour obtenir des renseignements sur la ligne de bus 486 et demande si un mouvement de grève a lieu ce matin. L'agent lui dit qu'elle ne sait pas mais peut lui donner le numéro de téléphone pour les contacter. Le client accepte et l'agent lui donne le numéro. Le client confirme le numéro et demande si elle peut obtenir des renseignements concernant la ligne. L'agent lui dit que c'est Athis Cars qui s'en occupe. Le client remercie l'agent et met fin à l'appel.
+
+Questions principales de la conversation :
+- Le client demande si un mouvement de grève a lieu sur la ligne de bus 486.
+- Le client demande si elle peut obtenir des renseignements sur la ligne.
+
+Sous-problèmes de la conversation :
+- Le client demande si un mouvement de grève a lieu.
+- Le client demande le numéro de téléphone pour contacter la compagnie de bus.
+- Le client demande si elle peut obtenir des renseignements sur la ligne.
+
+Résolution de l'appel :
+Le problème principal du client, savoir s'il y a un mouvement de grève sur la ligne de bus 486, est résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0852,"Le client (Spk_C) appelle pour demander quels documents sont nécessaires pour faire une demande de carte Orange. L'agent (Spk_B) lui explique qu'il faut un justificatif de domicile et une pièce d'identité. Le client mentionne qu'il est en stage et qu'il habite chez quelqu'un, et l'agent lui conseille de faire une attestation d'hébergement et de fournir une photocopie de la pièce d'identité de la personne chez qui il habite. Le client remercie l'agent et l'appel se termine.
+
+Le problème principal de l'appel est la demande d'informations sur les documents nécessaires pour faire une demande de carte Orange. Les sous-problèmes de l'appel sont la situation du client en tant que stagiaire et son hébergement chez quelqu'un d'autre. L'appel est résolu car l'agent a fourni les informations demandées par le client."
+FR_20091112_RATP_SCD_0771,Le client appelle pour obtenir des informations sur les transports depuis la Gare de l'Est jusqu'à l'aéroport Charles de Gaulle. Le client mentionne avoir vu sur le site internet qu'il y a un bus (problème principal). L'agent confirme que le bus 350 est une bonne option en raison de la grève actuelle du RER (sous-problème). L'agent donne des détails sur l'itinéraire du bus et la durée du trajet (sous-problème). Le client mentionne son horaire d'arrivée à la Gare de l'Est et l'agent propose des horaires de bus appropriés (sous-problème). Le client confirme son choix d'horaire et demande des informations sur le prix du billet (sous-problème). L'agent donne le prix du billet et confirme qu'il peut être acheté à bord (sous-problème). Le client remercie l'agent pour les informations et termine l'appel (résolution de l'appel).
+FR_20091112_RATP_SCD_1058,"Le client appelle le Service Clients à Distance pour signaler qu'il a oublié une boîte dans le bus numéro 281 en direction d'Europarc. Il décrit la boîte comme étant en métal avec un drapeau de l'Angleterre dessus. L'agent prend note de l'information et vérifie si la boîte a été signalée auprès de la ligne de bus. Le client confirme que c'est récent et qu'il vient de descendre du bus. L'agent contacte le terminus de Joinville pour demander si un objet a été retrouvé dans le bus 281. L'agent informe le client que la boîte a été retrouvée et se trouve au terminus d'Europarc. Le client confirme qu'il va se rendre immédiatement à Europarc pour récupérer la boîte. L'agent remercie le client et met fin à l'appel.
+
+Le problème principal de l'appel est la perte de la boîte dans le bus. Le sous-problème est la localisation de la boîte et la résolution de l'appel est la confirmation que la boîte a été retrouvée et peut être récupérée au terminus d'Europarc."
+FR_20091112_RATP_SCD_0799,"Le client a appelé pour obtenir des informations sur la ligne de bus 65, en particulier sur les travaux en cours et le temps de trajet entre la mairie d'Aubervilliers et l'arrêt Saint-Claude. L'agent a confirmé que la ligne fonctionnait normalement depuis la mairie d'Aubervilliers et qu'il n'y avait pas de problème à rejoindre l'arrêt Saint-Claude. Cependant, il a averti le client de prévoir environ 50 minutes de trajet en raison des travaux en cours et de la circulation. Le client a également demandé s'il y avait une alternative en utilisant le métro, et l'agent a suggéré de prendre le métro depuis Aubervilliers-Quatre+Chemins jusqu'à Gare de l'Est, puis de prendre la correspondance avec la ligne 5 en direction de Place d'Italie et de descendre à Oberkampf. L'agent a estimé que cela prendrait environ 20 minutes. Le client a finalement décidé de prendre le métro pour se rendre à sa destination. La résolution de l'appel est que le client a obtenu les informations nécessaires pour choisir le meilleur itinéraire pour se rendre à sa destination."
+FR_20091112_RATP_SCD_0493,"Le client appelle pour obtenir le numéro de téléphone de l'accueil du métro huit à l'arrêt Richelieu-Drouot. Il explique ensuite qu'il a eu un problème avec son billet de métro et qu'il a dû racheter un billet. L'hôtesse a pris sa carte Imagine+R et ne lui a pas rendue, ce qui l'empêche maintenant de circuler dans la région de Versailles. Le client demande comment il peut contacter l'hôtesse pour récupérer sa carte. L'agent appelle le Service Clients de Richelieu-Drouot pour vérifier si la carte a été laissée là-bas, mais il n'obtient pas de réponse. Finalement, l'agent informe le client qu'il a été confirmé qu'une carte a été oubliée à Richelieu-Drouot et conseille au client de s'y rendre le plus tôt possible avec une pièce d'identité pour la récupérer. Le client explique qu'il ne pourra pas s'y rendre avant la fin de la journée en raison de son travail, mais l'agent insiste sur l'importance d'y aller le plus tôt possible en raison du changement de service. Le client accepte et remercie l'agent. La conversation se termine avec des salutations cordiales. 
+
+Le problème principal de l'appel est la récupération de la carte Imagine+R du client. Les sous-problèmes incluent la recherche de la carte à Richelieu-Drouot et la planification de la visite du client pour la récupérer. L'appel n'a pas résolu le problème du client, car il n'a pas pu se rendre à Richelieu-Drouot immédiatement."
+FR_20091112_RATP_SCD_0886,"Le client, représentant de l'espace jeunesse de Vélizy-Villacoublay, appelle le service client pour savoir s'il existe un site internet où il peut télécharger les bons de commande pour effectuer une commande de billetterie. Le client explique qu'il a essayé plusieurs fois de passer commande, mais n'a pas réussi à le faire à temps avant les vacances. Il souhaite maintenant passer une commande plus importante avec le budget restant. L'agent explique que le bon de commande doit être obtenu en passant par leur service et en contactant un chargé de clientèle. Le client confirme qu'il est bien de l'espace jeunesse de Vélizy-Villacoublay et l'agent le met en attente pour être mis en relation avec le chargé de clientèle.
+
+Dans la deuxième partie de la conversation, un nouvel agent répond à l'appel et fait une blague sur la couleur des yeux du client. L'agent explique ensuite qu'il a l'espace jeunesse de Vélizy-Villacoublay au téléphone et qu'ils souhaitent créer un compte. L'agent transfère ensuite l'appel au service concerné.
+
+Le problème principal de l'appel est la demande du client de savoir s'il existe un site internet pour télécharger les bons de commande. Les sous-problèmes incluent les difficultés rencontrées par le client pour passer commande avant les vacances et sa volonté de passer une commande plus importante maintenant. La résolution de l'appel n'est pas claire, car l'appel est transféré à un autre service pour traiter la demande de création de compte."
+FR_20091112_RATP_SCD_0732,"Résumé :
+
+Le client, représentant de la Mission Locale de Boulogne, appelle pour une jeune fille qui a perdu son reçu de paiement pour son passe Navigo. Le client demande si la jeune fille peut obtenir un duplicata de son reçu en se rendant à la station. L'agent explique que la jeune fille doit se rendre à l'agence commerciale où elle a fait son passe Navigo et demander une attestation de paiement. L'agent précise que l'agence commerciale n'est pas le guichet. L'agent suggère à la jeune fille de retourner au Pont de Sèvres, où elle a fait son passe Navigo, pour obtenir l'attestation. L'appel se termine avec les remerciements de l'agent et les salutations de fin de conversation.
+
+Résolution de l'appel : Le problème du client n'est pas résolu au cours de cet appel. La jeune fille doit se rendre à l'agence commerciale pour obtenir une attestation de paiement."
+FR_20091112_RATP_SCD_0859,"Le client appelle le service des cartes de familles d'agents pour obtenir des informations sur sa demande de carte de transport pour son fils. Il explique qu'il a fait une demande il y a plusieurs mois mais n'a pas reçu de nouvelles. L'agent confirme que la procédure a été suivie et que la demande a été transmise aux services compétents. L'agent propose de mettre le client en relation avec la personne responsable des cartes de familles d'agents, mais il découvre que cette personne n'est pas disponible. Il demande donc au client de rappeler plus tard dans la journée pour être mis en relation avec la personne concernée. Le client accepte et remercie l'agent. La résolution de l'appel n'a pas été atteinte car le client doit rappeler ultérieurement."
+FR_20091112_RATP_SCD_0871,"Le client appelle pour demander des informations sur comment se rendre à l'aéroport d'Orly depuis son emplacement actuel à Clamart. Le client mentionne qu'il doit être à l'aéroport à 7 heures du matin le lendemain. L'agent propose d'abord de prendre le bus 190 jusqu'à la mairie d'Issy, puis de prendre le métro pour se rendre à l'aéroport. Cependant, le client mentionne avoir vu une autre option sur un plan, qui consiste à prendre le bus 189 jusqu'à Georges Pompidou, puis le bus 395 jusqu'à Antony RER. L'agent vérifie les horaires et réalise que cette option n'est pas possible. Finalement, l'agent propose une solution plus simple : prendre le bus 189 jusqu'à la gare de Clamart, puis prendre le train jusqu'à Montparnasse, et enfin prendre les cars Air France pour se rendre à l'aéroport. Les horaires des cars Air France sont toutes les demi-heures, avec le premier départ à 6h15. Le client est satisfait de cette solution et note qu'il devra partir au plus tard à 5h30 pour être à l'heure à l'aéroport. La conversation se termine sur une note positive avec des remerciements mutuels. Le problème principal de l'appel est de trouver le meilleur moyen de se rendre à l'aéroport d'Orly depuis Clamart. Les sous-problèmes incluent les différentes options de transport proposées par l'agent et le client, ainsi que la vérification des horaires. L'appel est résolu avec succès, car le client a obtenu une solution claire pour se rendre à l'aéroport à l'heure souhaitée."
+FR_20091112_RATP_SCD_0865,"Le client appelle pour demander l'itinéraire de Paris 19ème arrondissement au 16 rue de l'Équerre, dans le 13ème arrondissement de Paris, en passant par le boulevard Port-Royal. Il souhaite être sur place à 6 heures du matin le lendemain. L'agent prend note de la demande et propose un itinéraire en utilisant les transports en commun. Le client accepte l'itinéraire proposé et remercie l'agent. L'appel se termine sur une note positive avec des salutations cordiales. 
+
+Le problème principal de l'appel est de trouver l'itinéraire pour se rendre du Paris 19ème arrondissement au 16 rue de l'Équerre, dans le 13ème arrondissement de Paris, en passant par le boulevard Port-Royal. Les sous-problèmes de l'appel incluent la demande de l'heure d'arrivée souhaitée (6 heures du matin) et les détails spécifiques de l'itinéraire, tels que les stations de métro et les horaires de départ et d'arrivée.
+
+L'appel est résolu avec succès, car l'agent fournit à l'appelant un itinéraire détaillé en utilisant les transports en commun. Le client est satisfait de l'assistance fournie par l'agent et remercie l'agent avant de raccrocher."
+FR_20091112_RATP_SCD_0894,"Résumé :
+
+Le client appelle pour obtenir des informations sur la suspension de sa carte Navigo. Il explique qu'il bénéficie également de la carte Solidarité en raison de sa CMU. L'agent confirme qu'il va se renseigner sur la suspension de la carte Intégrale du client. L'agent informe ensuite le client qu'il devra se rendre dans une agence commerciale avec sa pièce d'identité et sa carte pour résilier son abonnement. Le client demande si cela empêchera les prélèvements le mois prochain, et l'agent lui conseille de se rendre à l'agence le plus tôt possible pour arrêter les prélèvements. Le client remercie l'agent et l'appel se termine.
+
+Questions principales de la conversation : 
+- Comment suspendre la carte Navigo ?
+- Est-il possible de résilier l'abonnement de la carte Intégrale ?
+
+Sous-problèmes de la conversation :
+- Le client explique qu'il bénéficie de la carte Solidarité en raison de sa CMU.
+- L'agent confirme qu'il va se renseigner sur la suspension de la carte Intégrale du client.
+- Le client demande si la résiliation empêchera les prélèvements le mois prochain.
+
+Résolution de l'appel : 
+- L'agent informe le client qu'il devra se rendre dans une agence commerciale pour résilier son abonnement. La résolution dépendra de l'action du client pour arrêter les prélèvements."
+FR_20091112_RATP_SCD_0746,"Synopsis :
+
+Le client appelle pour obtenir des informations sur la grève du RER B et savoir si elle sera reconduite demain. Il exprime son mécontentement quant à la situation actuelle et demande s'il y aura un geste commercial envers les usagers. L'agent reconnaît la difficulté de la situation et affirme qu'il pense qu'il y aura probablement une compensation, mais ne peut rien garantir. Le client exprime son ras-le-bol face aux problèmes récurrents sur la ligne B, qui était autrefois considérée comme l'une des meilleures. L'agent confirme que la situation s'est détériorée et que même en dehors des périodes de grève, les conditions de transport sont difficiles. Le client conclut en exprimant son mécontentement et l'agent s'excuse sincèrement. La conversation se termine sur des salutations cordiales.
+
+Points principaux de la conversation :
+- Le client demande des informations sur la grève du RER B et si elle sera reconduite demain.
+- Le client exprime son mécontentement face aux problèmes récurrents sur la ligne B.
+- Le client demande s'il y aura un geste commercial envers les usagers.
+- L'agent reconnaît la difficulté de la situation et pense qu'il y aura probablement une compensation, mais ne peut rien garantir.
+
+Sous-problèmes de la conversation :
+- Le client exprime son mécontentement face aux problèmes récurrents sur la ligne B.
+- Le client demande s'il y aura un geste commercial envers les usagers.
+
+Résolution de l'appel :
+- L'agent ne peut pas résoudre le problème du client concernant la grève du RER B, mais il reconnaît la difficulté de la situation et pense qu'il y aura probablement une compensation pour les usagers mécontents."
+FR_20091112_RATP_SCD_0804,"Résumé :
+
+Le client appelle pour connaître l'horaire de fin de service du bus soixante-quatre, au départ de la Porte de Vincennes en direction de la Place d'Italie. L'agent confirme la demande et demande au client de patienter. L'agent revient ensuite avec l'information selon laquelle le dernier départ du bus soixante-quatre de Cour de Vincennes est à zéro heure trente-six. Le client remercie l'agent et l'appel se termine.
+
+Questions principales de la conversation : 
+- Horaire de fin de service du bus soixante-quatre au départ de la Porte de Vincennes en direction de la Place d'Italie.
+
+Sous-problèmes de la conversation :
+- Confirmation de la demande du client.
+- Recherche de l'information demandée.
+- Communication de l'information au client.
+
+Résolution de l'appel : 
+- Oui, le problème du client a été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0824,"Synopsis :
+
+Le client appelle pour obtenir des informations sur l'interconnexion à la gare de Drancy. Il mentionne qu'une collègue de bureau a été informée qu'il n'y avait pas d'interconnexion en direction de Mitry-Claye, mais seulement pour les personnes se rendant aux aéroports. L'agent confirme que l'interconnexion est disponible pour Drancy et explique que les départs pour Mitry-Claye se font depuis la Gare du Nord, tandis que ceux pour l'aéroport Charles de Gaulle peuvent être pris à Denfert-Rochereau, Châtelet ou Gare du Nord. Le client comprend et s'excuse d'avoir mal compris précédemment. Il prévoit de rappeler sa collègue pour lui expliquer correctement. L'appel se termine sur une note positive avec le client remerciant l'agent pour son aide.
+
+Points principaux de la conversation :
+1. Le client demande des informations sur l'interconnexion à la gare de Drancy.
+2. Le client mentionne qu'une collègue a été informée qu'il n'y avait pas d'interconnexion en direction de Mitry-Claye.
+3. L'agent explique que l'interconnexion est disponible pour Drancy et précise les départs pour Mitry-Claye et l'aéroport Charles de Gaulle.
+4. Le client comprend et s'excuse d'avoir mal compris précédemment.
+5. L'agent offre son aide et souhaite une bonne journée au client.
+
+Résolution de l'appel : Le problème du client a été résolu au cours de cet appel, car l'agent a fourni les informations nécessaires sur l'interconnexion à la gare de Drancy."
+FR_20091112_RATP_SCD_0510,"Le client appelle pour se plaindre des perturbations dans les transports en commun. Il exprime son mécontentement quant aux informations contradictoires fournies par les médias et demande si la grève se poursuivra le lendemain. L'agent explique qu'il n'a pas de prévisions pour le lendemain, mais mentionne qu'aujourd'hui, il y a 6 trains sur 10 en circulation. Le client partage son expérience de la journée, soulignant les retards importants et le manque d'informations fiables. L'agent admet que les informations peuvent être trompeuses et que les prévisions ne sont pas toujours exactes. Le client mentionne également que son conjoint travaille à la RATP et qu'il avait été informé que le trafic serait normal aujourd'hui. L'agent réfute cette information en expliquant que les prévisions étaient de 4 trains sur 6. Le client exprime sa frustration face aux informations contradictoires et au manque d'organisation. Il mentionne également que les gens ne peuvent pas poser indéfiniment des RTT (Réduction du Temps de Travail) et que les perturbations dans les transports affectent leur capacité à se rendre au travail. L'agent reconnaît les difficultés rencontrées par les travailleurs du privé et suggère que la grève est un moyen de se battre pour leurs droits. Le client souligne la différence de pouvoir entre les travailleurs du privé et ceux de la RATP, affirmant que les employés du privé risquent de perdre leur emploi s'ils font grève. L'agent mentionne son expérience dans le privé et affirme qu'il est important de faire connaître les problèmes. Le client explique qu'il travaille dans une association de protection des animaux et que faire grève aurait un impact sur les animaux dont ils s'occupent. L'agent suggère que c'est au patron de trouver une solution dans ce cas. La conversation se termine sans résolution claire du problème du client."
+FR_20091112_RATP_SCD_0898,"Le client appelle pour signaler un problème avec sa carte Imagine+R qui ne fonctionne pas. Il mentionne que la carte affiche ""carte muette avec la puce"" et ne fonctionne ni avec la puce ni avec le contact. L'agent demande des informations supplémentaires, notamment le nom du client et son numéro de passe. Le client fournit les informations demandées, mais précise que c'est son collègue qui effectuera l'échange de la carte. L'agent confirme que l'échange peut être effectué et indique que la procédure pour une carte détériorée sera suivie. L'appel se termine avec les remerciements de l'agent et les souhaits d'une bonne journée. 
+
+Le problème principal de l'appel est le dysfonctionnement de la carte Imagine+R du client. Les sous-problèmes incluent l'identification du client, la collecte des informations nécessaires et la confirmation de la possibilité d'échange de la carte. L'appel est résolu car l'agent propose une solution et le client accepte."
+FR_20091112_RATP_SCD_0831,"Le client appelle le centre d'appels pour signaler des problèmes sur la ligne de bus 267. Il mentionne que les bus ne circulent que toutes les 3 heures le matin et le soir, ce qui pose des problèmes d'horaires pour les utilisateurs. Il demande une solution pour améliorer la fréquence des bus. L'agent propose de le mettre en relation avec le Service Clientèle de la ligne. Le client accepte et attend en ligne pendant que l'agent cherche le numéro. Malheureusement, l'agent ne parvient pas à trouver le numéro et suggère d'appeler un autre numéro compétent. Le client accepte et l'agent lui donne plusieurs numéros à essayer. Le client remercie l'agent et raccroche. 
+
+Le client rappelle plus tard et demande à un autre agent s'il peut lui donner le numéro du Service Clientèle pour le bus 267. L'agent cherche le numéro mais ne parvient pas à le trouver. Il propose d'envoyer un courrier ou de rappeler le lendemain. Le client accepte les deux options et l'agent lui donne l'adresse du Centre Bus Charlebourg ainsi que le site internet de la RATP où il peut laisser des observations. Le client remercie l'agent et la conversation se termine. 
+
+Le problème principal de l'appel est le problème d'horaires sur la ligne de bus 267. Les sous-problèmes incluent la recherche du numéro du Service Clientèle et les solutions proposées par l'agent (envoyer un courrier ou rappeler le lendemain). La résolution de l'appel n'est pas claire, car le client doit prendre d'autres mesures pour résoudre son problème."
+FR_20091112_RATP_SCD_0773,"Le client a appelé le centre d'appels pour signaler qu'il n'a pas reçu de rappel concernant une amende qu'il a réglée fin mai. Le client explique qu'il a été transféré à un autre service, mais que personne ne l'a rappelé malgré la prise de ses coordonnées. Le client souhaite savoir à quoi correspond le chèque de 62 euros qu'il a envoyé. L'agent comprend la demande du client et lui demande de patienter. L'appel est ensuite transféré au centre de paiement de la RATP. L'agent explique la situation à l'agent du centre de paiement, qui prendra en charge la demande du client. L'appel se termine sur une note positive, avec les remerciements du client et les salutations de l'agent. 
+
+Le problème principal de l'appel est le manque de rappel concernant une amende réglée par le client. Le sous-problème est la demande du client de savoir à quoi correspond le chèque de 62 euros qu'il a envoyé. La résolution de l'appel n'est pas clairement indiquée dans la conversation."
+FR_20091112_RATP_SCD_0880,"Le client appelle pour demander des informations sur les bus à prendre pour se rendre de la Gare Saint-Lazare à la Gare de l'Est à Paris. Il souhaite connaître le tarif d'un ticket de bus et la fréquence des bus. L'agent confirme qu'il faut prendre la ligne de bus trente-deux et que les bus sont fréquents, avec un départ toutes les dix minutes environ. Le bus descend directement devant la Gare de l'Est et prend les passagers devant la Gare Saint-Lazare. Le client demande également où acheter le ticket de bus et l'agent explique qu'il peut être acheté dans un appareil ou un guichet, mais si le client l'achète dans le bus, il coûtera un euro soixante-dix. Le client préfère acheter le ticket dans le bus et prévoit d'avoir au moins deux euros. L'agent confirme que la ligne de bus trente-deux est l'arrêt juste en sortant de la gare. Le client remercie l'agent et l'appel se termine de manière cordiale.
+
+Résolution de l'appel : Le problème du client a été résolu au cours de cet appel."
+FR_20091112_RATP_SCD_0751,"Le client appelle pour demander sur quelle ligne se trouve la station de métro Bourse. L'agent vérifie et informe le client que la station Bourse se trouve sur la ligne de métro ligne trois. Le client demande ensuite des informations sur les stations avoisinantes et les connexions avec les autres lignes. L'agent mentionne les stations Sentier Réaumur-Sébastopol et Opéra-Quatre+Septembre comme les plus proches de la station Bourse. Le client demande ensuite si en prenant le RER+E jusqu'à Saint-Lazare et en prenant la ligne trois à Saint-Lazare, il peut se rendre à la station Bourse. L'agent confirme que c'est possible en prenant la ligne trois en direction de Galliéni à partir de Saint-Lazare. Le client remercie l'agent et l'appel se termine.
+
+Le problème principal de l'appel est de savoir sur quelle ligne se trouve la station Bourse. Les sous-problèmes incluent les informations sur les stations avoisinantes et les connexions avec les autres lignes, ainsi que la possibilité de se rendre à la station Bourse en prenant le RER+E jusqu'à Saint-Lazare et en prenant la ligne trois à partir de là. L'appel est résolu car le client obtient les informations demandées et sait comment se rendre à la station Bourse."
+FR_20091112_RATP_SCD_0866,"Le client appelle pour obtenir des informations sur les cartes Orange Découverte dans la région parisienne. Il souhaite savoir ce que signifient les différentes zones (1, 2, 3, 4, 5, 6) et où elles se situent. L'agent explique que la zone 1 correspond à Paris, la zone 2 à la proche banlieue comme La Défense, et les autres zones sont des cercles concentriques autour de Paris. Le client demande des précisions sur les zones 3, 4 et 6, et l'agent explique que la zone 3 est également proche de La Défense, la zone 4 va jusqu'à Versailles, et la zone 6 couvre toute l'Île-de-France. Le client comprend que la carte Orange permet de voyager dans toutes les zones et remercie l'agent. La résolution de l'appel est réussie car le client a obtenu les informations demandées."
+FR_20091112_RATP_SCD_0987,"Le client appelle pour obtenir des informations sur la façon de recharger son passe Navigo, qu'elle avait perdu mais qui lui a été restitué. Elle souhaite savoir si elle doit se rendre en agence ou si elle peut le faire dans le métro. Elle mentionne également qu'elle est étudiante et qu'elle a souscrit à un abonnement Imagine+R. L'agent lui explique qu'elle doit se rendre à une borne dans le métro pour recharger son passe et lui demande si elle a reçu un courrier de Imagine+R. Le client répond que non, elle n'a rien reçu. L'agent lui indique alors qu'elle peut se rendre à un guichet pour vérifier si sa demande de recharge a été prise en compte. Le client demande si elle peut recharger son passe immédiatement, même si elle n'a pas fait de demande préalable. L'agent explique que cela peut se faire rapidement une fois qu'elle se rendra au guichet. Le client demande également si elle a besoin de sa carte de crédit pour recharger son passe, et l'agent lui précise que non, seule sa carte Navigo est nécessaire. Le client mentionne qu'elle avait appelé précédemment et qu'on lui avait dit de se rendre en agence, mais l'agent explique que cela peut être dû au fait qu'elle avait déclaré son passe perdu. Finalement, le client remercie l'agent et met fin à l'appel. 
+
+Le problème principal de l'appel est la recharge du passe Navigo. Les sous-problèmes incluent la perte et la restitution du passe, la nécessité de se rendre en agence ou à une borne pour le recharger, et la question de savoir si une demande préalable est nécessaire. L'appel n'a pas résolu le problème du client, car elle n'a pas encore rechargé son passe."
+FR_20091112_RATP_SCD_0348,"Le client appelle pour signaler la perte d'un porte-document contenant des documents médicaux dans un autobus. Le client précise qu'il y a son nom sur le porte-document, mais pas son adresse. L'agent demande à épeler le nom du client et confirme qu'ils n'ont rien enregistré correspondant à la description donnée. L'agent conseille au client de se rendre aux objets trouvés situés au 36 rue des Morillons dans une semaine. Le client exprime sa frustration et suggère que quelqu'un aurait pu garder le porte-document et ne donner que les documents médicaux. L'agent répète qu'ils n'ont rien trouvé et conclut l'appel en souhaitant une bonne journée au client.
+
+Le problème principal de l'appel est la perte du porte-document contenant des documents médicaux. Les sous-problèmes incluent la recherche du porte-document dans les enregistrements de l'entreprise et la suggestion du client selon laquelle quelqu'un aurait pu garder le porte-document et ne donner que les documents médicaux. L'appel n'est pas résolu car l'agent n'a pas trouvé le porte-document."

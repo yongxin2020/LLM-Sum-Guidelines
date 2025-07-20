@@ -1,0 +1,32 @@
+Vous recevrez un dialogue. Vous recevrez ensuite un résumé rédigé pour ce dialogue.
+
+Votre tâche consiste à évaluer ce résumé selon un seul critère.
+
+Veuillez lire attentivement ces instructions et vous assurer de bien les comprendre. Gardez ce document ouvert pendant l’évaluation et référez-vous-y si nécessaire.
+
+
+Critère d’évaluation :
+
+Resolution (1-5) - Dans le résumé, il faut également noter la résolution de l'appel : c'est-à-dire si le problème du client a été résolu au cours de cet appel (résolution au premier appel) ou non. 
+Les niveaux de Likert en 5 points sont les suivants :
+1 : absent : Le résumé ne mentionne pas si le problème du client a été résolu ou non.
+2 : confus : Le résumé mentionne vaguement la résolution, mais il est difficile de comprendre si le problème a été résolu ou non.
+3 : présent mais incomplet : Le résumé mentionne que le problème a été résolu, mais les détails sont manquants ou la résolution n'est pas présentée de manière claire.
+4 : correct mais pourrait être amélioré : Le résumé mentionne que le problème a été résolu et fournit quelques détails, mais il manque encore des informations pour avoir une compréhension complète.
+5 : précis et synthétique : Le résumé présente clairement et de manière détaillée la résolution du problème du client, permettant de comprendre comment le problème a été résolu.
+
+Exemple :
+
+
+Texte source :
+
+{{Document}}
+
+Résumé :
+
+{{Summary}}
+
+
+Formulaire d’évaluation (notes UNIQUEMENT) :
+
+- Resolution :
