@@ -9,12 +9,13 @@
 3. [Experiments](#experiments)  
    - 3.1 [Data Preparation](#data_preparation)  
    - 3.2 [Prompt Design](#prompt_design)  
-   - 3.3 [DDialogSum Summarization](#ds_dialogsum)  
+   - 3.3 [DialogSum Summarization](#ds_dialogsum)  
    - 3.4 [DECODA-FR Summarization](#ds_decoda_fr)  
 4. [Results](#results)  
    - 4.1 [Quantitative Evaluation](#quantitative_evaluation)
    - 4.2 [Example Analysis](#example_analysis)
    - 4.3 [Human Evaluation](#human_evaluation)
+   - 4.4 [Summary Length Analysis](#length_analysis)
 5. [Citation](#citation)  
 
 ****
@@ -209,12 +210,14 @@ Run the following to aggregate and display human evaluation scores:
 python ./scripts/human_eval_scores.py
 ```
 
-**Processing Annotated Summaries**:
+**Processing Annotated Summaries**:  
 To process human evaluation annotations and save enhanced evaluation samples with annotation scores:
 ```bash
 python ./scripts/human_eval_save_annotated_json.py
 ```
 Processed annotated evaluation samples are saved in: `./results/human_annotations_decoda/decoda_eval_samples_annotated.json`
+
+<span id='length_analysis'/>
 
 ### Summary Length Analysis
 ```bash
@@ -223,8 +226,7 @@ python ./scripts/summ_length_analysis.py --dataset dialogsum --model_names gpt-4
 
 <span id='citation'/>
 
-## Citation:
-
+## 5. Citation <a href='#citation'>[Back to Top]</a>
 If you found this useful in your research, please kindly cite using the following BibTeX:
 ```
 @misc{zhou2025gptmodelsfollowhuman,
