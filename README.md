@@ -1,4 +1,4 @@
-# Code for paper "Can GPT models Follow Human Summarization Guidelines? A Study for Targeted Communication Goals" [https://arxiv.org/abs/2310.16810]
+# Can GPT models Follow Human Summarization Guidelines? A Study for Targeted Communication Goals
 
 ****
 <span id='content'/>
@@ -9,8 +9,7 @@
 3. [Experiments](#experiments)  
    - 3.1 [Data Preparation](#data_preparation)  
    - 3.2 [Prompt Design](#prompt_design)  
-   - 3.3 [DialogSum Summarization](#ds_dialogsum)  
-   - 3.4 [DECODA-FR Summarization](#ds_decoda_fr)  
+   - 3.3 [Summarization Experiments (DialogSum & DECODA-FR)](#summarization_experiments)  
 4. [Results](#results)  
    - 4.1 [Quantitative Evaluation](#quantitative_evaluation)
    - 4.2 [Example Analysis](#example_analysis)
@@ -23,7 +22,7 @@
 <span id='introduction'/>
 
 ## 1. Introduction <a href='#content'>[Back to Top]</a>
-This repository accompanies the paper *"Can GPT models Follow Human Summarization Guidelines? A Study for Targeted Communication Goals"*, which investigates the ability of prompt-driven LLMs (e.g., ChatGPT, GPT-4) to adhere to human guidelines for dialogue summarization. Experiments were conducted on:  
+This repository accompanies the paper *"Can GPT models Follow Human Summarization Guidelines? A Study for Targeted Communication Goals"* [https://arxiv.org/abs/2310.16810], which investigates the ability of prompt-driven LLMs (e.g., ChatGPT, GPT-4) to adhere to human guidelines for dialogue summarization. Experiments were conducted on:  
 - **DialogSum**: English social conversations  
 - **DECODA-FR**: French call center interactions  
 
@@ -73,7 +72,7 @@ pip install -r requirements.txt
 
 <span id='data_preparation'/>
 
-### Data Preparation
+### 3.1 Data Preparation
 
 #### Datasets
 - *DECODA*: Download from [MultiLing 2015 -- CCCS data download](https://pageperso.lis-lab.fr/benoit.favre/cccs/) (test set requires author approval).
@@ -91,7 +90,7 @@ You can save the data downloaded (and preprocessed) in the [data](./data) repo.
 
 <span id='prompt_design'/>
 
-### Prompt Design
+### 3.2 Prompt Design
 Prompts include:
 1. **Baseline**: Word-length constraints.
 2. **Guideline_Original**: Human summarization guidelines.
@@ -99,10 +98,12 @@ Prompts include:
 
 Refer to [OpenAI’s prompt guide](https://platform.openai.com/docs/guides/text-generation?lang=python#building-prompts) for design principles.
 
-<span id='ds_dialogsum'/>
+<span id='summarization_experiments'/>
 
-### DialogSum Summarization
+### 3.3 Summarization Experiments (DialogSum & DECODA-FR)
+#### Direct Summarization
 ```bash
+# DialogSum (English)
 python ./scripts/openapi_summarization.py \
     --dataset dialogsum  \
     --model_name gpt-4o \
@@ -111,10 +112,8 @@ python ./scripts/openapi_summarization.py \
     --api_key YOUR_KEY
 ```
 
-<span id='ds_decoda_fr'/>
-
-### DECODA-FR Summarization
 ```bash
+# DECODA-FR (French)
 python ./scripts/openapi_summarization.py \
     --dataset decoda \
     --model_name gpt-4o \
@@ -123,8 +122,9 @@ python ./scripts/openapi_summarization.py \
     --api_key YOUR_KEY
 ```
 
-### Two-Step Prompting (Guideline → Length)
+#### Two-Step Prompting (Guideline → Length)
 ```bash
+# dialogsum or decoda
 python ./scripts/step2.py \
     --dataset decoda \
     --model_name gpt-4o \
@@ -133,7 +133,7 @@ python ./scripts/step2.py \
     --api_key YOUR_KEY
 ```
 
-### Experiments with BART-based models
+#### Experiments with BART-based models
 For further details, please refer to the previous articles cited for fine-tuning BARThez on the DECODA dataset, and for fine-tuning BART-Large on the DialogSum dataset.
 
 <span id='results'/>
@@ -142,7 +142,7 @@ For further details, please refer to the previous articles cited for fine-tuning
 
 <span id='quantitative_evaluation'/>
 
-### Quantitative Evaluation
+### 4.1 Quantitative Evaluation
 #### ROUGE & BERTScore
 ```bash
 # Compute ROUGE/BERTScore for DECODA (GPT-3.5)
@@ -179,7 +179,7 @@ More details see [./Guideline-Eval/README.md](./Guideline-Eval/README.md).
 
 <span id='example_analysis'/>
 
-### Example Analysis
+### 4.2 Example Analysis
 Identify summaries with low ROUGE but high BERTScore:
 ```bash
 python ./scripts/example_analysis.py --dataset dialogsum --prompt_type Baseline --model gpt-4
@@ -191,7 +191,7 @@ Outputs:
 
 <span id='human_evaluation'/>
 
-### Human Evaluation
+### 4.3 Human Evaluation
 **Dataset**: 20 DECODA dialogues (10 shortest + 10 longest)
 
 **Metrics** (5-point Likert scale):
@@ -219,7 +219,7 @@ Processed annotated evaluation samples are saved in: `./results/human_annotation
 
 <span id='length_analysis'/>
 
-### Summary Length Analysis
+### 4.4 Summary Length Analysis
 ```bash
 python ./scripts/summ_length_analysis.py --dataset dialogsum --model_names gpt-4o gpt-4 gpt-3.5-turbo --prompt_types Baseline Guideline_Original_Annotator Guideline_Original_Annotator_ToBaseline --plot
 ```
@@ -227,16 +227,26 @@ python ./scripts/summ_length_analysis.py --dataset dialogsum --model_names gpt-4
 <span id='citation'/>
 
 ## 5. Citation <a href='#citation'>[Back to Top]</a>
-If you found this useful in your research, please kindly cite using the following BibTeX:
+If you find this work useful, please cite our paper using the following BibTeX:
+
 ```
-@misc{zhou2025gptmodelsfollowhuman,
-      title={Can GPT models Follow Human Summarization Guidelines? A Study for Targeted Communication Goals}, 
-      author={Yongxin Zhou and Fabien Ringeval and François Portet},
-      year={2025},
-      eprint={2310.16810},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2310.16810}, 
+@inproceedings{zhou-etal-2025-gpt,
+    title = "Can {GPT} models Follow Human Summarization Guidelines? A Study for Targeted Communication Goals",
+    author = "Zhou, Yongxin  and
+      Ringeval, Fabien  and
+      Portet, Fran{\c{c}}ois",
+    editor = "Flek, Lucie  and
+      Narayan, Shashi  and
+      Phương, L{\^e} Hồng  and
+      Pei, Jiahuan",
+    booktitle = "Proceedings of the 18th International Natural Language Generation Conference",
+    month = oct,
+    year = "2025",
+    address = "Hanoi, Vietnam",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.inlg-main.17/",
+    pages = "249--273",
+    abstract = "This study investigates the ability of GPT models (ChatGPT, GPT-4 and GPT-4o) to generate dialogue summaries that adhere to human guidelines. Our evaluation involved experimenting with various prompts to guide the models in complying with guidelines on two datasets: DialogSum (English social conversations) and DECODA (French call center interactions). Human evaluation, based on summarization guidelines, served as the primary assessment method, complemented by extensive quantitative and qualitative analyses. Our findings reveal a preference for GPT-generated summaries over those from task-specific pre-trained models and reference summaries, highlighting GPT models' ability to follow human guidelines despite occasionally producing longer outputs and exhibiting divergent lexical and structural alignment with references. The discrepancy between ROUGE, BERTScore, and human evaluation underscores the need for more reliable automatic evaluation metrics."
 }
 ```
 
